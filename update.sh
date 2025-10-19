@@ -3,7 +3,10 @@
 readonly OUT_DIR=./vasaris/
 readonly URL_LIST_FILE=./url_list.txt
 
-wget -N --input-file $URL_LIST_FILE -P $OUT_DIR --no-if-modified
+wget -N --input-file $URL_LIST_FILE -P $OUT_DIR \
+    --no-if-modified \
+    --user-agent="Mozilla" \
+    --tries=5
 
 if ! git diff-index --quiet HEAD --; then
     COMMIT_MESSAGE=$(git diff --shortstat)
