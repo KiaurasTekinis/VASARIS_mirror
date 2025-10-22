@@ -55575,10 +55575,13 @@ telegram-channel.top
 telegram-cnm.com
 telegram-cns.com
 telegram-dlp.com
+telegram-ec.com
 telegram-edr.com
 telegram-eim.com
+telegram-ep.com
 telegram-eu.com
 telegram-eur.com
+telegram-ge.org
 telegram-gg.com
 telegram-iam.com
 telegram-ids.com
@@ -55588,10 +55591,14 @@ telegram-irm.com
 telegram-itsec.com
 telegram-mfa.com
 telegram-ndr.com
+telegram-ne.com
 telegram-nl.icu
 telegram-nms.com
 telegram-noc.com
 telegram-oc.org
+telegram-op.com
+telegram-ou.com
+telegram-our.com
 telegram-pki.com
 telegram-pol.com
 telegram-premium-get.com
@@ -55601,6 +55608,7 @@ telegram-re.org
 telegram-sa.com
 telegram-sa.org
 telegram-sc.com
+telegram-se.com
 telegram-si.com
 telegram-soc.com
 telegram-soc.org
