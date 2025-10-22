@@ -12142,7 +12142,11 @@ com-oumn.top
 com-ourdelivery.shop
 com-ourshipping.shop
 com-overalltransportation.shop
+com-pa.cfd
 com-pack.cfd
+com-pak.cfd
+com-pak.qpon
+com-pak.uno
 com-partnership.shop
 com-paymentlink.shop
 com-paymentservice.shop
@@ -17613,7 +17617,6 @@ e-vmi.ph
 e-vmi.shop
 e-vmi.today
 e-vmi.ws
-e-vmlt.valstybine-mokesciu-edsvml.space
 e-voteig.com
 e-voteonline.com
 e-world.cfd
