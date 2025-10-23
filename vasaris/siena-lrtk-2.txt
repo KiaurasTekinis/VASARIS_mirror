@@ -73,6 +73,7 @@ filmai32.pro
 filmai35.pro
 filmai47.vip
 filmai49.pro
+filmai50.top
 filmai51.in
 filmai55.top
 filmai56.pro
@@ -149,7 +150,6 @@ filmux.to
 filmux.top
 filmuxas.com
 filmx.my
-fimai50.top
 fintv.top
 fmovie.watch
 fmovies.cafe
