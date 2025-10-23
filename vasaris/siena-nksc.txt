@@ -45734,8 +45734,6 @@ prisijungimas.top
 prisijungti-e-bauda.top
 prisijungti-edsevmti.firebaseapp.com
 prisijungti-edsevmti.web.app
-prisijungti-evlmti-overview.firebaseapp.com
-prisijungti-evlmti-overview.web.app
 prisijungti-prie-evmlt-sistemu.firebaseapp.com
 prisijungti-prie-evmlt-sistemu.web.app
 prisijungti.co
@@ -45744,10 +45742,6 @@ prisijungti.epaslaugos.lt-portal.co
 prisijungti.net
 prisijungti.seb-ib.net
 prisijungti.top
-prisijungtievlmti-deklaravimas.firebaseapp.com
-prisijungtievlmti-deklaravimas.web.app
-prisijungtievlmti-overview.firebaseapp.com
-prisijungtievlmti-overview.web.app
 prisijunkite.com
 prisijunti-e-bauda.top
 prismark.ink
@@ -59479,6 +59473,7 @@ uzakymos-patvirtinimos17561.cfd
 uzakymos-patvirtinimos80812.cfd
 uzakymos-patvirtino104735.cfd
 uzakymos-patvitinimos160310.cfd
+uzakymos-safedeal1532.cfd
 uzakymos-safedeal8081.cfd
 uzakymos-safedeal8082.cfd
 uzakymos-safedeal8083.cfd
@@ -60842,7 +60837,6 @@ vippay88.com
 vipps.icu
 viprains.com
 vipsbonus.site
-vipseblt.in.net
 vipva.org
 vipvisa.icu
 viral808.icu
@@ -64077,7 +64071,6 @@ yandexkit.pro
 yandreas-cohen.world
 yandrella.art
 yandrix.xyz
-yangbu.top
 yangleduo003.com
 yangleduo004.com
 yangleduo005.com
