@@ -1917,6 +1917,7 @@ aanslagbiljet.net
 aanslagbiljet.org
 aaoin.com
 aaoll.com
+aardlig.com
 aarelteas.com
 aarke.shop
 aarmadax.lol
@@ -18599,6 +18600,7 @@ eleglcm.icu
 eleglom.cfd
 eleglom.icu
 elegrcm.icu
+elehrit.info
 elektriskbrandstofpumpe.com
 elektriskbranslepump.com
 elektrium.pro
@@ -31333,8 +31335,6 @@ koinlegiondger.com
 koinlyinc.com
 koinpod.com
 koinv1darklast.com
-kojelauta-17f61.firebaseapp.com
-kojelauta-17f61.web.app
 kok33lazbauf.today
 kokok.cc
 kokoro-invest.com
@@ -39073,7 +39073,6 @@ myv73bjr.life
 myvirus.fun
 myweben-us-aroma360.com
 mywlfc.com
-myworkspace05824.myclickfunnels.com
 myworkspace7da0e.myclickfunnels.com
 myworkspacedc94b.myclickfunnels.com
 myworkspacee8877.myclickfunnels.com
@@ -46456,8 +46455,6 @@ prisijungimas.ltd
 prisijungimas.net
 prisijungimas.top
 prisijungti-e-bauda.top
-prisijungti-edsevmti.firebaseapp.com
-prisijungti-edsevmti.web.app
 prisijungti-prie-evmlt-sistemu.firebaseapp.com
 prisijungti-prie-evmlt-sistemu.web.app
 prisijungti.co
@@ -54392,8 +54389,6 @@ sso-mvm.firebaseapp.com
 sso-mvm.web.app
 sso-mvmeds.firebaseapp.com
 sso-mvmeds.web.app
-sso-mvmi-2fmanovmlt.firebaseapp.com
-sso-mvmi-2fmanovmlt.web.app
 sso-mvmlt-esistema.firebaseapp.com
 sso-mvmlt-esistema.web.app
 sso-mvmlt-manoevmltklientu.firebaseapp.com
@@ -55831,6 +55826,7 @@ talabiyeh.com
 talamalami.shop
 talanton.lat
 talaria.cfd
+talegram-cl.org
 talegrem.cc
 taleno.cfd
 talent-field.icu
@@ -56448,6 +56444,7 @@ telegram-eu.com
 telegram-eur.com
 telegram-ge.org
 telegram-gg.com
+telegram-hb.org
 telegram-iam.com
 telegram-ids.com
 telegram-ids.org
@@ -57314,8 +57311,6 @@ tikylyi.info
 tila-nest.shop
 tilecraft.icu
 tilesandstyles.co.zw
-tili-lt.firebaseapp.com
-tili-lt.web.app
 tilkomgita.online
 tilttolo.online
 timarasolutions.com
