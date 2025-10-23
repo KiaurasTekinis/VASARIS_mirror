@@ -56450,9 +56450,11 @@ telegram-gg.com
 telegram-iam.com
 telegram-ids.com
 telegram-ids.org
+telegram-ig.com
 telegram-ips.com
 telegram-irm.com
 telegram-itsec.com
+telegram-ix.com
 telegram-mfa.com
 telegram-ndr.com
 telegram-ne.com
