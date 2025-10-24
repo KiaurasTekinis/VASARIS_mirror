@@ -6,6 +6,7 @@ cigslt.fun
 cigslt.io
 cigslt.pro
 cigslt.shop
+cigslt.site
 cigslt.store
 ecodumas.com
 ecodumas.lt
@@ -18,3 +19,4 @@ saltswitch.lt
 snusmart.com
 vapesale24.com
 vapesale24.store
+vapestore.eu
