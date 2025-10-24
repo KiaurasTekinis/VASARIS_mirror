@@ -14789,7 +14789,6 @@ dekisoalo.cfd
 deklaravimaedslt-overview.web.app
 deklaravimas-vmi.digital
 deklaravimas-vmi.icu
-deklaravimas-vmi.today
 deklaravimas-vml.icu
 dekrayat.com
 deksterfans.online
@@ -14857,7 +14856,6 @@ delfiineews.site
 delfiixnews.shop
 delfijinews.shop
 delfijnew.site
-delfikaunas.com
 delfikaunas.lt
 delfikomentars.lv
 delfikratos.lt
@@ -14869,18 +14867,15 @@ delfikriminala.eu
 delfikriminalai.com
 delfikriminalai.in
 delfikriminalai.ltd
-delfikriminalas.com
 delfikriminalas.lt
 delfikriminali.lat
 delfikriminali.lv
 delfikriminals.lv
-delfikriminalzinas.com
 delfilaida.lt
 delfilaisve.com
 delfilietas.eu
 delfilietas.live
 delfilietas.lv
-delfilietuvai.com
 delfilions.shop
 delfilive.lt
 delfilnew.online
@@ -14901,10 +14896,8 @@ delfinaujienos.ltd
 delfine.com.br
 delfineews.shop
 delfineewss.site
-delfinelaime.in
 delfinelaime.live
 delfinelaime.lv
-delfinelaimes.com
 delfinelaimes.lt
 delfinelaimes.ltd
 delfines.info
@@ -14926,8 +14919,6 @@ delfinoziegumi.lv
 delfins.site
 delfinz.net
 delfinz.org
-delfio.live
-delfiokomanda.eu
 delfipagalba.lt
 delfipagrobimas.com
 delfipasaulis.com
@@ -33862,7 +33853,6 @@ lrwxm.asia
 lrxmail.online
 lrxqf.top
 lryfya.com
-lrytas.li
 ls11dom.shop
 ls666.sbs
 lsanee.lol
@@ -59082,8 +59072,6 @@ tv3nelaimes.lt
 tv3operacija.lt
 tv3radinys.lt
 tv3savaite.lt
-tv3siandien.com
-tv3siandien.pro
 tv3televizija.eu
 tv3vilniui.lt
 tv3vilniuje.lt
@@ -59091,7 +59079,6 @@ tv3vilnius.eu
 tv3vilnius.lt
 tv3vilnius.ltd
 tv3zinioms.lt
-tv3zinios.com
 tv3zinios.lt
 tv3zmones.lt
 tv6yoi.icu
@@ -61563,7 +61550,6 @@ villasolar.homes
 villusive.monster
 vilnius-mada.com
 vilnius-novik.com
-vilniusbutikas.com
 vilniuscredit.com
 vilniushotels.net
 vilo-kent.shop
@@ -62055,6 +62041,7 @@ vmijab2hbu.top
 vmioaszno.cfd
 vmipazeidimai.com
 vmiphoneoficial.com
+vmiprisijungti9.com
 vmitconsulting.com
 vmiuniparkbaudos.com
 vmixstore.com.br
