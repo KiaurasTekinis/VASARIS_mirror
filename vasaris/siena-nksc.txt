@@ -61639,6 +61639,7 @@ vintedspc.shop
 vintedspf.shop
 vintedsph.shop
 vintedverification.digital
+vintedverification.info
 vintedzgb.shop
 vinteresed.club
 vintlgvard.pro
