@@ -30427,8 +30427,6 @@ kaylaca.icu
 kayn-777.com
 kayrostreaming.com
 kaytiesblog.com
-kayttaja-1df96.firebaseapp.com
-kayttaja-1df96.web.app
 kayu-surfboards.com
 kayukayuid.com
 kazar.myshoplaza.com
@@ -46337,8 +46335,6 @@ prisijungimas.ltd
 prisijungimas.net
 prisijungimas.top
 prisijungti-e-bauda.top
-prisijungti-prie-evmlt-sistemu.firebaseapp.com
-prisijungti-prie-evmlt-sistemu.web.app
 prisijungti.co
 prisijungti.com
 prisijungti.epaslaugos.lt-portal.co
@@ -46466,8 +46462,6 @@ professionaltravelpros.icu
 professionaltravelpulse.icu
 professionalvacay.icu
 proficient.top
-profiilin.firebaseapp.com
-profiilin.web.app
 profilaktualisierung.com
 profile-coinbase.com
 profile.notification.best
@@ -54289,7 +54283,6 @@ sso-ib-eluminor-lt.web.app
 sso-ib-lumi-lt-aspx-overview.web.app
 sso-ib-lumi-lt-aspx.web.app
 sso-management.com
-sso-manoevmlt-mvmlt.firebaseapp.com
 sso-mvim-locale-lt-overview.firebaseapp.com
 sso-mvim-locale-lt-overview.web.app
 sso-mvm-edslt.firebaseapp.com
@@ -54300,7 +54293,6 @@ sso-mvmeds.firebaseapp.com
 sso-mvmeds.web.app
 sso-mvmlt-esistema.firebaseapp.com
 sso-mvmlt-esistema.web.app
-sso-mvmlt-manoevmltklientu.firebaseapp.com
 ssocliauth-56-rdydfy-56-trkgh-dmitri17.replit.app
 ssoevmlt-dashboard-overview.firebaseapp.com
 ssoevmlt-dashboard-overview.web.app
@@ -62053,7 +62045,6 @@ vml.today
 vmlhealth.com
 vmlpazeidimai.com
 vmltr6.top
-vmltt.valstybine-mokesciu-edsvml.space
 vmmnmmn.shop
 vmnmyx.asia
 vmogne.top
