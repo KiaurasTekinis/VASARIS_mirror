@@ -42193,6 +42193,7 @@ pay-3ds-shops.online
 pay-863.pro
 pay-css-capital.online
 pay-csscapital.online
+pay-delivery.icu
 pay-dostavka.shop
 pay-ld77434.shop
 pay-ld77838.shop
@@ -44463,7 +44464,6 @@ postk.live
 postlab.cfd
 postlab.homes
 postlabs.shop
-postlba.top
 postlch.live
 postlf.help
 postlpexpre.icu
@@ -60124,7 +60124,6 @@ vmi-portal.ph
 vmi-portal.shop
 vmi-portal.top
 vmi-portal.ws
-vmi-portalas.icu
 vmi-portals-e.com
 vmi-prisijungti.top
 vmi-pvm-baudas.in
