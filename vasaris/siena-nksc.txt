@@ -4114,6 +4114,7 @@ applinetv.icu
 applineyu.icu
 applink.support
 applse.cfd
+apply-eta-uk.uk
 apply-lhpireland.com
 apply-linea.com
 apply-virtuals.com
@@ -36605,7 +36606,6 @@ mobillrecharg.com
 mobilltopup.com
 mobillyy.lat
 mobilrefilles.com
-mobilusisseb.com
 mobily-sa.icu
 mobla.pro
 moblie-facebook.click
