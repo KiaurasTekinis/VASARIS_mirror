@@ -15942,6 +15942,7 @@ dgt-es-pagar.icu
 dgt-es-pager.icu
 dgt-es.qpon
 dgt-initio.app
+dgt.international
 dgtavis.click
 dgtaviso.click
 dgtckgm.ink
@@ -15958,6 +15959,7 @@ dgthrtm.qpon
 dgtjp6mh526g.today
 dgtnjyt.qpon
 dgtnoti.click
+dgtparking.co
 dgtparking.com
 dgtparking.eu
 dgtparking.net
