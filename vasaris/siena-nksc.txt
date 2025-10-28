@@ -17418,6 +17418,7 @@ dpd-ogv.com
 dpd-order-info.cfd
 dpd-order.cfd
 dpd-ordercz.cfd
+dpd-pd.click
 dpd-pgdn.help
 dpd-pl.cfd
 dpd-platba.cfd
@@ -24059,6 +24060,8 @@ gbgudif.info
 gbhfdn.shop
 gbjerseyshop.com
 gbjhptxt.xyz
+gbma.help
+gbmb.help
 gbnjsdkj412.sbs
 gbob4ik.site
 gbobik5.site
@@ -36274,6 +36277,8 @@ ltpotf1.com
 ltptqvznqjt.shop
 ltpx3.info
 ltpxqk.com
+ltpza.help
+ltpzb.help
 ltqiwsn.shop
 ltrancee.lol
 ltrasimeno.lol
@@ -43582,6 +43587,7 @@ omnivox.bond
 omniwaiveprime.com
 omniwara.com
 omniwaveprime.co.uk
+omnix-wave.world
 omodicum.monster
 omoosq.top
 omoqv.info
