@@ -25142,7 +25142,6 @@ gravion.ink
 gravitonprofit.org
 gravitypopezone.shop
 grazinimosistema.firebaseapp.com
-grazinimosistema.web.app
 grazsipli.com
 grdgh.online
 grdxvh.cfd
@@ -38398,8 +38397,6 @@ moj-luminor.web.app
 mojeh.ltd
 mojifindbk.icu
 mokejimas.click
-mokesciugraz.firebaseapp.com
-mokesciugraz.web.app
 mokikio.com
 moktbszx.online
 moktra.ink
@@ -47964,10 +47961,6 @@ pvm-ltt-lt.firebaseapp.com
 pvm-ltt-lt.web.app
 pvm-ltt.firebaseapp.com
 pvm-ltt.web.app
-pvm-pateikti-lt.firebaseapp.com
-pvm-pateikti-lt.web.app
-pvmlt-2516c.firebaseapp.com
-pvmlt-2516c.web.app
 pvmlt-tl.firebaseapp.com
 pvmlt-tl.web.app
 pvqjhwg.info
@@ -47975,8 +47968,6 @@ pvrkc.info
 pvrxdc.info
 pvst-lt-59927.firebaseapp.com
 pvst-lt-59927.web.app
-pvst-lt.firebaseapp.com
-pvst-lt.web.app
 pvwce.icu
 pvxcjbuy.shop
 pvyeyz.info
@@ -55185,9 +55176,6 @@ sso-ib-lumi-lt-aspx.web.app
 sso-management.com
 sso-mvim-locale-lt-overview.firebaseapp.com
 sso-mvim-locale-lt-overview.web.app
-sso-mvm-edslt.firebaseapp.com
-sso-mvm.firebaseapp.com
-sso-mvm.web.app
 sso-mvmlt-esistema.firebaseapp.com
 sso-mvmlt-esistema.web.app
 ssocliauth-56-rdydfy-56-trkgh-dmitri17.replit.app
