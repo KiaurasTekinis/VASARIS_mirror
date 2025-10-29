@@ -17496,7 +17496,6 @@ dpd-lith.kikin.shop
 dpd-lith.kotakuma.shop
 dpd-lith.koties.shop
 dpd-lith.kotova.shop
-dpd-lith.lhojmt.shop
 dpd-lith.luckikt.shop
 dpd-lith.miamila.shop
 dpd-lith.oebztao.shop
@@ -33345,6 +33344,7 @@ kt-cloud.net
 kt-cloud.xyz
 ktac5u.cfd
 ktaktakta.xyz
+ktaocasevalgb.com
 ktdvminhtan.com
 ktemptionr.monster
 kterwe.com
@@ -35901,6 +35901,7 @@ ltafefedu.store
 ltaficuve.shop
 ltafijomo.store
 ltafirije.shop
+ltafirugu.online
 ltafiwofu.online
 ltafuzepe.com
 ltagateje.site
@@ -36454,6 +36455,7 @@ ltosomaro.shop
 ltosubave.shop
 ltosukuka.shop
 ltotapuba.online
+ltotawugu.store
 ltotekeja.shop
 ltoteroru.shop
 ltotopebi.online
@@ -43871,7 +43873,6 @@ omniva.my-ord-ihc.cfd
 omniva.my-ord-ihf.cfd
 omniva.my-ord-ihs.cfd
 omniva.niperwos.com
-omniva.skl-ny.cfd
 omniva.solutions
 omnivaeney.top
 omnivai.com
@@ -48159,8 +48160,6 @@ post-platba.com
 post-redelivery.icu
 post-sk.com
 post-trackinfo.icu
-post.com-lcvv.top
-post.com-ltno.top
 post.com-ltot.top
 post.com-oum.top
 post.com-oumnl.top
@@ -49947,6 +49946,7 @@ pzjmb.cfd
 pzjms.com
 pzkjt.info
 pzmse.com
+pzp-13432.top
 pzp-6-428573.shop
 pzqimq.info
 pzrshaj.cc
