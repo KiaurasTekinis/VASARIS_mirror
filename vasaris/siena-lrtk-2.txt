@@ -55,6 +55,7 @@ filmai1.in
 filmai1.vip
 filmai10.in
 filmai10.vip
+filmai100.vip
 filmai12.pro
 filmai123.vip
 filmai13.com
@@ -64,6 +65,7 @@ filmai17.in
 filmai18.com
 filmai19.com
 filmai19.pro
+filmai19.vip
 filmai2.pro
 filmai20.top
 filmai20.vip
@@ -392,6 +394,7 @@ ytsmx.live
 ytsmx.mx
 ytsmx.one
 ytstv.fun
+zeromovies.top
 ziuri.cc
 ziuri.me
 ziuri.net
