@@ -54474,6 +54474,7 @@ sblrq.app
 sblt-login.in.net
 sblt-promos1te.com
 sblt.in.net
+sblt.life
 sblt.ru
 sblt.xyz
 sbltpromos.in.net
@@ -66110,7 +66111,6 @@ vmi-portal.top
 vmi-portal.ws
 vmi-portals-e.com
 vmi-prisijungti.top
-vmi-pvm-baudas.in
 vmi-service.com
 vmi-service.info
 vmi-sevisas.xyz
