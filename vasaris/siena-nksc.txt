@@ -17978,6 +17978,7 @@ e-paslaugas.elektroninis.co
 e-pointapp.com
 e-pointhub.com
 e-pointlt.com
+e-pointltapp.com
 e-prisijungimas.co
 e-prisijungti.top
 e-prisijunkite.com
@@ -38562,7 +38563,6 @@ muntr1a.com
 munyjau.com
 mupel.cfd
 muraaik.icu
-murelektronik.com
 murexo.com
 murid-akademija.eu
 murodemezcal.com
