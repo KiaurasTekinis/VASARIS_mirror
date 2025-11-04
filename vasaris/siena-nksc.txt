@@ -33980,6 +33980,7 @@ ltivafife.site
 ltivedifu.shop
 ltivelice.shop
 ltivetofa.online
+ltivirene.store
 ltivopile.shop
 ltivumawi.shop
 ltiwadozi.shop
@@ -41008,7 +41009,6 @@ omniva.liversope.com
 omniva.lt-privatus.pristatmas.com
 omniva.lt-privatus.pritatymas.com
 omniva.lt-privatus.siuntimo.com
-omniva.lt-siuntas.stebeti.info
 omniva.my-iks.cfd
 omniva.my-ord-ihc.cfd
 omniva.my-ord-ihf.cfd
@@ -45035,8 +45035,6 @@ postad.live
 postae.info
 postafacil.online
 postafax.com
-postageserve.life
-postageserve.link
 postagov.click
 postaiatrack.help
 postaing.club
