@@ -5560,6 +5560,7 @@ aupost-gbcworlda.top
 aupost-gbcworldb.top
 aupost-submitaa.top
 aupost-submitbb.top
+aupostsd.live
 auracraft.live
 auralibit.org
 auramelonpro.info
@@ -5593,6 +5594,7 @@ ausleseb.site
 auspaousd.com
 auspost-au.help
 auspostd.top
+ausposts.live
 ausprofiles.icu
 aussie-play.com
 austinbroker.com
@@ -12896,6 +12898,7 @@ correorses.shop
 correos-gob.cc
 correos-sv.xyz
 correosad.cc
+correoses.live
 correosespo.help
 correosgoc.cfd
 correosgov.cfd
