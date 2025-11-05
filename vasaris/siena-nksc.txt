@@ -35027,12 +35027,14 @@ lv-epakalpojumi.com
 lv-gazetahub.org
 lv-infofocus.org
 lv-informacija.net
+lv-mediastream.org
 lv-mediday24.com
 lv-mmproms.com
 lv-newsvista.org
 lv-palidzibaprotokola.net
 lv-pieslegtes.com
 lv-pieslegties29.com
+lv-pressscope.org
 lv-prommos.com
 lv-proomos.com
 lv-rekins07.com
@@ -43019,6 +43021,7 @@ parksale.shop
 parksaledeals.com
 parkside-vip.com
 parkside2025.sa.com
+parksidebigsales.vip
 parksideclub.shop
 parksidediysale.com
 parksidediytool.shop
@@ -47226,6 +47229,7 @@ qafaterki.icu
 qaffliction.lol
 qai2yg.info
 qainternelon.cfd
+qalam117.world
 qamask.cfd
 qantapoints.com
 qantas-flyer.biz
@@ -48006,6 +48010,7 @@ ramplanet.qpon
 ramyacc.com
 ramyqnq.info
 rana-bent.shop
+ranchinpress.icu
 randomdomen.online
 randomizuku.site
 randomshot.cfd
