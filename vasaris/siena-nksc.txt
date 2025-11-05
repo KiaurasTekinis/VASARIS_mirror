@@ -5665,7 +5665,6 @@ auth-eio.com
 auth-kucoin.com
 auth-lg.com
 auth-pm.help
-auth-serveronline-serv1.de
 auth-session-validveriline.de
 auth-swan.com
 auth-uphold.com
@@ -11897,7 +11896,6 @@ cnamieu.shop
 cnanevs.shop
 cnanewss.site
 cnanewssg.site
-cnax.top
 cnbooz.com
 cndsi.ltd
 cnehl.top
@@ -26727,6 +26725,7 @@ homemadebake.shop
 homenex.lol
 homepage-untilitiesemplcum.cfd
 homepagelta.com
+homepahelt.com
 homer-barter.com
 homesbyadrian.info
 homeseb.cx
