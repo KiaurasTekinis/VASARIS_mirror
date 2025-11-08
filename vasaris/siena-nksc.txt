@@ -7560,23 +7560,13 @@ bg-gl.qpon
 bg-ic.qpon
 bg-il.qpon
 bg-ip.qpon
-bg-ipack.cfd
 bg-iz.qpon
 bg-mediadays24.org
 bg-mypack.cfd
 bg-non-viagra.site
 bg-os.cfd
-bg-pacd.cfd
-bg-pacdkio.cfd
 bg-packb.cfd
-bg-packc.cfd
-bg-packj.cfd
-bg-packk.cfd
-bg-packn.cfd
-bg-packo.cfd
-bg-packv.cfd
 bg-packx.cfd
-bg-packy.cfd
 bg-packz.cfd
 bg-pl.cfd
 bg-poa.cfd
@@ -7593,9 +7583,7 @@ bg-postb.cfd
 bg-postz.cfd
 bg-pstl.cfd
 bg-pstz.cfd
-bg-xpack.cfd
 bg-yh.qpon
-bg-zpack.cfd
 bg1vxxirtbn5.today
 bg3hqp1dkgk-bxqu.cfd
 bg881.sbs
@@ -12364,7 +12352,6 @@ com-ourdelivery.shop
 com-ourshipping.shop
 com-overalltransportation.shop
 com-pa.cfd
-com-pack.cfd
 com-pak.cfd
 com-pak.qpon
 com-pak.uno
@@ -12379,7 +12366,6 @@ com-portal-secure-service-online.com
 com-processing.shop
 com-prod-wallets-edge-api.com
 com-prodelivery.shop
-com-pti.cfd
 com-ptl.cfd
 com-q.icu
 com-qcv.xyz
@@ -13580,7 +13566,6 @@ ctnhasachhanoi.com
 ctonespryat.icu
 ctopigu.com
 ctrboostx.com
-ctt.com-pti.cfd
 cttapt-pt.cfd
 cttcpt-pt.cfd
 cttept-pt.cfd
@@ -27138,6 +27123,7 @@ hotelsustainabilityinc.com
 hotemepas.com
 hotflattop.com
 hotgirls-tt.life
+hotiaugfau.com
 hotluvzone.info
 hotmaleshops.cfd
 hotpickbigdeal.shop
@@ -30949,6 +30935,7 @@ kayn-777.com
 kayrostreaming.com
 kaytiesblog.com
 kayu-surfboards.com
+kazanova.net
 kazanyouth.online
 kazatombridge.com
 kazatomcore.com
@@ -34880,6 +34867,7 @@ ltodutumi.shop
 ltofegozo.shop
 ltofepahe.shop
 ltofihize.store
+ltofimavo.store
 ltofizeji.shop
 ltofolulo.store
 ltofotodo.store
@@ -47444,7 +47432,6 @@ pt-ix.cfd
 pt-iz.cfd
 pt-news.org
 pt-oferta25917489.top
-pt-pac.cfd
 pt-post-ctt.sbs
 pt1br.site
 ptab.help
