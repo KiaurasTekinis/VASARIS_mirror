@@ -5496,8 +5496,6 @@ atmebit.com
 atmimo.com
 atmkazatom.com
 atmreas.com
-atnaujinimus.firebaseapp.com
-atnaujinimus.web.app
 atnaujink.com
 atnaujinkitedatus-sebgroup.eu
 atnaujinti.com
@@ -34228,8 +34226,6 @@ lt-portal.top
 lt-post-post.cfd
 lt-post.icu
 lt-postcde.top
-lt-postjtf.top
-lt-postwxz.top
 lt-pps.net
 lt-pressscope.org
 lt-prisijungimas.co
@@ -46750,8 +46746,6 @@ pricesguppybuyin.shop
 pricoolsoovaski35.com
 prieiga-priepaskyros.firebaseapp.com
 prieiga-priepaskyros.web.app
-prieigos-a2cf0.firebaseapp.com
-prieigos-a2cf0.web.app
 prieigos-paysera.net
 priimti-eismo-bauda.net
 priisijunk.com
@@ -55018,8 +55012,6 @@ ssketousme.shop
 sslagb.lol
 sslightb.monster
 ssmarketing.top
-sso-emivim-locale-lt-overview.firebaseapp.com
-sso-emivim-locale-lt-overview.web.app
 sso-emvimlt-locale-lt.firebaseapp.com
 sso-emvimlt-locale-lt.web.app
 sso-emvm-locale-lt-application.firebaseapp.com
