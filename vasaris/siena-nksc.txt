@@ -10443,6 +10443,7 @@ check-my-brocker.eu
 check-otello.online
 check-secret.com
 check-telegrarn.ru
+check-verify.com
 checkaccount.info
 checkavailabilityensurethatthedomainnameisnotalreadytaken.icu
 checkdnsfw.nksc.lt
@@ -14681,10 +14682,12 @@ depop-verify-identity.icu
 depop-verify.cfd
 depop-world10239.icu
 depop23727.icu
+depopdataverify.com
 depopoorder.info
 depopselltes.icu
 depopverific.cfd
 depopverification.info
+depopverlfication.com
 depopweinvre.icu
 depopweinvrx.icu
 deportivospronosticos.com
@@ -50669,6 +50672,7 @@ shirenr.shop
 shishkin-growshop1.online
 shishkin-growshop2.online
 shiuebraw.com
+shiuwebs.com
 shiveringinternet.com
 shivshaktifurniture.com
 shiysv.info
