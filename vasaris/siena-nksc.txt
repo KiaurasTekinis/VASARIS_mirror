@@ -3434,6 +3434,7 @@ allegrolokalnie-pl-oferta2853512.icu
 allegrolokalnie.cfd
 allegrolokalnie55414.cfd
 allegrolokalnie7841.cfd
+allegrolokalnieblik.cfd
 allegrolokalniepl-oferta76325649.cfd
 allevates.site
 allfinkz.info
@@ -13742,6 +13743,7 @@ daily-loop.top
 daily-motion.info
 daily-move.info
 daily-move.top
+daily-promoquiz.com
 daily-pulse.info
 daily-pulse.today
 daily-pulses.com
