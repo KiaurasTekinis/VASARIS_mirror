@@ -18216,7 +18216,6 @@ e-matrica24.hu
 e-mediapros13.world
 e-mediapros14.world
 e-mvim-locale-lt-overview.firebaseapp.com
-e-mvim-locale-lt-overview.web.app
 e-officiallogin.com
 e-paraksts.icu
 e-parasas-deklar.com
@@ -24847,6 +24846,7 @@ govnoed.pro
 govodmsk.shop
 govpn.shop
 govpo.cfd
+govpot.com
 govpotu.com
 govpou.com
 govpt.cfd
@@ -34297,6 +34297,7 @@ lt-118.site
 lt-49279monaco.com
 lt-ado.shop
 lt-apps-auth-services-prod.com
+lt-apranesimas.com
 lt-apsauga-e.net
 lt-artea.com
 lt-artealogin.com
