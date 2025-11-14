@@ -18286,7 +18286,6 @@ e-lt-paslaugos.net
 e-matrica24.hu
 e-mediapros13.world
 e-mediapros14.world
-e-mvim-locale-lt-overview.firebaseapp.com
 e-officiallogin.com
 e-paraksts.icu
 e-parasas-deklar.com
@@ -22906,6 +22905,7 @@ ftuhjbhct.icu
 ftunnel.info
 fturikole.online
 fturokole.online
+ftven-processing.com
 ftwefrwq.tech
 ftyrikole.online
 fu73j9s2m.cfd
@@ -30783,6 +30783,7 @@ jup-ag.network
 jupboxy.com
 jupdr.com
 jupexchange.click
+jupi-webchain.com
 jupiterfear.com
 juplter-dex.com
 juqegey.info
@@ -46100,6 +46101,7 @@ poied.vip
 poiicija-b.it
 poiicija-kv92719.com
 poiicija-kv92719.sbs
+poiicija.lat
 poijsjnw1021fs6y.qpon
 point-cast.com
 pointlocker-mondialrelay.com
@@ -50030,6 +50032,8 @@ ripemistake.info
 ripereward.info
 ripio-pc.com
 riplivehd.online
+ripple2026.com
+ripple26.com
 ripplelabai.com
 riptides-diastase.com
 ripudpinna.online
@@ -54693,6 +54697,7 @@ solovelypet.com
 solovesky.com
 solox.pro
 solpumptoken.com
+solrota.com
 solspot.cfd
 solstice-install.lol
 solucaoemitdasdiretadigital.sbs
@@ -55261,7 +55266,6 @@ sso-emvimlt-locale-lt.firebaseapp.com
 sso-emvimlt-locale-lt.web.app
 sso-emvm-locale-lt-application.firebaseapp.com
 sso-emvm-locale-lt-application.web.app
-sso-emvmeds-locale-lt-overview.firebaseapp.com
 sso-ib-e-luminor-lt-overview.web.app
 sso-ib-eluminor-lt.web.app
 sso-ib-lumi-lt-aspx-overview.web.app
