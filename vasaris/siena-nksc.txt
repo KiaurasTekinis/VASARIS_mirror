@@ -2446,6 +2446,7 @@ accept-ord-kworkx.shop
 accept-ords.help
 accept.co.il
 accept.kz
+accept99324.com
 acceptabletrail.com
 acceptaid.com
 acceptdashboard.mom
@@ -65247,7 +65248,6 @@ vmi.lt-skolu.com
 vmi.lt-vpm-pranesimai.net
 vmi.lt.e-baudos.com
 vmi.lt.e-prisijunkite.com
-vmi.lt.elektroniniai.net
 vmi.lt.parama.top
 vmi.ltpranesimai.co
 vmi.roik-48473736196.net
