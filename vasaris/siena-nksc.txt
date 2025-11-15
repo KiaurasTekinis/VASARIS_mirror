@@ -28698,7 +28698,6 @@ iavry.info
 ib-e-luminor-lt.web.app
 ib-lum-aspx-lt.web.app
 ib-lum-aspx-overview.web.app
-ib-mano-luminor.web.app
 ibankasb.info
 ibapezi.info
 ibaxabo.info
@@ -36226,7 +36225,6 @@ luminaryimmnk.com
 luminas.info
 luminexes.ink
 luminor-lt-klient.web.app
-luminor-lt.web.app
 luminor.live
 luminousfitessence.icu
 luminoushub.shop
@@ -55624,7 +55622,6 @@ speakersware.com
 specdee.info
 special-parcel.com
 special.maximaakcija1500.com
-specialakcija.com
 specialaware.shop
 specialcontempo.shop
 specialcreative.shop
@@ -61846,9 +61843,11 @@ unipark-it.com
 unipark-lt-bauda.top
 unipark-lt-e.top
 unipark-lt-eportal.com
+unipark-lt-eportal.top
 unipark-lt-eservice.top
 unipark-lt-eservices.top
 unipark-lt.com
+unipark.lat
 uniparka.com
 uniparkbaudos.com
 uniparkbaudosvmi.com
@@ -64592,7 +64591,6 @@ vuvra.info
 vuwply.info
 vuwucy.info
 vuxldzr.info
-vuxnuf.info
 vuxyinstitute.shop
 vuydfl.info
 vuzahawekari.cfd
