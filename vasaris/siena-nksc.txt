@@ -3562,6 +3562,7 @@ allegrolokalnie-oferta-6678.cfd
 allegrolokalnie-oferta-68987.icu
 allegrolokalnie-oferta-76873.icu
 allegrolokalnie-oferta-78768.icu
+allegrolokalnie-oferta-78788.cfd
 allegrolokalnie-oferta-87899.cfd
 allegrolokalnie-ogloszenie-54657.shop
 allegrolokalnie-pl-65876.cfd
@@ -9340,7 +9341,6 @@ brightquill.info
 brightrefine.shop
 brightriverservices.site
 brightseed.ink
-brightselectronics.com
 brightshadow.ink
 brightspremium.com
 brighttrailstudios.cfd
@@ -30542,7 +30542,6 @@ itiwusalo.shop
 itiwuwowo.shop
 itlabamlabam.shop
 itn3yc.com
-itnerpo-police.pics
 itocenica.shop
 itocigula.site
 itodeluzi.shop
@@ -47123,7 +47122,6 @@ post-m.lat
 post-m.lol
 post-nl.me
 post-nord.buzz
-post-o-app.top
 post-o.help
 post-platba.com
 post-redelivery.icu
@@ -47544,7 +47542,6 @@ pralmontex.info
 pramiu.shop
 pranavminiorange.art
 pranes.co
-pranesimai.co
 pranixmix.info
 praotayacama.com
 prarituaro.com
@@ -56123,7 +56120,6 @@ stanlyeshop.com
 stanlyss1913.com
 stanok-s-chpu.site
 stapvooruits.com
-star-media-prog.online
 star10ship.com
 starabehq.info
 starage.tech
@@ -64135,7 +64131,6 @@ vmi.lt-vpm-pranesimai.net
 vmi.lt.e-baudos.com
 vmi.lt.e-prisijunkite.com
 vmi.lt.parama.top
-vmi.ltpranesimai.co
 vmi.roik-48473736196.net
 vmi.roik-49294817106.net
 vmi.roik-70412328998.net
