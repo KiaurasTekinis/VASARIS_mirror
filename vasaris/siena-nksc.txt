@@ -35047,7 +35047,6 @@ lt-loc.shop
 lt-log.cc
 lt-lpexpress.com
 lt-lun.shop
-lt-mano.co
 lt-manosavitarna.com
 lt-manosveikata.za.com
 lt-mediastream.org
