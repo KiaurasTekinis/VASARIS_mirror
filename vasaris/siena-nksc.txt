@@ -6842,6 +6842,7 @@ com-lva.cfd
 com-lw.uno
 com-lx.cfd
 com-lz.cfd
+com-milanohotel2025.com
 com-mioe.icu
 com-mioq.icu
 com-mior.icu
@@ -26044,7 +26045,6 @@ postach.live
 postae.info
 postafax.com
 postalit.help
-postalt.help
 postalt.info
 postaltu.click
 postao.buzz
@@ -26053,7 +26053,6 @@ postas.live
 postat-collection.icu
 postat.help
 postat.live
-postb.help
 postbank-hilfestellung.com
 postbg.cfd
 postbp.cfd
@@ -30864,7 +30863,6 @@ swedbank.lt-kortele.net
 swedbank.mom
 swedbank.online
 swedbanka-lv.com
-swedbankalts.in.net
 swedbankapromoktot.com
 swedbankapromt.com
 swedbankasc.com
@@ -33412,7 +33410,6 @@ varierfurniturecity.com
 varietyvistallc.com
 varle.cloudstoragepdfnew.com
 varoofans.fun
-vartai.co
 vartopmano.shop
 vas123eco.monster
 vas124eco.monster
