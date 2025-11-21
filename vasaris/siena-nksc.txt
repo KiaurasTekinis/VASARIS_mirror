@@ -4892,6 +4892,7 @@ artea.app
 artea.art
 artea.at
 artea.bg
+artea.cc
 artea.cloud
 artea.company
 artea.design
