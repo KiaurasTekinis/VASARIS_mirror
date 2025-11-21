@@ -13134,6 +13134,7 @@ confirmation.help
 confirmation01838-booking.com
 confirmation0191-booking.com
 confirmation0221-booking.com
+confirmation0331-booking.com
 confirmation0822-booking.com
 confirmation200.com
 confirmation29384-booking.com
@@ -15002,6 +15003,7 @@ dba1.site
 dbbw.law
 dbd9.cfd
 dbdits.com
+dbdoprava.cz
 dbdpd7z.info
 dbeemr.info
 dbetp.com
@@ -28298,6 +28300,7 @@ hotbonus.site
 hotchkisspestsystems.info
 hotchkisspestworks.info
 hotcredits1.online
+hotel-ambasadorssi.com
 hotel-andreana.ru
 hotel-carina.info
 hotel-in-altoadige.info
@@ -34265,7 +34268,6 @@ lietuva-draudimas.digital
 lietuva-savasld.digital
 lietuva-savasld.icu
 lietuva-swedbank.webflow.io
-lietuvoospost.help
 lietuvos-bankai.icu
 lietuvos-draudimas.digital
 lietuvos-draudimas.life
