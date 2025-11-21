@@ -18829,8 +18829,6 @@ e-accept.onl
 e-artea-login.com
 e-artea-lt.com
 e-artea.com
-e-artea175login.com
-e-artealogin175.com
 e-bauda-online.net
 e-baudos-online.net
 e-baudos.com
@@ -37255,6 +37253,7 @@ manopaslaugosvm1.com
 manoprofilis.site
 manorolkvmi.com
 manosutartis.center
+manotiekejas.lt
 mansikur.online
 mantc2465326.icu
 mantecats.com
