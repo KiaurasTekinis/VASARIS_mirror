@@ -35395,7 +35395,6 @@ lt-post-post.cfd
 lt-post.icu
 lt-pps.net
 lt-pressscope.org
-lt-prisijungimas.co
 lt-prisijungimas.top
 lt-prisijungti.co
 lt-prisijungti.top
@@ -35471,7 +35470,6 @@ lt-wop.shop
 lt.bankos.icu
 lt.breaktimenow.com
 lt.delfi-news.site
-lt.e-sso.co
 lt.handler.icu
 lt.handlers.live
 lt.netflmi.cc
@@ -48331,7 +48329,6 @@ prirodanputhub.info
 prirodanputlife.info
 prisiijunk-dabar.com
 prisiijunk.com
-prisijungimas-e.co
 prisijungimas-e.top
 prisijungimas-ignitis.com
 prisijungimas.ltd
@@ -62450,6 +62447,7 @@ uniparko.com
 uniparkt.com
 uniparkvmi.com
 uniparpkbaudosvmi.com
+uniparrkbaudos.com
 uniplay2026.cfd
 uniqloscolombia.com
 uniqmart-store.shop
