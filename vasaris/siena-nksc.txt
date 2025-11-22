@@ -20725,6 +20725,7 @@ eu-arcteryx-online.shop
 eu-asbikestore.shop
 eu-assosstore.shop
 eu-briefdigest.org
+eu-clevorathis.bond
 eu-conforme.com
 eu-dataglow.org
 eu-delivery-co.shop
@@ -31142,6 +31143,7 @@ japsian.com
 jarex.ink
 jarexceptshock.icu
 jaribelah.biz
+jarir-store.com
 jarrsse.com
 jarvis-home.org
 jarvismakes3asy.live
@@ -35281,7 +35283,6 @@ lt-auth-beta-app-gateway.cloud
 lt-b-n-k.digital
 lt-b-n-k.world
 lt-bankas.today
-lt-banko-tvarkymas.digital
 lt-bas.shop
 lt-bauda-e-online.net
 lt-baudos-vpm-e.info
@@ -35478,7 +35479,6 @@ lt.reg-centras.today
 lt.regcentras.today
 lt.sdfwer.toythieves.com
 lt.sdfwer.vizvaz.com
-lt.sodra.icu
 lt.sodra.run
 lt.viescs.authorizeddns.us
 lt.viescs.lflinkup.com
