@@ -327,7 +327,6 @@ kinogo.bi
 kinogo.build
 kinogo.bz
 kinogo.cam
-kinogo.ec
 kinogo.eu
 kinogo.fi
 kinogo.fm
