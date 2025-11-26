@@ -19760,6 +19760,7 @@ elektrum-valdymas.today
 elektrum.group
 elektrum.net
 elektrum.today
+elektrum.xyz
 elektrumn.lv
 elektrums.xyz
 elektrus.biz
@@ -32098,6 +32099,7 @@ jyskeur.com
 jyskeusale.com
 jyskfurniture-eu.com
 jyskoutleteu.com
+jyskschweiz.com
 jyskseu.com
 jysotrek.shop
 jyssaledk.shop
@@ -38956,6 +38958,7 @@ mejxfah.info
 mekalatransports.com
 mekarion.com
 mekeper.com
+mekliavns.com
 mekonee.com
 melaniarose.live
 melaron.cfd
@@ -45491,6 +45494,7 @@ paintersservice.shop
 paintersvyexpert.shop
 paintfastpainter.shop
 paintingshdrawiu.shop
+paintsswap.com
 paintyoungstudio.shop
 pair-00.com
 pair-77.com
