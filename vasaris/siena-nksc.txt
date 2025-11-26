@@ -20316,7 +20316,6 @@ epaslaugos.lt-elektroniniai.info
 epaslaugos.lt-portal-e-prisijungti.net
 epaslaugos.lt-prisijungimas-portal.net
 epaslaugos.lt-zinutes-e-portal.net
-epaslaugos.lt.portal-login.co
 epaslaugos.prisijungti.co
 epaslaugos.site
 epaslaugos.space
@@ -20791,7 +20790,6 @@ esveikata.site
 esveikata.today
 esveikata.top
 esveikata.world
-esveikats.com
 esvelkata.com
 esvelkata.digital
 esvelkata.life
@@ -33340,7 +33338,6 @@ kondiraka.info
 konfirmasi-pemulihan.xyz
 kong88p.com
 kongam.icu
-kongsakpaungngean.workers.dev
 koniva.cfd
 konnaya-amuniciya.online
 konnectcall.co.za
@@ -40503,6 +40500,7 @@ mp-ai.tech
 mp-stats.shop
 mparking-lt-e.com
 mparking-lt-e.top
+mparking-lt-eservice.com
 mpazk.info
 mpbqdli.info
 mpcbdr.info
@@ -43986,7 +43984,6 @@ omnivarnexaric.com
 omnivarnexaric101.net
 omnivarya.info
 omnivarya.online
-omnivas-me.life
 omnivastore.store
 omnivateboost.com
 omnivateconnect.com
