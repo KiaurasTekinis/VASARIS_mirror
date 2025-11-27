@@ -17900,7 +17900,6 @@ dpdlt.9834393572.shop
 dpdlt.9874375572.co
 dpdlt.9876655761.digital
 dpdlt.crwty.info
-dpdlt.hrqsl.info
 dpdlt.hthsl.info
 dpdlt.prbhp.info
 dpdlt.tjbcz.info
@@ -19737,7 +19736,6 @@ elektrobritvy.site
 elektrogrelki-shop.online
 elektrom.biz
 elektromontajspb.online
-elektroniniai.com
 elektroniniai.info
 elektroniniai.top
 elektroninis.co
@@ -20309,12 +20307,10 @@ eparaksts.today
 epaslaugos.app
 epaslaugos.co
 epaslaugos.digital
-epaslaugos.elektroniniai.com
 epaslaugos.elektroninis.top
 epaslaugos.fun
 epaslaugos.life
 epaslaugos.lt-5719599.net
-epaslaugos.lt-elektroniniai.info
 epaslaugos.lt-portal-e-prisijungti.net
 epaslaugos.lt-prisijungimas-portal.net
 epaslaugos.lt-zinutes-e-portal.net
@@ -57471,7 +57467,6 @@ stanfordia.com
 stanki-po-derevu.online
 stanki-s-chpu.site
 stankipoderevy.online
-stanleycup.lt
 stanleyflaskireland.com
 stanleykenya.com
 stanlyeshop.com
