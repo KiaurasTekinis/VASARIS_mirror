@@ -4960,6 +4960,7 @@ artea.lat
 artea.lt-e-sb.lt-email-online.compassmediaas.com
 artea.me
 artea.online
+artea.pro
 artea.ru
 artea.si
 artea.studio
@@ -49422,7 +49423,6 @@ post-ltxyz.homes
 post-lu.store
 post-lu.vip
 post-m.bond
-post-m.lat
 post-nl.me
 post-nord.buzz
 post-o.help
@@ -50065,7 +50065,6 @@ prisijungimas.ltd
 prisijungimas.net
 prisijungimas.top
 prisijungti-e-bauda.top
-prisijungti.co
 prisijungti.com
 prisijungti.epaslaugos.lt-portal.co
 prisijungti.net
