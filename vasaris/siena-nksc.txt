@@ -6820,6 +6820,7 @@ banku-saraksts.icu
 banku-sarasas.click
 banku-sarasas.digital
 banku-sarasas.help
+banku-sarasas.icu
 banku-sarasas.sbs
 banku-saveika.digital
 bankwealthmgmtchde.info
