@@ -219,7 +219,6 @@
 11ventures.sa
 11winp.com
 12-potok.cash
-1200euro-maxima.click
 1200euro-maxima.online
 1200euro.eu
 1200euro.online
@@ -40065,7 +40064,6 @@ maxima-1225euro.click
 maxima-1225euro.online
 maxima-1249euro.click
 maxima-1249euro.eu
-maxima-1250euro.click
 maxima-1250euro.online
 maxima-1255euro.online
 maxima-1260euro.click
@@ -40127,7 +40125,6 @@ maxima-euro-1300.online
 maxima-europe.com
 maxima-kampanija.com
 maxima-kampanija.live
-maxima-kampanija.net
 maxima-kampanija.ph
 maxima-kampanija.ws
 maxima-kariera.eu
@@ -56095,6 +56092,7 @@ salatinbax.academy
 salbro.sk
 saldipremiumshop.com
 saldymetis.myfreesites.net
+sale-confirm.help
 sale-day.site
 sale-lidl.sa.com
 sale-process.com
