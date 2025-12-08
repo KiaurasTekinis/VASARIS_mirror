@@ -6786,6 +6786,7 @@ bankloginswedsite.net
 bankltswedlogin.com
 banko-prisijungti.click
 banko-prisijungti.digital
+banko-puslapis.com
 banko-sarasas.click
 banko-sarasas.help
 banko-sarasas.icu
@@ -13087,7 +13088,6 @@ com-ltr.cfd
 com-ltr.live
 com-lts.cfd
 com-ltt.cfd
-com-ltu.cfd
 com-ltv.cfd
 com-ltw.cfd
 com-ltx.cfd
