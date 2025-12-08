@@ -299,7 +299,6 @@
 1325euro-maxima.click
 1325ribotakampanija.store
 1330euro-maxima.click
-1330euro-maxima.online
 1342435674login.sbs
 1343787721778.icu
 1350-euro-maxima.eu
@@ -6750,6 +6749,7 @@ bank-onboarding.gmbh
 bank-paysera-com-v3eservicescom458109.codeanyapp.com
 bank-paysera-com.dream.press
 bank-paysera.com
+bank-puslapis.com
 bank-sarasas.click
 bank-sarasas.help
 bank-sb-it.com
@@ -18366,6 +18366,9 @@ dpdde.info
 dpdde.work
 dpdde.works
 dpddeliver.vip
+dpddeliveryi.shop
+dpddeliveryl.live
+dpddeliveryl.shop
 dpddin.live
 dpddpd.cc
 dpddppt.top
@@ -24966,7 +24969,6 @@ fvrr-verlflcation.com
 fvwmgty.info
 fvwtmdpd.bond
 fvxsurr.info
-fw1ihbndho.preview.infomaniak.website
 fwbhlv.info
 fwbk3gnt.bond
 fwdcq.info
@@ -56494,6 +56496,7 @@ semyanich24.online
 semyblt.com
 sen-electronique.com
 senaaustralia.com
+senabnes.com
 senaiitalholding.com
 senapusinutekewa.info
 senbamsil.com
@@ -58932,6 +58935,7 @@ sortbotanics.xyz
 sorte-maxima.shop
 sorte-maximaa.shop
 sorteaz.com
+sortemaxima.io
 sorterlogs.lol
 sortinggiftedbest.com
 sortuda-maxima.shop
@@ -65123,7 +65127,6 @@ uggbootsrbija.com
 uggbootssnorge.com
 ugglife.online
 uggofh.shop
-uggsneakers.com
 uggsverige.com
 ughyiw.info
 ugljwx.info
