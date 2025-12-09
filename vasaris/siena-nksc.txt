@@ -6954,6 +6954,7 @@ banko-prisijungti.click
 banko-prisijungti.digital
 banko-puslapis.com
 banko-puslapis.cyou
+banko-puslapis.digital
 banko-sarasas.click
 banko-sarasas.help
 banko-sarasas.icu
@@ -19639,6 +19640,7 @@ duncy.life
 dunerp.shop
 dungcuubongban.com
 dunhiillsolution.com
+dunipark.club
 dunmccf.info
 dunospin.com
 dunowex.com
@@ -19678,7 +19680,6 @@ duzdan108.buzz
 duzdan99.buzz
 duzsi.info
 duzykesioa.cfd
-dv0l2bmjuu.preview.infomaniak.website
 dv2ne.info
 dvabdgf.info
 dvagada2.icu
@@ -32486,7 +32487,6 @@ iraxen.com
 irayshop.com
 irbafea.info
 irbcna580.icu
-ircareers.ir-company.online
 irdkali.life
 irdmoodbir.com
 irdpvc.info
@@ -38232,7 +38232,6 @@ ltd168.net
 ltdchange.site
 ltdip.com
 ltdzsw.top
-lte-post.help
 lte-sh.help
 lte0ves.beer
 lte1991.cfd
@@ -44655,7 +44654,6 @@ nl-post-postn.sbs
 nl-yywg.help
 nl-yywn.help
 nl4zd8vtbiib.today
-nl8boasfdr.preview.infomaniak.website
 nl8boazkwl.preview.infomaniak.website
 nl8bobainb.preview.infomaniak.website
 nl8bobgadj.preview.infomaniak.website
@@ -47523,7 +47521,6 @@ ouzy.fun
 ov31.com
 ovalmouth.info
 ovarious-calor.com
-ovatenu.info
 ovauou.info
 ovaxar.info
 ovazane.info
@@ -50939,7 +50936,6 @@ posttomorrow.xyz
 posttorg.top
 posttrackers.icu
 posttracking.cc
-postu.help
 postuscara.online
 postv2.help
 postwave.icu
