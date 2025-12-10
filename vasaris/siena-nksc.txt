@@ -6972,6 +6972,7 @@ bankloginswedsite.net
 bankltswedlogin.com
 banko-prisijungti.click
 banko-prisijungti.digital
+banko-puslapi.cyou
 banko-puslapis.com
 banko-puslapis.cyou
 banko-puslapis.digital
@@ -6993,6 +6994,7 @@ banks-handler.online
 banks-provider.icu
 banksmedia.ru
 banku-ekosistema.digital
+banku-puslapis.click
 banku-saraksts.icu
 banku-sarasas.click
 banku-sarasas.digital
@@ -10055,6 +10057,7 @@ brinypiny.site
 brioderick.com
 brisomaxapp-invest.com
 brissle.icu
+bristlebend.life
 bristlecone.xyz
 britalked.shop
 britanniamovergroup.com
@@ -16145,7 +16148,6 @@ ddk9enejdc24.icu
 ddk9enejdc25.icu
 ddkdtqn.info
 ddkzznk.info
-ddlupdate.cc
 ddmey.info
 ddmvuo.info
 ddmyccb.info
@@ -17605,7 +17607,6 @@ dhpzg.info
 dhqxmb.info
 dhrastreo.click
 dhtgyi.info
-dhtrackin.cc
 dhtracktrace.click
 dhtyy.info
 dhvlnm.click
@@ -18081,7 +18082,6 @@ dlgty.info
 dlhl-my-mypakat.cc
 dlhongsir.shop
 dlhpost.qpon
-dlindex.cc
 dljh-es.com
 dljhmwg.info
 dlkzgdd.info
@@ -18551,7 +18551,6 @@ dozepiciya.world
 dozttvd.shop
 dp-001.com
 dp-002.com
-dp-d.shop
 dp74-632.com
 dpai.info
 dpaly.info
@@ -18968,7 +18967,6 @@ dpdhl.co
 dpdhng.homes
 dpdhosting.icu
 dpdhplx.bond
-dpdhrb.qpon
 dpdhsg.homes
 dpdhsul.info
 dpdhtrj.qpon
@@ -20177,7 +20175,6 @@ e-voteig.com
 e-voteonline.com
 e-zpassaf.cc
 e-zpassin.cc
-e-zpassnys.qpon
 e.sb-lt.cc
 e.sveikaa.life
 e.vmiuniparkbaudos.com
@@ -25413,7 +25410,6 @@ fujsr.icu
 fulccopeg.cfd
 fulccopeg.cyou
 fulccopeg.icu
-fulccopeg.qpon
 fulccopeg.sbs
 fulcop.icu
 fulcopecl.xyz
@@ -36179,6 +36175,7 @@ laten.com.sa
 lateryo.info
 latest-review-check.com
 lativ.top
+latloto-vinnests.lat
 latovirekem.icu
 lattafa-australia.com
 lattafa-ca.com
@@ -52874,6 +52871,7 @@ pyerisebu.site
 pyfiboauo.info
 pyfiptopilus.info
 pyftffr.info
+pyh2pm4n.com
 pyhtr.info
 pyijimeda.store
 pyjhgv.com
@@ -57670,6 +57668,7 @@ seihihiso.online
 seihovuse.online
 seihufuwu.site
 seilbenfid.com
+seilfbevs.com
 seilonyq.com
 seinode.com
 seipetova.site
@@ -61476,6 +61475,7 @@ sukakafe777.info
 sukimosi-ljdlaimejimas.store
 sukimosiljdllaimejimas.store
 suksun.info
+sulibset.com
 sulipipl.fr
 sulitwebs.com
 sulkot.com
@@ -63253,7 +63253,6 @@ telereiam.com
 telergm.cc
 telergmao.top
 telescope-ads.ru
-teleskom.shop
 telesuam.cc
 teletabi.sbs
 teletale.top
@@ -63357,6 +63356,7 @@ temrgval.club
 temrigal.club
 temrigan.bond
 temu-ni.icu
+temucentra.com
 temuhelper.net
 temuhelper.org
 temuikami.shop
@@ -65192,9 +65192,7 @@ trackingsgm.life
 trackingsjv.life
 trackingskh.life
 trackingslk.life
-trackingsln.bar
 trackingso.life
-trackingsqs.bar
 trackingsst.life
 trackingstm.life
 trackingsup.life
@@ -65261,7 +65259,6 @@ trackingyyl.life
 trackingzcy.life
 trackingzfw.life
 trackingzhf.life
-trackingzhh.bar
 trackingzk.life
 trackingzkc.life
 trackingzkj.life
