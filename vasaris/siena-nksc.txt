@@ -13582,6 +13582,7 @@ com-est.cfd
 com-esu.cfd
 com-esw.cfd
 com-esy.cfd
+com-fhdrr.top
 com-fr.shop
 com-frsconfirm.com
 com-gateway-dex-apps-portal.com
@@ -38524,7 +38525,6 @@ lt-par.shop
 lt-pazeidimai.net
 lt-perziurekite.net
 lt-post-post.cfd
-lt-post.icu
 lt-pps.net
 lt-pressscope.org
 lt-prisijungti.top
@@ -60352,6 +60352,7 @@ snudin.com
 snugcla.com
 snuhp.icu
 snuiebapp.com
+snumebilfes.com
 snusvecla.online
 snutimigu.shop
 snutrition.lol
