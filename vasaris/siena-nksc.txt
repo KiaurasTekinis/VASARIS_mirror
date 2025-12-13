@@ -45677,7 +45677,6 @@ nl-post-postn.sbs
 nl-yywg.help
 nl-yywn.help
 nl4zd8vtbiib.today
-nl8bobainb.preview.infomaniak.website
 nladazali.shop
 nlafucote.site
 nlahutevo.shop
@@ -64920,7 +64919,6 @@ theforexalpha.com
 thefrontlineaiapp.com
 thefrontlineaiapp365.com
 thefrontlineaiappapp.com
-thegamingclub-lt.com
 thegamingclubs.com
 thegezuba.shop
 thegioisimviet.com
