@@ -21298,6 +21298,7 @@ elektrum-aptarnavimas.digital
 elektrum-energijos.digital
 elektrum-energijos.today
 elektrum-energljos.digital
+elektrum-energljos.today
 elektrum-energy.xyz
 elektrum-latvija.digital
 elektrum-latvija.life
@@ -34640,6 +34641,7 @@ judu-lt-service.com
 judu-lt.com
 judu-mparking-lt.top
 judu.lt-npparking.info
+judumparking-e.info
 judyhardy.com
 juegapps.com
 juego-del-pollo-casino.com
@@ -68169,7 +68171,6 @@ urjhldg.info
 urjipj.info
 urkrd.info
 urkwt.de
-url8465.arketa.co
 urlifepath.com
 urlinc.icu
 urn24o.info
