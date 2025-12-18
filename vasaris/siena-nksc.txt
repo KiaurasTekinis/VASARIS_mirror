@@ -70411,7 +70411,6 @@ vmi-portal.ph
 vmi-portal.shop
 vmi-portal.top
 vmi-portal.ws
-vmi-prisijungti.top
 vmi-secure.site
 vmi-service.com
 vmi-service.info
