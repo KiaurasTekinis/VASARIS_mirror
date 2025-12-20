@@ -39007,7 +39007,6 @@ lt-eso.icu
 lt-eso.xyz
 lt-esveikata.world
 lt-etz.shop
-lt-factline.org
 lt-far.shop
 lt-gjensidige.icu
 lt-gyventojas.sbs
