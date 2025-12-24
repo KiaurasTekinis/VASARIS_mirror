@@ -6905,8 +6905,6 @@ bank-transfer-receiving-payment-eu.click
 banka-seb-rorwfs.com
 bankarlealogin.net
 bankartealithuian.net
-bankas-api.digital
-bankas-api.life
 bankas-artea.com
 bankas-mielas.xyz
 bankas-puslapis.click
@@ -8714,7 +8712,6 @@ bitcoinhyper-presale.com
 bitcoinhyper.world
 bitcoinhyper2.com
 bitcomark.com
-bite.christmas
 bite88.com
 bitemailservices.com
 bitesu.com
@@ -20284,7 +20281,6 @@ e-policija.it
 e-policija.lt
 e-policija20-12-2025.lt
 e-policja.pl
-e-prisijungti.top
 e-prisijunkite.com
 e-rem.kr
 e-roozgar.com
@@ -34586,6 +34582,7 @@ judu-lt-service.com
 judu-lt.com
 judu-mparking-lt.top
 judu.lt-npparking.info
+juduanxinxi.com
 judumparking-b.info
 judumparking-e.info
 judumparking.net
@@ -51583,7 +51580,6 @@ posthr.cfd
 posths.cc
 posti-paketti-fi-nu.com
 postich.live
-postidass.me
 postik.icu
 postill.net
 postinh.cc
