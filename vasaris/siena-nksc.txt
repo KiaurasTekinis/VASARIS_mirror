@@ -18723,6 +18723,7 @@ dpd-cz-zbozi.sbs
 dpd-dc.click
 dpd-de.com
 dpd-dee-myparcels.com
+dpd-delivery-link184526.world
 dpd-delivery.click
 dpd-doruceni-cz.sbs
 dpd-dptt.top
@@ -47245,7 +47246,6 @@ omniva-status.com
 omniva.ihs468.shop
 omniva.inf-tns.cfd
 omniva.ksw-prq.cfd
-omniva.liversope.com
 omniva.lt-privatus.pristatmas.com
 omniva.lt-privatus.pritatymas.com
 omniva.lt-privatus.siuntimo.com
@@ -69918,7 +69918,6 @@ vmi.lt-deklaracijainfo.net
 vmi.lt-deklaracijasfebr.net
 vmi.lt-deklaricija02.net
 vmi.lt-e-bauda.info
-vmi.lt-e-prisijungti.top
 vmi.lt-eismo-bauda.net
 vmi.lt-eismopazeidimai-e.net
 vmi.lt-laiska.net
