@@ -46300,6 +46300,7 @@ ommbfn.info
 ommivi.com
 omnexiorai.org
 omni-aoa.com
+omniacert.it
 omnicomgroupcv.com
 omnicomgrouphiring.com
 omnikaparts.com
@@ -59963,6 +59964,8 @@ ssnssn.com
 sso-auth-login.com
 sso-auth-portal.com
 sso-management.com
+sso-vmi.it
+sso-vml.it
 ssocliauth-56-rdydfy-56-trkgh-dmitri17.replit.app
 ssohe.info
 ssoio.info
@@ -67487,6 +67490,7 @@ verifi-poshmark.com
 verifica-aml.com
 verifica-italy.com
 verificacion-todocoleccion.info
+verificapagamento.it
 verification-account.cfd
 verification-assistance.com
 verification-booking.com
