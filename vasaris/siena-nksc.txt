@@ -21579,6 +21579,7 @@ ethx2.com
 ethx2.net
 eti-salates.com
 eticafairtrade.com
+eticenntiaocq.com
 etihadarena.site
 etilspirtmsk.com
 etisalat-org.com
@@ -26541,6 +26542,7 @@ glscu.cfd
 glsdc.cfd
 glsdr.cfd
 glseb.cfd
+glsei.cfd
 glsexr.cfd
 glsexs.cfd
 glsfc.cfd
@@ -26548,6 +26550,7 @@ glsmd.cfd
 glsmr.cfd
 glsnew.cfd
 glsnu.cfd
+glsrce.cfd
 glsrex.cfd
 glstc.cfd
 glstop.cfd
@@ -55952,7 +55955,6 @@ savasld-lt.xyz
 savasld-valdymas.digital
 savasld-valdymas.icu
 savasld.apdirbimas.icu
-savasld.autorizacijos-puslapis.icu
 savasld.digital
 savasld.lat
 savasld.life
