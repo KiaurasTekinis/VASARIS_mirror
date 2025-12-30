@@ -32807,6 +32807,7 @@ isyuntd.info
 it-20.info
 it-abaudos.info
 it-academy-new.icu
+it-amokesciai.info
 it-chem.kr
 it-chroniclecore.click
 it-courses-tech.icu
