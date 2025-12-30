@@ -26827,6 +26827,8 @@ glstc.cfd
 glstop.cfd
 glstu.cfd
 glsuer.cfd
+glsur.cfd
+glsux.cfd
 glsvhu.cfd
 glsyr.cfd
 glt-nl.help
