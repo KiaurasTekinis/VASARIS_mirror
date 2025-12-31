@@ -50806,6 +50806,7 @@ postltsa.top
 postltso.top
 postltt.cc
 postltxp.homes
+postlw.cfd
 postmanprocourse.info
 postmin.cc
 postmortemvik.info
@@ -56489,7 +56490,6 @@ sb-lt-banksite.com
 sb-lt-f.com
 sb-lt-fb.com
 sb-lt-log.com
-sb-lt-p.com
 sb-lt-pr0m1.com
 sb-lt-pr1m.com
 sb-lt-privat.com
@@ -68643,6 +68643,7 @@ vm88-login.com
 vmahdpt.info
 vmamposts.qpon
 vmaxon.info
+vmbaudos.info
 vmcwul.info
 vmgaaq.info
 vmgigas.info
