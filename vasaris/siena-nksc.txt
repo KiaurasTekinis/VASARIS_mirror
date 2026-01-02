@@ -7340,7 +7340,6 @@ beiiq.info
 beikeshop.xyz
 beiku.shop
 beilikufi.shop
-beine.shop
 beiwiseze.store
 beiyu.info
 bejfm.qpon
@@ -35313,6 +35312,7 @@ laimora-vilnius.com
 lainian.site
 laiostech.com
 laisvasjudesys.com
+laiswelatoaci.com
 laixeantoan.net
 laiyecn.com
 laizeping.com
@@ -55855,7 +55855,6 @@ sb-lg.com
 sb-log-in.com
 sb-log-ln.com
 sb-log.com
-sb-login.com
 sb-lt-0000.com
 sb-lt-050.com
 sb-lt-175eurp.com
