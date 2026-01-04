@@ -26139,6 +26139,7 @@ glscd.cfd
 glscu.cfd
 glsdc.cfd
 glsdr.cfd
+glsdre.cfd
 glseb.cfd
 glsei.cfd
 glsexr.cfd
@@ -26157,6 +26158,7 @@ glsuer.cfd
 glsur.cfd
 glsux.cfd
 glsvhu.cfd
+glsxer.cfd
 glsyr.cfd
 glt-nl.help
 glt-postnl.help
@@ -49750,6 +49752,7 @@ postlabs.shop
 postlc.cfd
 postlch.live
 postle.cfd
+postlg.cfd
 postli.cfd
 postlilaniserf.com
 postlilaniserfe.com
