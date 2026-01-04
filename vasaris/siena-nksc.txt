@@ -54852,7 +54852,6 @@ sb-lt-log.com
 sb-lt-pr0m1.com
 sb-lt-pr1m.com
 sb-lt-prom10.com
-sb-lt-promo.in.net
 sb-lt-promo175eur.com
 sb-lt-siau1u.com
 sb-lt-siauliu-bank.com
