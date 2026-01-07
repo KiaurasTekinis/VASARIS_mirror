@@ -25401,13 +25401,16 @@ glsei.cfd
 glsexr.cfd
 glsexs.cfd
 glsfc.cfd
+glsim.cfd
 glsker.cfd
+glskrx.cfd
 glslxe.cfd
 glsmax.cfd
 glsmd.cfd
 glsmr.cfd
 glsnew.cfd
 glsnu.cfd
+glspt.cfd
 glsrca.cfd
 glsrce.cfd
 glsrct.cfd
