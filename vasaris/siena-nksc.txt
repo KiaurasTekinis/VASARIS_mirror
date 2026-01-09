@@ -25848,6 +25848,8 @@ glsome.cfd
 glspt.cfd
 glsrca.cfd
 glsrce.cfd
+glsrcn.cfd
+glsrcs.cfd
 glsrct.cfd
 glsrcu.cfd
 glsrex.cfd
