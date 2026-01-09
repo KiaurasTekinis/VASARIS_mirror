@@ -25840,7 +25840,9 @@ glsker.cfd
 glskrx.cfd
 glslxe.cfd
 glsmae.cfd
+glsmal.cfd
 glsmax.cfd
+glsmay.cfd
 glsmd.cfd
 glsmdx.cfd
 glsmex.cfd
@@ -25850,6 +25852,7 @@ glsnew.cfd
 glsnu.cfd
 glsoex.cfd
 glsom.cfd
+glsome.cfd
 glspt.cfd
 glsrca.cfd
 glsrce.cfd
