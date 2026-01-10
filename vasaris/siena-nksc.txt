@@ -20997,7 +20997,6 @@ european-bank-transfer-instant-done.click
 european-instant-bank-transfer-click.world
 european-international-bank-transfer-completed.site
 european-survey.com
-european-travel.it.com
 europeancentraltransfer.com
 europeanmassagedubai.space
 europebest.info
@@ -25747,6 +25746,8 @@ glsmdx.cfd
 glsmex.cfd
 glsmo.cfd
 glsmr.cfd
+glsmxa.cfd
+glsmxe.cfd
 glsnew.cfd
 glsnu.cfd
 glsoex.cfd
@@ -25765,6 +25766,7 @@ glsscu.cfd
 glsscx.cfd
 glssex.cfd
 glstc.cfd
+glstce.cfd
 glsthux.cfd
 glstm.cfd
 glstop.cfd
