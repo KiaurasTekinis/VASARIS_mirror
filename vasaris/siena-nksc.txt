@@ -4529,7 +4529,6 @@ armine.am
 armoniaarticolare.info
 armorring.com
 armorring.info
-armorshield.digital
 armourring.com
 armproxy.xyz
 armstroog.com
@@ -19195,7 +19194,6 @@ edaaviv.info
 edalnice24.cz
 edalrna.com
 edamly.info
-edcvape.com
 eddgraz.info
 eddtx.info
 edegyc.info
@@ -25730,9 +25728,12 @@ glsdre.cfd
 glseb.cfd
 glsecl.cfd
 glsei.cfd
+glseox.cfd
+glseox.xyz
 glsexr.cfd
 glsexs.cfd
 glsfc.cfd
+glsgo.cfd
 glsim.cfd
 glsker.cfd
 glskrx.cfd
@@ -25777,6 +25778,7 @@ glstxl.cfd
 glstz.cfd
 glsuer.cfd
 glsuex.cfd
+glsun.xyz
 glsur.cfd
 glsux.cfd
 glsvae.cfd
@@ -40673,7 +40675,6 @@ miro24tech.cfd
 mirothassetforge.net
 mirowex.com
 mirror-knotty.com
-mirrory.shop
 mirskvestov.online
 mirskvestovs.online
 mirtear.info
@@ -41097,7 +41098,6 @@ molecularlyneq.info
 molikejiyouxian.com.cn
 molina-david.com
 molingservicessoutheast.com
-molithubs.store
 moliyamarkaz.cfd
 molodye-porno.lol
 molopc.ink
@@ -68584,7 +68584,6 @@ wellnesspathco.com
 wellnesspatht.info
 wellnesspathzb.info
 wellnessplace.top
-wellnessport-guide.info
 wellnessrisezone.com
 wellnesswisdom.site
 wellnesswithvital.com
