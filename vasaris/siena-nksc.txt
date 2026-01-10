@@ -25570,6 +25570,7 @@ glsexr.cfd
 glsexs.cfd
 glsfc.cfd
 glsgo.cfd
+glsgro.cfd
 glsim.cfd
 glsker.cfd
 glskrx.cfd
