@@ -1428,6 +1428,7 @@
 83euidja4.icu
 83road.com
 83wow.com
+8439941.cyou
 845165184.cfd
 8457241.shop
 84921387.com
@@ -20559,7 +20560,6 @@ esveikata.mindbody.today
 esveikata.today
 esveikata.top
 esvelkata.digital
-esvelkata.lt
 esvelkata.online
 esvelkata.world
 esvelkatos.com
@@ -65340,7 +65340,6 @@ vaticantourvisit.com
 vatmediatv.info
 vatorimix.info
 vatoslocos.shop
-vatosslocos.com
 vatqncw.info
 vatterfall.com
 vaucluse7.shop
@@ -66411,7 +66410,6 @@ visa.hk.cn
 visabw.info
 visaeta.uk
 visakhapatnamdekho.com
-visalyst.com
 visasyst.com
 visatoto1.com
 visaverge.icu
