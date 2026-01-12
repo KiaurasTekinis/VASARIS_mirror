@@ -56244,7 +56244,6 @@ shop.kkschx.shop
 shop.krtqtw.top
 shop.ninvgi.shop
 shop.nknnknh.shop
-shop.oqdo.io
 shop.owuiue.shop
 shop.psfjwp.shop
 shop.pvqrjf.shop
@@ -62641,6 +62640,7 @@ tradevexa.com
 tradexpertofficial.com
 trading.webglobalinc.com
 tradinganalytics.cfd
+tradingczbot.com
 tradingdocs.info
 tradingframework.cfd
 tradingintelligence.cfd
@@ -69316,7 +69316,6 @@ xn--80a0am.space
 xn--80aaii8blcg1a.com
 xn--80aaynbxcndfbd.xn--p1ai
 xn--80adi6afdifs.online
-xn--80adkhddecjfmeguu6arf3msa.xn--p1ai
 xn--80adpd6ammg.online
 xn--80adpd6ammg.xn--p1ai
 xn--80adpdbmc4d3e.xn--p1ai
