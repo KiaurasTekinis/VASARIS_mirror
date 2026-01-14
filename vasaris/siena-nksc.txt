@@ -6028,7 +6028,6 @@ azzurrovitay.info
 b-apaos.shop
 b-ergstrom.shop
 b-gfw.cfd
-b-handler.online
 b-hksms.com
 b-platba.icu
 b-vmi.com
@@ -20400,7 +20399,6 @@ esveikata.mindbody.today
 esveikata.today
 esveikata.top
 esvelkata.digital
-esvelkata.online
 esvelkatos.com
 esvoria.qpon
 eswuqto.info
@@ -63727,6 +63725,7 @@ unipark-lt-eservice.top
 unipark-lt-eservices.top
 unipark-lt-online.com
 unipark-lt-online.top
+unipark-lt-savitarna.com
 unipark-lt.com
 unipark-lt2111.sbs
 unipark-lteportal.com
