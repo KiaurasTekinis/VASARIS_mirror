@@ -2691,7 +2691,6 @@ afcu-authenticate-v2-web-access.com
 afcu-authenticate-web-access.com
 afcu-authv2-access.com
 afex-globalholdings.com
-afexglobalholdinds.com
 afexglobalholdings.com
 afexglobalholdings.net
 affiliatemanagementtrainers.com
@@ -47773,6 +47772,7 @@ patioapp.space
 patisseriegeorgette.sbs
 patkacautuacapa.com
 patkphmlieluxu.shop
+patkwatchluxu.shop
 patobesmarthomes.com
 patoslocos.store
 patriciaogbuh.com
