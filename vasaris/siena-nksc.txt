@@ -1767,6 +1767,7 @@ aadegv.com
 aadegx.com
 aadegz.com
 aadqe.com
+aadze.com
 aaemhy.info
 aaeuy.info
 aaeve-v3-wallet.com
@@ -1776,6 +1777,7 @@ aagarz.com
 aahhvo.icu
 aahjet.shop
 aahmyq.info
+aaide.cc
 aaiman.xyz
 aajfjaa.icu
 aakevgf.info
@@ -36688,6 +36690,7 @@ lt-vmi.life
 lt-vmi.live
 lt-vmi.ph
 lt-vmi.ru
+lt-vmi.run
 lt-vmi.today
 lt-vmi.world
 lt-vmi.ws
@@ -58372,6 +58375,7 @@ ssmartworld.cfd
 ssnssn.com
 sso-auth-login.com
 sso-auth-portal.com
+sso-lt.info
 sso-vmi.it
 sso-vml.info
 sso-vml.it
