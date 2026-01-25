@@ -17091,7 +17091,6 @@ dpd-web.mom
 dpd.autos
 dpd.bio
 dpd.hajct41.cfd
-dpd.id1021.cfd
 dpd.ihs468.shop
 dpd.kleinzez-de20.com
 dpd.lt-saugus-sandoris.cfd
@@ -28731,7 +28730,6 @@ id-pay62323.shop
 id-pay67341.shop
 id0196.icu
 id098842.com
-id1021.cfd
 id1180.cfd
 id1189.info
 id1345564.shop
