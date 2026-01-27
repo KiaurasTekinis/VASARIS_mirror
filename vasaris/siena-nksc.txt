@@ -11788,6 +11788,7 @@ com-lit.cfd
 com-liu.cfd
 com-liv.cfd
 com-lm.cfd
+com-login-lt.leasesoramos.com
 com-lp.cfd
 com-lq.cfd
 com-lq.online
@@ -23695,6 +23696,7 @@ go-med.online
 go-portal-mgnt.com
 go-posher.com
 go-potentstream.com
+go-promo-market.online
 go-top.shop
 go-top.site
 go-transit-canada.com
@@ -50798,6 +50800,7 @@ selbizcrashcourse.com
 selblvotairem.com
 selblvotoaicv.com
 selblvroam.com
+selbmatoaucauta.com
 selbniers.com
 selbnios.com
 selbomelva.com
