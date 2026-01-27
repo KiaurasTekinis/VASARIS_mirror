@@ -184,7 +184,6 @@
 1249euro-maxima.click
 1249euro-maxima.eu
 1249euro-maxima.online
-1250-euro-maxima.click
 1250-euro-maxima.online
 1250-euromaxima.click
 1250-maxlma.net
@@ -9039,6 +9038,7 @@ c-prosperlabs31.world
 c-prosperlabs33.world
 c-prosperlabs34.world
 c-prosperlabs35.world
+c-trade.sbs
 c-u-utx2p.com
 c0-0p-banka.com
 c00p-pank.com
@@ -32695,7 +32695,6 @@ linesant-live.com
 linetg.com
 lineworkatelier.com
 linghe2020.com
-lingualitu.lt
 linguawaveaz.info
 lingx-ai.org
 linha62.cfd
@@ -57003,7 +57002,9 @@ trackpost.help
 tractomaxxsupply.com
 tractorshopss.com
 tradazeju.shop
+trade-a.sbs
 trade-app-connect-v3-bridge.com
+trade-c.sbs
 trade-edgeai.org
 trade-nova.eu.com
 trade-vector-ai.info
@@ -57478,7 +57479,6 @@ tscgx.info
 tsdoqotlacalt1.com
 tsdrm.info
 tse-go-cr.com
-tsfacasrusticas.com.br
 tsfw.tech
 tsfxqmb.info
 tsgbh.info
