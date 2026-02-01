@@ -17072,7 +17072,6 @@ e-policija20-12-2025.lt
 e-policja.pl
 e-porezna.info
 e-roozgar.com
-e-sb-it-0.com
 e-sb-it-2.com
 e-sb-it-3.com
 e-sb-it-siiite.com
@@ -56576,7 +56575,6 @@ tv3vilnius.lt
 tv3vilnius.ltd
 tv3zinioms.lt
 tv3zinios.lt
-tv3zmones.lt
 tvactivate-code.info
 tvactivatecode.info
 tvarkytojas.digital
@@ -58206,7 +58204,6 @@ vaqexotob.info
 varawelljx.info
 varawellkh.info
 varawellyu.info
-varenospspc.lt
 varico.cfd
 variedyrate.cfd
 varierfurniturecity.com
