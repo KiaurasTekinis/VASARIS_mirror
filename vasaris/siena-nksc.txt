@@ -1357,6 +1357,7 @@
 9xbxfg.info
 a-ai.app
 a-chistka.pro
+a-dex.sbs
 a-evo-games.com
 a-f-e-g-s.shop
 a-forma-dwelling.com
@@ -5777,6 +5778,7 @@ battut.cfd
 bauchtasche.info
 baud-kv2801944.top
 baud-kv2822942.top
+baud-kv3105994.info
 baud-up3902283210.top
 bauda-e-roik.top
 bauda-e.com
@@ -12851,6 +12853,8 @@ cvoxezasv.cfd
 cvoxezasx.cfd
 cvoxezasz.cfd
 cvoxsaxc.cfd
+cvoxsaxe.cfd
+cvoxsaxm.cfd
 cvoxsaxo.cfd
 cvoxsaxv.cfd
 cvsqh.info
@@ -13796,8 +13800,6 @@ delfidiskusija.lat
 delfieenews.site
 delfieurovizija.lt
 delfignews.shop
-delfigyvenimas.lt
-delfigyvenimui.lt
 delfihnew.site
 delfihnews.shop
 delfiieenewwss.site
@@ -13893,7 +13895,6 @@ delfisportui.lt
 delfisportui.ltd
 delfisportuok.lt
 delfissnews.shop
-delfistop.lt
 delfisugautas.com
 delfisulaikymas.com
 delfisulaikytas.com
@@ -36596,6 +36597,7 @@ mrhaulx.info
 mrjazi.info
 mrjlj.info
 mrkcte.top
+mrktplts-ordr-1502.cfd
 mrmujac.info
 mrnassim.info
 mrnet.info
@@ -55157,8 +55159,6 @@ tuzcuogluexpress.com.tr
 tv-com-activate.info
 tv3byla.lt
 tv3go.lt
-tv3gyvenimas.lt
-tv3gyvenimui.lt
 tv3naujiena.lt
 tv3naujiena.ltd
 tv3nelaime.lt
