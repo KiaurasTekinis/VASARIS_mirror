@@ -31847,6 +31847,7 @@ lt-baudos.net
 lt-baxa.shop
 lt-bk.com
 lt-bk.life
+lt-bkpranesimai.info
 lt-bnk.digital
 lt-bnks.digital
 lt-bvs.info
@@ -40668,6 +40669,7 @@ paskyros-valdymas.icu
 paslauga.info
 paslauga.world
 paslaugos-ignitis.com
+paslaugosunipar02-03.info
 paslosket.shop
 pasquos.space
 pass-credit-agricole.com
@@ -51372,6 +51374,7 @@ swirquantum.com
 swischaletc.com
 swiss-chaiets.com
 swiss-fund-finance.com
+swiss-pixel.com
 swiss-vignette-pay.com
 swissaiimpact.com
 swissbalanceguideto.info
@@ -54120,7 +54123,6 @@ tv3vilniui.lt
 tv3vilniuje.lt
 tv3vilnius.eu
 tv3vilnius.lt
-tv3vilnius.ltd
 tv3zinioms.lt
 tv3zinios.lt
 tvactivate-code.info
@@ -54834,6 +54836,7 @@ uniparky.com
 uniparkz.com
 uniparlk.com
 uniparmk.com
+uniparmokesciai.info
 uniparnk.click
 uniparnk.com
 uniparok.com
