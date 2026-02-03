@@ -5788,6 +5788,7 @@ bauda-portalas-e.net
 bauda-roik-e.top
 bauda.online
 bauda.store
+baudafortuna.online
 baudaleggequims.rest
 baudam.com
 baudascamisetas.com.br
@@ -54601,7 +54602,6 @@ transactionfinder.co
 transactionfinder.in
 transactionfinder.online
 transactionfinder.tech
-transactionier.com
 transagro.group
 transaktionspanel.com
 transbot.sbs
@@ -55162,10 +55162,8 @@ tuwor.com
 tuzcuogluexpress.com.tr
 tv-com-activate.info
 tv3byla.lt
-tv3go.lt
 tv3naujiena.lt
 tv3naujiena.ltd
-tv3nelaime.lt
 tv3nelaimes.lt
 tv3radinys.lt
 tv3savaite.lt
