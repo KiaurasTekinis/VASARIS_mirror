@@ -39877,7 +39877,6 @@ omniva-lt.econe.shop
 omniva-lt.oness.shop
 omniva-ord-lt.asdlke.shop
 omniva-ord-lt.hottat.shop
-omniva-ord-lt.kakekmu.shop
 omniva-pakas-lv.com
 omniva-status.com
 omniva-status.info
@@ -40499,6 +40498,7 @@ ord-7014.shop
 ord-7112.shop
 ord-7612.shop
 ord-7751.shop
+ord-785062.com
 ord-8151.shop
 ord-8544.shop
 ord-8716.ru
@@ -49122,6 +49122,7 @@ seoatnmacauit.com
 seobakcaitaca.com
 seobapp.com
 seobhomeao.com
+seoblvhome.com
 seobudila.shop
 seobyg.cfd
 seocio.shop
