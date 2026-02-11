@@ -7374,7 +7374,6 @@ bodypulse-info.info
 bodypulse-now.today
 bodyrush-top.top
 bodys-focus.com
-bodysense.pl
 bodyshift-line.top
 bodyshift.site
 bodytone-step.top
@@ -23994,6 +23993,7 @@ homeaotjac.com
 homeaotkao.com
 homeappx.icu
 homeaptam.com
+homeasaoaselb.com
 homeastoeb.com
 homeatnmca.com
 homeaxcoat.com
@@ -29925,7 +29925,6 @@ lietuva-bankas.digital
 lietuva-draudimas.digital
 lietuva-savasld.digital
 lietuva-savasld.icu
-lietuva-swedbank.webflow.io
 lietuvos-bankai.icu
 lietuvos-draudimas.digital
 lietuvos-draudimas.eu
@@ -36721,6 +36720,7 @@ niolxz6w.icu
 niolzv4s.icu
 niolzw6x.icu
 niomafoso.shop
+nipark-lt.info
 nipark-mparking.info
 nipemyo.xyz
 nipost-gov.cfd
@@ -43214,7 +43214,6 @@ qatsa.com
 qauut.de
 qavorintelomixa.cfd
 qaxoqexehapa.com
-qayoy.top
 qazajuqugu.com
 qazixatitada.com
 qazwsxedc.info
@@ -44961,6 +44960,8 @@ rk-prisijungti.sbs
 rk-prisjungti.sbs
 rk3102049233.top
 rk3102049239.top
+rk310304928.top
+rk310904921.top
 rk3402044233.top
 rkafl.info
 rkahvbl.info
