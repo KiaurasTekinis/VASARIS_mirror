@@ -714,6 +714,7 @@
 418-test-gfitztest.com
 418client.com
 419021.info
+41b9c5e2ba.nxcli.io
 42-fas-583752.xyz
 420-semyanich.online
 423422937.cfd
@@ -41359,7 +41360,6 @@ pramiras.com
 pramiu.shop
 prandtlmesh.cfd
 pranesimas.com
-pranesimas.icu
 pranesimas.info
 praotayacama.com
 prashantmhatre.com
