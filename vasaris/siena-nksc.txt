@@ -1371,7 +1371,6 @@ aaeve-v3-wallet.com
 aafawx.info
 aagare.com
 aagarz.com
-aahjet.shop
 aahmyq.info
 aaide.cc
 aaiman.xyz
@@ -20884,6 +20883,7 @@ gjensidige-valdymas.digital
 gjensidige-valdymas.icu
 gjensidige.digital
 gjensidige.icu
+gjensidige.online
 gjlgu.info
 gjournalism-genius.com
 gjpdm.icu
