@@ -39893,8 +39893,6 @@ postltad.cc
 postltad.top
 postltada.top
 postltapp.info
-postlteonline.top
-postltit.top
 postltn.cfd
 postltn.com
 postltt.cc
