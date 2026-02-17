@@ -4005,6 +4005,7 @@ artea.ink
 artea.lt-e-sb.lt-email-online.compassmediaas.com
 artea.me
 artea.media
+artea.nz
 artea.online
 artea.pro
 artea.ru
@@ -5647,6 +5648,7 @@ be-easy-banking.com
 be-order.com
 be-retour.com
 be-vlaanderen.com
+be85053532.nxcli.io
 beacelly.info
 beachandcoast.com
 beachfest.live
