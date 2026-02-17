@@ -1601,7 +1601,6 @@ account-stream.com
 account-thinkorswim-personal-auth.com
 account-verification-vinted.shop
 account-verify-id.com
-account.automatics.digital
 accountcheckactivity.com
 accountcrcanada.com
 accounting39.website
@@ -5520,7 +5519,6 @@ baudascamisetas.com.br
 baudasfabulas.com
 baudaviradaa.online
 baudos-27.info
-baudos-apmokejimas.top
 baudos-e-roik.com
 baudos-e.net
 baudos.epaslaugos-prisijungti.info
