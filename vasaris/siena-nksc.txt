@@ -5155,7 +5155,6 @@ banhban.de
 banivilefina.com
 bank-acceso.com
 bank-handler.life
-bank-handler.run
 bank-onboarding.gmbh
 bank-paysera-com-v3eservicescom458109.codeanyapp.com
 bank-paysera-com.dream.press
@@ -45016,6 +45015,7 @@ seobudila.shop
 seocio.shop
 seoemavuatuya.com
 seofulabu.shop
+seoilbaho.com
 seojokiju.online
 seomathacyata.com
 seomatiuaca.com
@@ -46909,7 +46909,6 @@ sodra-digital.help
 sodra-puslapis.click
 sodra-puslapis.com
 sodra-sarasas.click
-sodra.digital
 sodra.top
 sodrautmarken.info
 sodrautmarken.org
