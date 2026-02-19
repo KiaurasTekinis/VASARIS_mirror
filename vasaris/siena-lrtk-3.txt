@@ -482,9 +482,7 @@ pervyi-tv.online
 piratebay-proxylist.com
 piratebay.baby
 piratebayproxies.github.io
-piratebayproxy.info
 piratehaven.xyz
-pirateproxylive.org
 pirlotv.uno
 pirlotvdh.me
 pirlotve.biz
@@ -763,7 +761,6 @@ telekarta.tv
 teleon.tv
 telepromtv.co.il
 telerium.biz
-televizor24tochka.ru
 televizormedia.online
 televizorus.com
 televizorus.online
@@ -773,9 +770,6 @@ test.rtde.tech
 thedaddy.to
 thepiratebay.cloud
 thepiratebay.ninjaproxy1.com
-thepiratebay.xyz
-thepiratebay10.info
-thepiratebay10.xyz
 thepiratebaye.org
 thepiratebayorg.org
 thepiratesbay.club
