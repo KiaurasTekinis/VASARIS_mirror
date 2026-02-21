@@ -19946,6 +19946,7 @@ gjdyrel.info
 gjensidige-lietuva.digital
 gjensidige-lietuva.icu
 gjensidige-lt.icu
+gjensidige-no.online
 gjensidige-valdymas.digital
 gjensidige-valdymas.icu
 gjensidige.digital
