@@ -34863,7 +34863,6 @@ omnivaorders.2256892.info
 omnivaorders.272632.shop
 omnivaorders.36248.today
 omnivaorders.4556822872.live
-omnivaorders.5556422.info
 omnivaorders.6234493.info
 omnivaorders.7537457.info
 omnivaorders.fashrack.info
@@ -35624,6 +35623,7 @@ ordr4253.black
 ordr4253.vip
 ordr4259.black
 ordr4986302.com
+ordr580305.com
 ordr583996.com
 ordr589300.com
 ordr6412.black
@@ -50459,6 +50459,7 @@ vbuckbeast.com
 vbupdate.info
 vbwakm.info
 vcbcxwa.info
+vccgame.com
 vcjjtzk.info
 vckcheg.lol
 vconfideg.monster
