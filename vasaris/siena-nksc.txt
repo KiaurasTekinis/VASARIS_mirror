@@ -13001,7 +13001,6 @@ dpd-lith.alkenez.shop
 dpd-lith.bskefibg.shop
 dpd-lith.hoslkg.shop
 dpd-lith.kikin.shop
-dpd-lith.koties.shop
 dpd-lith.kotova.shop
 dpd-lith.luckikt.shop
 dpd-lith.miamila.shop
@@ -38107,7 +38106,6 @@ pu-tu.top
 pu7-9691y.xyz
 puade.icu
 pub-4cf9c4a138dc4b4fa6fe60d10f106adf.r2.dev
-pub-51573a6aeb544670b36062c86fc70874.r2.dev
 pubgood.top
 publi24-order.shop
 public-trade.com
@@ -49617,6 +49615,7 @@ verification-required.cfd
 verification-usaa.com
 verification-user.icu
 verification-vinted.com
+verification-vinted.help
 verification-xw9ry.icu
 verification2316.com
 verification431.com
