@@ -21091,6 +21091,7 @@ icyfishsolve.info
 id-00122.com
 id-0014.shop
 id-0029.com
+id-00423.com
 id-0090.icu
 id-0291.info
 id-0312.shop
@@ -21189,6 +21190,7 @@ id-8530.shop
 id-853777.com
 id-8537894.com
 id-854960.com
+id-859360.com
 id-8631.shop
 id-8654.shop
 id-871.digital
@@ -26866,7 +26868,6 @@ lt-savitarna.com
 lt-sb-banking.com
 lt-sb.com
 lt-sblt-pro.com
-lt-sblt-promot.com
 lt-sepc.shop
 lt-service-e.com
 lt-service-roik.top
