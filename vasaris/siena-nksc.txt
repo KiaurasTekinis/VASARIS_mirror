@@ -209,7 +209,6 @@
 1350-euro-maxima.eu
 1350euro-maxima.click
 1350euro-maxima.com
-1350euro-maxima.eu
 1350euro-maxima.online
 1350euro-maxima.site
 1350euromaxima.com
@@ -19212,6 +19211,7 @@ handler.eu
 handler.group
 handler.hr
 handler.icu
+handler.id
 handler.in
 handler.info
 handler.it
@@ -21274,6 +21274,7 @@ id220190id.com
 id221025.info
 id261898.com
 id275475.com
+id277272.com
 id281.com
 id2881.com
 id28k222partnet.com
@@ -21322,6 +21323,7 @@ id457621368.org
 id471849.com
 id47447.com
 id482732.com
+id4847281.com
 id4861.com
 id5050.cfd
 id5067228.cfd
@@ -33018,7 +33020,6 @@ omnivantrex.com
 omnivao.com
 omnivaorders.2256892.info
 omnivaorders.272632.shop
-omnivaorders.36248.today
 omnivaorders.4556822872.live
 omnivaorders.6234493.info
 omnivaorders.7537457.info
@@ -41450,7 +41451,6 @@ shopelx.xyz
 shopeml.xyz
 shopep.xyz
 shopesl-eu.top
-shopeu.cc
 shopew.xyz
 shopexc.xyz
 shopezh.xyz
