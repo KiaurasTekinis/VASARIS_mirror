@@ -21098,6 +21098,7 @@ id-0029.com
 id-0032.com
 id-00423.com
 id-0090.icu
+id-0151.com
 id-0291.info
 id-0312.shop
 id-0365.shop
@@ -28300,6 +28301,7 @@ magnetallwork.com
 magnethu.com
 magnetic-client.online
 magnetico.info
+magnettewalk.com
 magnificentcyclone.info
 magnificentplastic.info
 magnificentporcupine.info
