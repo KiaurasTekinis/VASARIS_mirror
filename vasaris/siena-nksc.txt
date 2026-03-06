@@ -37258,6 +37258,7 @@ savasld-leidimas.icu
 savasld-lietuva.digital
 savasld-lietuva.icu
 savasld-login.icu
+savasld-lt.online
 savasld-lt.xyz
 savasld-valdymas.digital
 savasld-valdymas.icu
@@ -46621,6 +46622,7 @@ winraft.com
 winrazer.com
 winsfords.com
 winsome-new09.info
+wintavex.org
 winterflashsale.shop
 winterfruitwellness.info
 winterhawks.us
