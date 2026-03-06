@@ -7323,8 +7323,12 @@ chammpion-slots.fun
 chammpion-slots.site
 chammpion-slots.xyz
 chamoisx.info
+champiion-casino-slots.casino
+champiion-casino.casino
+champiion-sllots.casino
 champiionn-casino.fun
 champiionnslots.xyz
+champiions-slot.casino
 champion-casino-online.xyz
 champion-casino.host
 champion-casino.xyz
@@ -19579,6 +19583,7 @@ id-7128.shop
 id-7219.shop
 id-7231.shop
 id-726678.com
+id-7269.com
 id-7312.shop
 id-73226.com
 id-7326.shop
