@@ -24147,7 +24147,6 @@ lt-hec.shop
 lt-hfo.shop
 lt-i.uno
 lt-icloud.xyz
-lt-infofocus.org
 lt-insightpress.org
 lt-ivykiodeklaracija.net
 lt-judu-e-savitarna.info
@@ -37401,6 +37400,8 @@ sehbnew.com
 sehgesundheitinfo.info
 sehiratlas.info
 seibegive.site
+seibentas.com
+seibents.com
 seibmt.com
 seibneuv.com
 seibnote.com
