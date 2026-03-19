@@ -11140,7 +11140,6 @@ dpd-lith.miamila.shop
 dpd-lith.okiky.shop
 dpd-lith.pikbta.shop
 dpd-lith.stationan.shop
-dpd-lith.tatydk.shop
 dpd-lith.telken.shop
 dpd-lith.woupskey.shop
 dpd-lith.ypike.shop
@@ -16119,7 +16118,6 @@ globalinfoupdate.cfd
 globalinsightcenter.cfd
 globalkadowclub.info
 globallogistic.me
-globalnetwork-3274982.fyi
 globalnetworkgroup.info
 globalnetworkhub.info
 globalnews24.info
@@ -19019,6 +19017,7 @@ id-7128.shop
 id-716.cfd
 id-7162.cam
 id-7162.today
+id-7213780.com
 id-7219.shop
 id-7231.shop
 id-7241.rest
@@ -19258,6 +19257,7 @@ id1378.pl
 id1395.cfd
 id13957.com
 id1442infonet.shop
+id1453.com
 id146642672.com
 id14695.com
 id1489.pl
@@ -31330,6 +31330,7 @@ order6135.sbs
 order6137.com
 order61435.sbs
 order61452.sbs
+order6192043.com
 order6330.digital
 order6346.shop
 order6385.digital
@@ -31380,6 +31381,7 @@ order792552.com
 order80563478.biz
 order811954.com
 order8131.shop
+order815272.com
 order8164719.com
 order8204917365091827463519208475619283746.com
 order8217.info
