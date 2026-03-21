@@ -63,7 +63,6 @@ domain-for-backup.space
 dopliosi.com
 dpd-lith.foolke.shop
 dpd-lith.magoqoure.shop
-dpd-lith.tatgime.shop
 dpd.famirthdays.shop
 dpdlt.hrysl.info
 dublevim.com
