@@ -9830,7 +9830,6 @@ delfinew.shop
 delfinewbz.site
 delfinewlt.online
 delfinewltt.site
-delfinews.com
 delfinewslt.site
 delfinewss.site
 delfinewwss.shop
@@ -16805,6 +16804,7 @@ guestline-eu-auth0.com
 guestlist.icu
 guestmaster.info
 guests-vrfy.com
+guestverificationpage.com
 guestverify003132-booking.com
 guestverify0552-booking.com
 guestverify2100-booking.com
