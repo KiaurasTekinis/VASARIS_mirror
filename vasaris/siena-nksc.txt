@@ -1462,7 +1462,6 @@ actanex-vital.top
 actapa-key.top
 actapa-quorai.top
 actavi-veroge.top
-acte-torny.ch
 actiflow-dash.top
 actify-blend.top
 actilife-info.info
@@ -11408,7 +11407,6 @@ dpd-lith.akiktasi.shop
 dpd-lith.alkenez.shop
 dpd-lith.bskefibg.shop
 dpd-lith.hoslkg.shop
-dpd-lith.kikin.shop
 dpd-lith.luckikt.shop
 dpd-lith.miamila.shop
 dpd-lith.okiky.shop
