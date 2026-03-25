@@ -43961,6 +43961,7 @@ telegram-fg.com
 telegram-fr.com
 telegram-gg.com
 telegram-gpt.com
+telegram-gtp.com
 telegram-hb.com
 telegram-hb.org
 telegram-ig.com
