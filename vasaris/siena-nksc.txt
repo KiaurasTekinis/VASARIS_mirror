@@ -22736,6 +22736,7 @@ jubecuc.icu
 jubiliejausspecialiakcija.com
 jubreu.com
 jud-u-rf.info
+jud-umprisjungimas.info
 jud-uprisijungimas.info
 jud-uprisjungimas.info
 judicial-ky.cc
@@ -38328,6 +38329,10 @@ rk202393484017.top
 rk20394040953.top
 rk20394299502.top
 rk2050382802.top
+rk222930394293.top
+rk230529303847.top
+rk231939293847.top
+rk232038202387.top
 rk27203940244.top
 rk27270940104.top
 rk2747491311.top
@@ -43942,6 +43947,7 @@ telegarm-ai.com
 telegarm-ai.org
 telegarm-ai.vip
 telegarm-sce.com
+telegarm-ver.com
 telegarm.icu
 telegarms.org
 telegegrran.cc
@@ -44168,8 +44174,12 @@ tfx8ff.com
 tg-24.online
 tg-gtp.com
 tg-gtpvip.com
+tg-hol.top
 tg-jionup.online
 tg-join.fun
+tg-ndl.top
+tg-nld.top
+tg-ver.com
 tg-wep.online
 tg-wep.ru
 tg012.com
@@ -45427,6 +45437,7 @@ trust-waiiet.com
 trustcard-2026.icu
 trustcard-connect.icu
 trustcards.icu
+trustcards.sbs
 trustcid.online
 trusted-gift.com
 trusted-portfolio.ltd
