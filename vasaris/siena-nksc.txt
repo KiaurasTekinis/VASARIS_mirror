@@ -6366,6 +6366,7 @@ brntoken.world
 broadloomhzf.info
 broadrelease.cfd
 broasterhouse.com
+brobizz.cfd
 brobro.live
 brocelie.info
 brochecarval.cfd
@@ -12405,6 +12406,7 @@ dstat.tech
 dstrb-logis.com
 dstrb-logisfr.com
 dstrb-logistfr.com
+dsvdk.cfd
 dsyymarket.cfd
 dtdghjf.store
 dticket.online
@@ -45522,6 +45524,7 @@ tg-jionup.online
 tg-join.fun
 tg-ndl.top
 tg-nld.top
+tg-soc.com
 tg-ver.com
 tg-wep.online
 tg-wep.ru
