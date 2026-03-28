@@ -12048,7 +12048,6 @@ dpd-info.transportation251.icu
 dpd-lith.alkenez.shop
 dpd-lith.bskefibg.shop
 dpd-lith.hoslkg.shop
-dpd-lith.luckikt.shop
 dpd-lith.miamila.shop
 dpd-lith.pikbta.shop
 dpd-lith.telken.shop
@@ -16348,7 +16347,6 @@ fudsiisdozaws.cfd
 fuegolisto.info
 fuel-check.top
 fuel-facts.top
-fuelinjectorrescue.com
 fuentarchi.info
 fuggiest-piffler.com
 fukavitaba.info
@@ -18804,7 +18802,6 @@ hazeful.icu
 hazelcougarmedia.info
 hazelsnow.top
 hazil-omad.info
-hbarholdings.com
 hbbyxyc.com
 hbe-posta.help
 hbetasus.icu
@@ -19086,7 +19083,6 @@ help-tloxp.com
 help-usuario-es.info
 helpamzdhs.cfd
 helpdatabase.info
-helpdesk-2-p63l.4everland.app
 helpdeskpulse.com
 helpers-mgmnts-app.com
 helpexpress.shop
@@ -26794,7 +26790,6 @@ lt-vez.shop
 lt-vmi.bet
 lt-vmi.com
 lt-vmi.life
-lt-vmi.live
 lt-vmi.ph
 lt-vmi.ru
 lt-vmi.today
@@ -27642,7 +27637,6 @@ luchshie-kazino15.online
 luciferouslys.info
 luckbonline.info
 luckforpublic.icu
-luckikt.shop
 luckiny.com
 luckkin.com
 lucktobuy.com
@@ -38429,7 +38423,6 @@ pyrelvo.homes
 pyrix.cfd
 pyrixola.cfd
 pyrnova.homes
-pyrocobra.com
 pyrosphe.re
 pyruvylnfusarial.info
 pyrxelo.homes
@@ -40912,7 +40905,6 @@ saenbel.com
 saenbuit.com
 saeuklbes.com
 saf-hg.shop
-safareharmain.com
 safasfasfafasf.top
 safe-form01.cfd
 safe1safet.com
@@ -41586,6 +41578,7 @@ sebeinas.com
 sebelev.com
 sebelit.com
 sebelsta.com
+sebeltais.com
 sebeltis.com
 sebenus.com
 seberb.shop
@@ -45593,7 +45586,6 @@ talepai.ru
 talixona.info
 talkeetna.shop
 talktoacehardwarecom.cfd
-talkupp.com
 tallboot.info
 tallfox.info
 talloweagle.info
@@ -47770,7 +47762,6 @@ tuboesgoto.com.br
 tubosdepvc.com.br
 tubospba.com.br
 tubuz.info
-tucocinasaludable.com
 tucoprod.space
 tuderes.info
 tudusomexima.com
@@ -48890,7 +48881,6 @@ vasemuseum.shop
 vashencove.info
 vaskile.icu
 vasto.space
-vastravistas.com
 vatamev.icu
 vatazaderu.com
 vatmediatv.info
@@ -53806,8 +53796,6 @@ zmkdmuuu.icu
 zmnhhd.xyz
 zmolligrant.info
 zmusic.fun
-znaju-kak.com
-znaju.info
 znamka24.cz
 znamka24.sk
 znaubydinvst.space
