@@ -490,6 +490,7 @@
 28383.cfd
 28392.cfd
 2853895.info
+29-03.info
 29040492.cfd
 292040.top
 29372334.cfd
@@ -12666,6 +12667,7 @@ e-mongollia.com
 e-oyundunyasi.cfd
 e-p-elpasiiaugos.info
 e-p-pasiiaugos.info
+e-p-pr-isijungti.info
 e-p05-epasiiaugos.info
 e-pa-raksts.info
 e-paraksts.icu
@@ -13480,6 +13482,7 @@ eothe.info
 eovlai.life
 eovv3c.cfd
 eowbl.icu
+ep-02-vs.info
 ep-asmimokos.info
 ep-bk29-2.info
 ep-byios-bk.info
@@ -23397,6 +23400,7 @@ jubecuc.icu
 jubiliejausspecialiakcija.com
 jubreu.com
 jud-u-rf.info
+jud-u03-29.info
 jud-umprisjungimas.info
 jud-uprisijungimas.info
 jud-uprisjungimas.info
@@ -31279,7 +31283,9 @@ ng08.top
 ng09.top
 ng102019087554.top
 ng102293032984.top
+ng102485489932.top
 ng102485620094.top
+ng102900921832.top
 ng132839405884.top
 ng139420329534.top
 ng139422726884.top
@@ -44807,7 +44813,6 @@ superlapkricioakcija.store
 supermoon.icu
 supernewbalance.com
 superonlyl.info
-superregs.pro
 superscary.info
 superseeker618.info
 superstoers.com
@@ -47571,7 +47576,6 @@ tuzyqobusy.icu
 tv-com-activate.info
 tv3byla.lt
 tv3naujiena.ltd
-tv3nelaimes.lt
 tv3radinys.lt
 tv3savaite.lt
 tv3vilnius.lt
@@ -48267,7 +48271,6 @@ us-novawavee.com
 us-ref.cfd
 us-thebeastforce.com
 us-web3.com
-us.kg
 us0web.com
 usabloch.shop
 usacars001.com
