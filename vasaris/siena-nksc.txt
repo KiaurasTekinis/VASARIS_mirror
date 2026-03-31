@@ -27687,8 +27687,6 @@ lt-vax.shop
 lt-vez.shop
 lt-vmi.bet
 lt-vmi.life
-lt-vmi.ph
-lt-vml.ph
 lt-vml.top
 lt-von.shop
 lt-wah.shop
@@ -31796,6 +31794,7 @@ nacescx.top
 nacexes.cfd
 nacexex.top
 nacexses.cfd
+nacextes.cfd
 nacexzes.cfd
 nachhaltiges.ch
 nacoex.top
