@@ -10667,6 +10667,7 @@ daovdk.cfd
 daowdk.cfd
 daoxdk.cfd
 daoydk.cfd
+daozdk.cfd
 daozhugeihun.cfd
 dapobuc.icu
 dapop.help
@@ -12710,6 +12711,7 @@ dpdbw.homes
 dpdcam.cc
 dpdcanvas.com
 dpdccz.cfd
+dpdcnl.cfd
 dpdcouk.cfd
 dpdcpost.buzz
 dpdcpost.cfd
