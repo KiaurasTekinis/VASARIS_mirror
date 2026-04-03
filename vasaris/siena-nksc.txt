@@ -10635,6 +10635,7 @@ daofdk.bond
 daofdk.cfd
 daogdk.cfd
 daoidk.cfd
+daojdk.cfd
 daokaqiefene.cfd
 daokdk.cfd
 daoldk.cfd
@@ -21633,6 +21634,7 @@ id293762.icu
 id293918.cc
 id294.click
 id2941id.click
+id29472.com
 id29494202.cfd
 id29530.surf
 id2971.com
