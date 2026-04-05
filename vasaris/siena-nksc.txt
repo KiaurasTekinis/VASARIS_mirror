@@ -513,7 +513,6 @@
 280126.online
 282050.top
 28383.cfd
-2853895.info
 28zb0.icu
 29-03-2026.info
 29-03.info
@@ -23541,6 +23540,7 @@ iztsu.info
 j-a-reckoning.cfd
 j-gatew.club
 j-u-du-vbpp.info
+j-udu-e-portaia-s.info
 j-udu-eprisijung.info
 j-uduprieiiga.info
 j-uduvk.com
@@ -32135,6 +32135,7 @@ ng017.co
 ng02201058714.top
 ng02321842014.top
 ng03.top
+ng035897665409.top
 ng05.top
 ng050291058902.top
 ng06.my
@@ -38367,10 +38368,6 @@ portal-rotadigital.cfd
 portal-security.com
 portal-st.com
 portal-superdispatch.com
-portal-vmi.ph
-portal-vmi.ws
-portal-vml.ph
-portal-vml.ws
 portal24horas-lpva.fun
 portalacessointeligente.cfd
 portalacessoprivado.cfd
@@ -38999,7 +38996,6 @@ prlstatumo-formallzavlm-gavmlas.cfd
 prlxgo.cfd
 pro-choice.icu
 pro-sb-lt00.com
-pro-sb-lt20.com
 pro-sb-lt60.com
 pro-worldsystem.site
 pro100ai.site
@@ -46755,7 +46751,6 @@ swiftspire-talnor.net
 swiftstakingfx.com
 swiftsynconline.com
 swipcas.com
-swipto.shop
 swishfundboxreach.info
 swishfundopsreach.info
 swishfundpartner.info
@@ -51673,8 +51668,6 @@ vml-lt-13.com
 vml-paslauga.icu
 vml-pazeidimai.com
 vml-portal.icu
-vml-portal.ph
-vml-portal.ws
 vml-portalas.digital
 vml-portalas.icu
 vml-service.be
