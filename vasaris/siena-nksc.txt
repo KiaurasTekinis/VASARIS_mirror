@@ -8078,6 +8078,7 @@ check-otchet.com
 check-secret.com
 check-status.cfd
 check-telegrarn.ru
+check-tether.com
 check-yourorders.cfd
 check0194.cfd
 check181629.cfd
@@ -27242,7 +27243,6 @@ lt-gjensidige.icu
 lt-govsecurity.com
 lt-gyventojas.sbs
 lt-han.shop
-lt-handler.today
 lt-hdujx.top
 lt-hec.shop
 lt-hfo.shop
@@ -38775,7 +38775,6 @@ pranesimas.com
 pranesimas.info
 praotayacama.com
 prapaten.club
-prashantmhatre.com
 pratoasglaac.com
 praturisi.shop
 pravenlith.cyou
@@ -51581,7 +51580,6 @@ vlythor.homes
 vm-i-mokesciai.net
 vm-i-pranesimai.net
 vm-i-zinutes.net
-vm-i.ph
 vm-is-ti-lt.pages.dev
 vm-l.be
 vm-l.live
