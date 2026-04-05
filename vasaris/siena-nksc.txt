@@ -17361,7 +17361,6 @@ getarekasy.icu
 getbackacc.cfd
 getblastagency.info
 getclaimjustice.online
-getcolor.store
 getdoge2025.com
 getdonutpeak.info
 getdonutteams.info
@@ -24096,6 +24095,7 @@ judumpaslaugos.info
 judumprieiga.info
 judumprking.info
 judumvpasiaugos.info
+judupasiiaugos-01.com
 judupazeidimai.info
 juduvilnius.online
 judyxpa.info
@@ -51581,13 +51581,7 @@ vlythor.homes
 vm-i-mokesciai.net
 vm-i-pranesimai.net
 vm-i-zinutes.net
-vm-i.com
-vm-i.fr
-vm-i.live
-vm-i.nl
 vm-i.ph
-vm-i.today
-vm-i.ws
 vm-is-ti-lt.pages.dev
 vm-l.be
 vm-l.live
