@@ -17378,7 +17378,6 @@ getisud.icu
 getit2day.info
 getjavira.store
 getkidclothes.com
-getkrovix.store
 getliveskinspro.com
 getlog.icu
 getlondonelectrician.com
@@ -34278,6 +34277,7 @@ order-shop.rest
 order-sold.com
 order-verif24213.com
 order-verlfication.help
+order-verlflcation.com
 order001412.com
 order002918572.live
 order0040890257.com
@@ -38999,7 +38999,6 @@ prlstatumo-formallzavlm-gavmlas.cfd
 prlxgo.cfd
 pro-choice.icu
 pro-sb-lt00.com
-pro-sb-lt60.com
 pro-worldsystem.site
 pro100ai.site
 pro100crm.art
