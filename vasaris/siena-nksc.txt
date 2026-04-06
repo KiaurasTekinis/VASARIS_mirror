@@ -9980,6 +9980,7 @@ daoacdk.cfd
 daoadk.cfd
 daoasdk.cfd
 daoasen.cfd
+daoavdk.cfd
 daobdk.cfd
 daocdk.cfd
 daoddk.cfd
@@ -37270,7 +37271,6 @@ prjolie.online
 prlstatumo-formallzavlm-gavmlas.cfd
 prlxgo.cfd
 pro-choice.icu
-pro-sb-lt00.com
 pro-worldsystem.site
 pro100ai.site
 pro100crm.art
@@ -40644,7 +40644,6 @@ savoirassiettetr.info
 savojou.info
 savorinelu.cfd
 savorypaths.pro
-savourrelish.com
 savtigo.com
 savzino.cfd
 sawagin.icu
@@ -49312,7 +49311,6 @@ vm-l.be
 vm-l.live
 vm-l.ph
 vm-l.ru
-vm-l.today
 vm-l.ws
 vm.i-pazeidimai.com
 vm.i-sso.lt
