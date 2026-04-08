@@ -987,7 +987,6 @@
 72387.cfd
 724transfer.international
 725423344.cfd
-725472.icu
 72615.cfd
 7263138.icu
 73728-coinspot.com
@@ -26082,6 +26081,7 @@ lt-baxa.shop
 lt-bk.com
 lt-bk.life
 lt-bkpranesimai.info
+lt-bnks.digital
 lt-bvs.info
 lt-byla-prisijungti.net
 lt-cex.shop
@@ -30834,7 +30834,9 @@ ng209298302910.top
 ng20ywo.cn
 ng21cc.com
 ng220938298200.top
+ng2282957393321.top
 ng229203038200.top
+ng22930498543321.top
 ng23.vip
 ng24.info
 ng25cc.com
