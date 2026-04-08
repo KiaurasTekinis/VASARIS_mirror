@@ -13839,7 +13839,6 @@ etape4-securipass.com
 etape5-securipass.com
 etape6-securipass.com
 etape7-securipass.com
-etastravel.com
 etatami.shop
 etcdgtes.com
 eteismai.it-aktyvacija.net
@@ -26133,7 +26132,6 @@ lt-eservice.icu
 lt-eservices.com
 lt-eso.icu
 lt-eso.xyz
-lt-esveikata.world
 lt-etz.shop
 lt-far.shop
 lt-gjensidige.icu
@@ -47144,6 +47142,7 @@ trupeer.info
 trust-aml.cfd
 trust-cards-now.icu
 trust-cards.co
+trust-cards.sbs
 trust-gasfree.icu
 trust-invoice.info
 trust-pharmacy.today
