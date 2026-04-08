@@ -8,6 +8,7 @@
 11.troya.one
 11filmux.org
 12-kanal.ru
+123-movies.zone
 123movies.gl
 123moviesfree.net
 13.troya.one
@@ -147,11 +148,14 @@ cdn.ch03.sh365.org
 cdn2.troya.one
 cdn3.troya.one
 ch01.sh365.org
+cineb.gg
 cineb.rs
 cineby.app
 cineby.gd
+cinego.tv
 cinema-24.in
 cinema.hdrezka.info
+cinemarus.ru
 climetv.eu
 cmlhz.com
 coldfilm.bar
@@ -179,6 +183,7 @@ domkino.tv
 dood.li
 dorama.land
 doramy.club
+downloads-anymovies.co
 duna-lordfilms.ru
 duna-prorochestvo.fans
 duna-prorochestvo.ru
@@ -195,6 +200,7 @@ en44.sportplus.live
 eneyida.mirfilm.net
 epidemz.net.co
 epizod.cc
+er.ru
 eromoviez.com
 etvnet.com
 eu01.sh365.org
@@ -203,6 +209,7 @@ europe.playlist-play2pay.tk
 ex-fs.net
 externals.streema.com
 f.lordfilm.club
+famelack.com
 fast-torrent.club
 fast-torrent.ru
 filmai14.com
@@ -232,6 +239,9 @@ films.lordfilms.biz
 filmtorrent.biz
 filmux.nl
 fishcomqhana.ucc.edu.gh
+flixtor.name
+flixtor2.guru
+fmovies-hd.to
 fomny.com
 fox-tv.fun
 fox-tv.info
@@ -248,6 +258,7 @@ gamak.tv
 getsiptv.ru
 gg.lordseriall.host
 gid-online.ru
+gidonline.day
 gidonline.eu
 gidonline.fm
 gidonline.live
@@ -261,6 +272,8 @@ global-iptv.net
 go.teledays.live
 go2.utorr.cc
 godeaf.one
+goku.sx
+gomovies.tw
 gomoviestv.to
 goojara.life
 goojara.to
@@ -355,6 +368,7 @@ kino-demon.net
 kino-kach.ru
 kino-tapok.net
 kino.mirfilm.net
+kinoanonser.com
 kinobadi.mom
 kinobar.day
 kinobar.li
@@ -460,7 +474,9 @@ kinotorr.org
 kinotut.me
 kinotv.co
 kinoukr.mirfilm.net
+kinovhod.net
 kinovibe.co
+kinovibe.vip
 kinovo.mirfilm.net
 kinozal.me
 kinozal.tv
@@ -486,17 +502,21 @@ kurba-trend.ru
 kvn.ru
 labtor.tv
 lamafilm.club
+lanet.tv
 lapti.tv
 laptitv.org
 le-production.tv
 legendei.net
+lekuluent.et
 levidia2ch.city
 lightiptv.cc
 lightnovelworld.co
+limefilm.cc
 limehd.ru
 live.getsport.me
 liveam.tv
 lookmovie2.to
+lord.kim
 lordaserials.online
 lordfilm-dc.com
 lordfilm-ec.top
@@ -592,6 +612,7 @@ moviesjoyplus.to
 moviesjoytv.to
 moviestape.mirfilm.net
 movieuwutv.top
+movihd.org
 mu.hdrezka.pl
 muz1.tv
 my-serial.com
@@ -646,6 +667,7 @@ new.strah.tv
 newdeaf.co
 newkino.me
 news.by
+newserial.media
 nl.troya.one
 nl01.sh365.org
 nl2.troya.one
@@ -653,6 +675,7 @@ nlstream.ru
 nnmclub.to
 nov27.turbokino.tv
 nov28.turbokino.tv
+novamovie.net
 novinki-2024.pro
 novinki-2025.org
 novinki-kinoboom.ru
@@ -832,6 +855,7 @@ shrv.gb.net
 sktorrent.eu
 sky.kinonush.org
 skysharing.ru
+slidemovies.org
 smartonline.tv
 smarttvapp.ru
 smarttvnews.ru
@@ -849,6 +873,7 @@ soap2day.wiki
 soap2day.world
 soap2dayz.bz
 soaptoday.site
+solarmovie2.com
 soons2.kinobolt.net
 sovok.tv
 spbtv.online
@@ -864,6 +889,7 @@ strah.tv
 stream-24.net
 sub1.lordfilm-man.net
 sub1.lordfilmj.ru
+subsmovies.lol
 sunduk-tv.com
 supersmartv.com
 sweet.tv
@@ -918,6 +944,7 @@ tv.canlitvvolo.com
 tv.domatv.net
 tv.garden
 tv.mts.by
+tv.onetvuz.com
 tv.pokaz.me
 tv.rbc.ru
 tv.smotrim.ru
@@ -928,6 +955,8 @@ tv517.ru
 tv518.ru
 tvcool.lol
 tvicha.ru
+tvids.net
+tvids.to
 tvin.online
 tviptv.ru
 tvizi.net
@@ -948,6 +977,8 @@ ua.tv-series.download
 ua2.trova.one
 uaserials.mirfilm.net
 uaserials.pro
+uflix.cc
+ukraina.ru
 uniquestream.net
 upost.mirfilm.net
 uspeh.tv
@@ -987,11 +1018,13 @@ watch.streamflix.one
 watchcriminalminds.com
 watchfamilyguyonline.com
 watchseries.bar
+watchseries8.to
 watchsomuch.tv
 wcast.net
 webmaster.pp.ua
 webtoon.xyz
 westor.org
+westream.to
 wooflix.tv
 worthystream.com
 ww4.123movies.com.pk
@@ -1002,6 +1035,7 @@ yaomtv.ru
 yapolitic.ru
 yootv.host
 yummyani.me
+zakutka.com
 ze.baskino-space.fun
 zee5.com
 zetflix.online
