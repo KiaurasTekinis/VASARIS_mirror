@@ -34514,6 +34514,7 @@ pay-lnfo8565.shop
 pay-lnfo8566.shop
 pay-lnfo862.shop
 pay-send-order7122.com
+payblocked.com
 paybltref.icu
 paybyphone-gbr.com
 paycheck-trust.com
@@ -40252,6 +40253,7 @@ sebviunso.com
 sebvleh.com
 sebvleha.com
 sebvsala.com
+sebvsema.com
 sebvts.com
 sebwapp.com
 sebwapps.com
