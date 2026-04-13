@@ -11187,6 +11187,7 @@ dpd-autentifikacija.top
 dpd-com.one
 dpd-comi.cfd
 dpd-coml.cfd
+dpd-delivery-details.xyz
 dpd-delivery-link184526.world
 dpd-delivery.click
 dpd-delivery.co.uk
@@ -35167,6 +35168,7 @@ protmoa-swed-lv.com
 protoabandon.info
 protokiep.info
 protokoiep.info
+protokoiiai-e-p.info
 protokoiiaiepoii.info
 protokol.lat
 protomandir.info
