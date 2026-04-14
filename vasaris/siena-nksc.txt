@@ -2837,6 +2837,7 @@ apoverfahren.im
 app-american.express
 app-artea.com
 app-capital.one
+app-com.help
 app-dappradar.icu
 app-desktop-download.xyz
 app-gaianet.com
@@ -47190,6 +47191,7 @@ yadepaj.icu
 yadkolic.ru
 yaklex.online
 yaklre.ru
+yakrels.ru
 yaltasity.icu
 yaluqoqehe.com
 yamatojpa.help
