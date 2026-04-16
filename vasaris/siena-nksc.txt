@@ -8799,10 +8799,7 @@ cvozanexa.cfd
 cvozanexc.cfd
 cvozanexz.cfd
 cvxgr-tw.cfd
-cvxosnxe.cfd
 cvxrg-tw.cfd
-cvxzoaza.cfd
-cvxzoazs.cfd
 cvzaoena.cfd
 cvzaoene.bond
 cvzaoens.cfd
@@ -8827,8 +8824,6 @@ cvzoansn.cfd
 cvzoanss.cfd
 cvzoansv.cfd
 cvzoansz.cfd
-cvzoanxsc.cfd
-cvzoanxsz.cfd
 cvzoasna.cfd
 cvzoasnm.cfd
 cwjku-tw.cfd
@@ -10672,7 +10667,6 @@ dpdcpost.cfd
 dpdcpost.help
 dpdcpost.xyz
 dpdcsk.cfd
-dpdcz.cfd
 dpddeliveryi.shop
 dpddeliveryl.live
 dpddeliveryl.shop
@@ -16595,6 +16589,7 @@ hillingdonboilerexpert.com
 hillingdondiy.com
 hiltonbetguncel.icu
 hiltonsdock.com
+himaav.buzz
 himtools.com
 hindamtailor.cfd
 hingl-tw.cfd
