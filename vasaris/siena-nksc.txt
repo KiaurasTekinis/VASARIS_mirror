@@ -1005,7 +1005,6 @@
 8529618.cfd
 858.pics
 85kid6pi.shop
-860213.xyz
 862543912.cfd
 8654544.cfd
 865506.cyou
@@ -3252,6 +3251,7 @@ artealtbank.com
 artealto.art
 artealts.com
 artealtui.com
+artealtuoi.com
 arteaneit.com
 arteaneita.com
 arteanos.com
@@ -3395,6 +3395,7 @@ artsliveshow.com
 artsy-vibe.cfd
 artteaonline.net
 artuahome.com
+artuiasb.com
 artuieam.com
 artuiesa.com
 artuiwapp.com
@@ -29444,8 +29445,6 @@ no-onlineservice.com
 no-rwa.cfd
 no-tise-redirect-user99936452.cfd
 no-traak.cfd
-no-track.cfd
-no-trak.cfd
 no-trk.cfd
 no-trrk.cfd
 no-x.uno
