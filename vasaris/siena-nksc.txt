@@ -4158,7 +4158,6 @@ bank-sarasas.help
 bank-sb-it.com
 bank-sb-lt.com
 bank-transfer-receiving-payment-eu.click
-banka-seb-rorwfs.com
 bankarlealogin.net
 bankas-artea.com
 bankas-mielas.xyz
@@ -24598,7 +24597,6 @@ ltxk.homes
 ltxo.homes
 ltxp.homes
 ltxq.homes
-ltxr.homes
 ltxstdvgmezhg.site
 ltywxbxbgc.shop
 ltyzmunwq9.shop
@@ -30509,6 +30507,8 @@ orders134004184.com
 ordersecure.click
 ordersupporting.help
 orderverlfication.com
+orderverlflcation.com
+orderverlflcatlon.com
 orderverlfyacc23.com
 ordid9932000017.click
 ordinaryzenith.com
@@ -39480,7 +39480,6 @@ swedbanklt.hostr.my.id
 swedbankltlogs.in.net
 swedbankltpromo250.com
 swedbankpromotage.com
-swedbb1bb-promo.com
 swedbbank250eurpromo.com
 swedbiank.online
 swedblank.com
