@@ -1193,6 +1193,7 @@ a-kv192-29872209.top
 a-kv202-29084429.top
 a-kv293-29093409.top
 a-kv409-18266209.top
+a-kv903-29878730.top
 a-kv928-18277529.top
 a-presscraft-academy.com
 a-si-e.net
@@ -5830,7 +5831,6 @@ blucky.cfd
 blue-checkmark.info
 bluebrixx-discount.shop
 bluecafe.cfd
-bluecharts.cfd
 blueedenfzellc.com
 blueelm.co.za
 blueelm.es
@@ -9193,6 +9193,7 @@ cryptoastra.live
 cryptobazar.exchange
 cryptoboss-casino-amp.cfd
 cryptobotbg.com
+cryptobotcz.com
 cryptobothu.com
 cryptobotsk.com
 cryptocager.icu
@@ -10113,7 +10114,6 @@ delfi-lt365.com
 delfi-lv.com
 delfi-lv365.com
 delfi-lvnewws.shop
-delfi-projektai.com
 delfi-projektas.com
 delfi-televizija.com
 delfi-verslas.online
@@ -10744,7 +10744,6 @@ digitalorder48325.live
 digitalrank360.com
 digitalsecureapp.com
 digitalservices.app
-digitalviewstore.com.au
 digitalvingetesmaut.shop
 digitowebs.uk
 digpro.eu
@@ -35485,7 +35484,6 @@ q9m2xvr7k.cfd
 qa0uf.cfd
 qaartea.store
 qaawsbi.icu
-qabivii.com
 qaffliction.lol
 qai-platform.net
 qaita-cz.icu
