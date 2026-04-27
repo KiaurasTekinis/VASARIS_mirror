@@ -1209,6 +1209,7 @@ a-kv114-20928742.top
 a-kv129-192655229.top
 a-kv192-29872209.top
 a-kv202-29084429.top
+a-kv290-19098262.top
 a-kv293-29093409.top
 a-kv294-29890475.top
 a-kv409-18266209.top
@@ -2787,6 +2788,7 @@ appiepay-wallet.cfd
 appinstaprotect.com
 appitruweb.com
 appkb.cyou
+apple-lnforma.com
 apple-trade.com
 appleav1.icu
 applegrove.cfd
@@ -3858,6 +3860,7 @@ ausupdatesync.cfd
 autalwaro.top
 autem-facilis.site
 autenticacaopt.com
+autentife-poii.info
 autentifikacija.help
 autfid3904.icu
 auth-afcu-web-access.com
