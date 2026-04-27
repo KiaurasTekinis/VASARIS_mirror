@@ -1195,6 +1195,7 @@ a-kv192-29872209.top
 a-kv202-29084429.top
 a-kv293-29093409.top
 a-kv409-18266209.top
+a-kv900-19200482.top
 a-kv903-29878730.top
 a-kv928-18277529.top
 a-presscraft-academy.com
@@ -11174,7 +11175,6 @@ ebka-pendosaf.cfd
 eblinakg.cv
 ebluejay-verify.shop
 eblueprintrenovations.com
-ebo.ljfbn.dpdns.org
 ebpp-epasig.info
 ebrick-muse.com
 ebu.mom
@@ -23491,6 +23491,7 @@ lt-kob.shop
 lt-kortele.net
 lt-kv-k334.com
 lt-kv33.com
+lt-l.cfd
 lt-laiska.net
 lt-loc.shop
 lt-log.cc
@@ -38056,7 +38057,6 @@ slantrovee.cfd
 slaprathersupply.icu
 slatebven.com
 slatemira.top
-slatkacaitaoc.com
 slaugos.info
 slds.name
 slebapp.com
