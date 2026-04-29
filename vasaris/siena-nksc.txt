@@ -12680,6 +12680,7 @@ example777.sbs
 exbo.world
 exc-trxxes.shop
 exchaange-jup.icu
+exchange-btc.sbs
 exchange-ff.com
 exchange-swap.icu
 exchangee.cc
@@ -17510,6 +17511,7 @@ id-34534634564.info
 id-345346457689.info
 id-34535476.info
 id-345546567344.com
+id-3483661.com
 id-3519.shop
 id-362356.live
 id-3625.com
