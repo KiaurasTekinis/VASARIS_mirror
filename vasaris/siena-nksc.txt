@@ -22273,6 +22273,7 @@ leumi-bank.digital
 leumi-bank.pro
 leumi-bank.sbs
 leumi-bank.today
+leumi-bank.uno
 leumi-bank.website
 leumi.info
 leumibank.me
@@ -28392,6 +28393,7 @@ objects-id381762.top
 objects-id39871123.top
 objects-id4593.top
 objects-id472913.top
+objects-id47629.top
 objects-id478792.top
 objects-id4865281.top
 objects-id48747892.top
