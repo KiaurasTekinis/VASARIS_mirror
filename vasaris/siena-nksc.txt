@@ -1319,6 +1319,7 @@ account-helpdesk.icu
 account-helpdesk.info
 account-helpdesk.top
 account-identify.help
+account-processing.com
 account-stream.com
 account-thinkorswim-personal-auth.com
 account-update.cfd
@@ -8508,7 +8509,6 @@ daget4dset.icu
 dagongrenav.icu
 dahnticautqoaca.com
 daid9483.cn
-daikie.space
 dailies-total-one.com
 daily-backpack.com
 daily-boost.top
@@ -33018,6 +33018,7 @@ polybifilm.online
 polybricksgenerator.lol
 polymarkat.info
 polymarketscan.run
+polystamps.com
 pom-ad.shop
 pomaytka.cfd
 pomeranta.info
