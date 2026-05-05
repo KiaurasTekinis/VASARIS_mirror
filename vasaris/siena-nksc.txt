@@ -33120,7 +33120,6 @@ post-dpd.autos
 post-dpd.mom
 post-dpd.shop
 post-it.click
-post-lt-shop.shop
 post-lt.autos
 post-lt.bar
 post-lt.beauty
@@ -40671,7 +40670,6 @@ tokenmarketx.cfd
 tokentactone.com
 tokgo.net
 tokkimwaps.cfd
-tokoandah.com
 tokoyed.icu
 tokyo88slot.cfd
 tolestak.info
