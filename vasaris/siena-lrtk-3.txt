@@ -806,7 +806,6 @@ torrentfunk.proxyninja.org
 total-sportek.io
 total-sportek.to
 tpb-proxy.xyz
-tpb.re
 tpirbay.site
 tricolor.city
 tricolor.tv

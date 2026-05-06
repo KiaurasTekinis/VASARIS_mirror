@@ -350,6 +350,7 @@ kinogo-films.bike
 kinogo-go.net
 kinogo-tv.com
 kinogo.actor
+kinogo.at
 kinogo.autos
 kinogo.baby
 kinogo.bi
@@ -357,9 +358,11 @@ kinogo.bike
 kinogo.biz
 kinogo.black
 kinogo.blog
+kinogo.boats
 kinogo.buzz
 kinogo.cab
 kinogo.camera
+kinogo.care
 kinogo.casa
 kinogo.cc
 kinogo.center
@@ -369,6 +372,7 @@ kinogo.cl
 kinogo.club
 kinogo.codes
 kinogo.cx
+kinogo.dance
 kinogo.ec
 kinogo.family
 kinogo.fans
@@ -380,12 +384,14 @@ kinogo.hair
 kinogo.house
 kinogo.ist
 kinogo.ke
+kinogo.krd
 kinogo.la
 kinogo.land
 kinogo.li
 kinogo.life
 kinogo.limited
 kinogo.llc
+kinogo.loans
 kinogo.mba
 kinogo.md
 kinogo.me
