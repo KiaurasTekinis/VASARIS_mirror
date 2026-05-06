@@ -143,9 +143,11 @@ dontr.ru
 dozatv.org
 dp.ru
 dzen.ru
+edem-tv.com
 edem-tv.ru
 edemtv.me
 edemtv.my1.ru
+edemtv.net
 edemtv.smarttv-iptv.ru
 efir-tv.online
 ekb.tsargrad.tv
@@ -225,6 +227,7 @@ francais.rt.com
 freeassange.rtde.life
 freedert.online
 freeintertv.com
+freeiptv.pp.ua
 futbollibreonline.com
 galam-tv.com
 genip.tv
@@ -280,6 +283,7 @@ i-look.tv
 icanlive.tv
 id.rbth.com
 iedem.tv
+ilook-tv.tv
 ilook.tv
 ilooktv.com
 img.sputnik.az
@@ -301,7 +305,9 @@ iptv-kopen.com
 iptv-online.cc
 iptv-online.me
 iptv-revolution.com
+iptv-rus.com
 iptv-secured.com
+iptv.816-club.net
 iptv.gb.net
 iptv.online
 iptv.pm
@@ -310,6 +316,7 @@ iptvbelgique.com
 iptvlist.ru
 iptvnordic.info
 iptvonline.ddns.net
+iptvx.one
 ir.sputniknews.com
 iseetv.ru
 istoriya.tv
@@ -368,6 +375,7 @@ livehdtv.net
 liveonlineradio.net
 livetv.club
 livetvcentral.com
+lk.expert
 loobloo.tv
 lotosgtrk.ru
 lt.sputniknews.com
@@ -419,6 +427,7 @@ naukatv.ru
 network.1tv.com
 new-rus.tv
 new.limehd.tv
+new.tv.team
 newpeople.ru
 newru.tv
 nizarstream.xyz
@@ -467,6 +476,7 @@ ott-vip.ru
 ott.domatv.net
 ottbill.cc
 ottclub.tv
+ottgtv.ru
 ottplayer.tv
 ottv.xyz
 ovego.tv
@@ -641,11 +651,20 @@ sh365.xyz
 shara-tv.org
 shara.online
 shara.tv
+sharavoz-iptv.ru
+sharavoz-tv.ru
 sharavoz.com
+sharavoz.dev
+sharavoz.link
 sharavoz.ru
 sharavoz.tk
 sharavoz.tv
 sharavoz.xyz
+sharavozclub.online
+sharavozclub.ru
+sharavoztv.com
+sharavoztv.net
+sharavoztv.ru
 sharechat.com
 shoot-yalla-tv.live
 shoot-yalla.me
@@ -813,6 +832,7 @@ trt-tv.ru
 tsargrad.tv
 ttvrun.one
 tv-100.com
+tv-ch.ru
 tv-karelia.ru
 tv-lider.net
 tv-nasha.ru
@@ -856,6 +876,8 @@ tvsamara.ru
 tvset.cc
 tvshara.net
 tvsvoi.online
+tvteam.net
+tvteam.su
 tvtomsk.ru
 tvtvtv.ru
 tvzavr.ru
@@ -902,6 +924,8 @@ vip-drive.net
 vip-ip.com
 vip.tvua.biz
 vipdrive.net
+vipdrive.tv
+vipdriveinfo.net
 viperplayhd.com
 viplime.fun
 vipshara-iptv.com
