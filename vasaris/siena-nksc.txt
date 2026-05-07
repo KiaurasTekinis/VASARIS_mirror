@@ -2949,13 +2949,11 @@ artea.art
 artea.at
 artea.bg
 artea.cc
-artea.cloud
 artea.company
 artea.design
 artea.dev
 artea.digital
 artea.email
-artea.fun
 artea.ink
 artea.lt-e-sb.lt-email-online.compassmediaas.com
 artea.me
@@ -4513,7 +4511,6 @@ betebetguncel.icu
 betebetguncelgiris.icu
 betebetsonadres.icu
 betebett-gunceladresi.icu
-betebettim.icu
 betera-maxigame.online
 betera-official.online
 betera-top.online
@@ -5363,7 +5360,6 @@ bonus-2026.icu
 bonus-adresler.icu
 bonus-girisin.icu
 bonus-girisler.icu
-bonus-kazan.icu
 bonus-survey.com
 bonus-wheel.icu
 bonus2026.icu
@@ -5588,7 +5584,6 @@ brandsletter.icu
 brandstox.shop
 brankursine.cfd
 brascontactonew.com
-brasildedireita.cfd
 brasilia.cfd
 bratl4and.site
 bratla3nd.site
@@ -7096,7 +7091,6 @@ cloperuke.online
 cloraminb.shop
 clothecraze.com
 clothingfashion.cfd
-clothingforadifference.cfd
 cloud-idv-id02.bond
 cloud-idv-id04.bond
 cloud-idv-id05.bond
@@ -8167,7 +8161,6 @@ cshyqz.com
 cshzgy.com
 cskid49.com
 csmert.com
-csmsuvi.icu
 csnami.space
 csodrak.click
 csods48492.info
@@ -9727,7 +9720,6 @@ dovanukampanija.store
 dovanukortele.com
 dovanukortele.store
 dovanukuponai.store
-dovanupuslapis.com
 dovanureklama.store
 dovanuskatinimas.online
 dowload.world
@@ -10036,7 +10028,6 @@ dryntoklfbashev.cfd
 ds-lv-vld.net
 ds99shangrila.cfd
 dsaio.com
-dsapdlqpwd.icu
 dsc-electret.com
 dsecuree.world
 dsendsite.cfd
@@ -12457,7 +12448,6 @@ fixturesstore.com
 fizajuw.icu
 fizetes-elfogadja.click
 fizetes73293.click
-fjallravenkuprines.com
 fjanwjan.info
 fjentrobkashvud.cfd
 fjmfopydjfd.shop
@@ -14403,7 +14393,6 @@ guncel-bonuslar.icu
 guncel-giris1.icu
 guncel-giris21.icu
 guncel-giris3.icu
-guncel-girislerr.icu
 guncel-milanobet-gir.icu
 guncel-resmi.icu
 guncel-tr.icu
@@ -18858,7 +18847,6 @@ ivaskenolumpq.cfd
 ivggpoq.shop
 ividedpro.lol
 iviontelaa.cfd
-ivixru.cfd
 ivoneltrixa.cfd
 ivornaxelx.cfd
 ivornelrix.cfd
@@ -23359,7 +23347,6 @@ marijosjuvelyrika.com
 marineserre-eu.shop
 marisokadana.space
 maristika.lv
-marka.icu
 markarecommunications.com
 market-37.cloud
 market8.info
@@ -25381,7 +25368,6 @@ naturavita365.cfd
 naturbasiertan.info
 naturdepotbf.info
 naturdepotqm.info
-natureza.cfd
 naturlichebasis.info
 naturlichessenlo.info
 naturopatiacrista.com.br
@@ -25603,7 +25589,6 @@ nethaberci.info
 netherland-tickets.com
 nethide.net
 netid3.web.id
-netrunner.icu
 netstackixxx.cfd
 netstudio.icu
 netsvr.cloud
@@ -25626,7 +25611,6 @@ nev-estate.com
 nevajok.icu
 nevaju.cfd
 nevercas.com
-neves2748.icu
 nevontrixa.cfd
 nevver.app
 new-body.top
@@ -26766,6 +26750,7 @@ nytscb.click
 nz-post-delivery.com
 nz-redirect-id.info
 nz-tripferry.help
+nz-tripferrygo.help
 nzfid2.top
 nzpolicebillnz.cam
 nzpoliceo.com
@@ -33513,7 +33498,6 @@ plzm-sitebuilder.icu
 plzzadepotorder.click
 plzzadepotorder.rest
 pm-identify.com
-pmal-concurso.cfd
 pmeceba.shop
 pmgo.pw
 pmgunited.cfd
@@ -35353,7 +35337,6 @@ reclaimealco.com
 recobanort.cc
 recovereverything.com
 recoverycoordination.com
-recoveryfixer.cfd
 recoveryisimportantuh.info
 recoverypaid29.info
 recoveryservicesorg.com
@@ -38477,7 +38460,6 @@ signinzfg.icu
 signmyat0servau.top
 sihuwin.icu
 sijaruv.icu
-sijokiterus.cfd
 sijutus.icu
 sikazew.icu
 sikbjs.site
@@ -40159,7 +40141,6 @@ syntegons.com
 syntricapp.com
 synvepnest.cfd
 sypwkeyt.info
-syrywirpnr6.icu
 sysid2015.info
 system-moneyguard-protect.cfd
 system-verification.info
@@ -40173,11 +40154,8 @@ sysuppinfo34.com
 syxnh.cfd
 syxnh1.cfd
 syxnh2.cfd
-syxnh3.cfd
 syxnh4.cfd
 syxnh5.cfd
-syxnh6.cfd
-syxnh7.cfd
 sz4mkwuggtyl.icu
 szemvizualab.info
 szemvizualat.info
@@ -42255,7 +42233,6 @@ ulvornati.cfd
 ulvraxo.homes
 ulvxc.de
 umbdirectassist.icu
-umbggsvwxa1.icu
 umhjy-tw.cfd
 umhyj-tw.cfd
 umicratidbabunik.cc
@@ -42655,7 +42632,6 @@ ustrump.us
 ustrustwallet.com
 usuiuo.cc
 uswhfaihda.com
-utclipofqt2.icu
 utezz8.cfd
 utilityestee.info
 utionac.icu
@@ -42712,7 +42688,6 @@ uyiwm-tw.cfd
 uyjkg.de
 uymhj-tw.cfd
 uymiw-tw.cfd
-uypbfjckax9.icu
 uyrid4zd.com
 uytinbanghe.cfd
 uytinbatdongsan.cfd
@@ -43587,7 +43562,6 @@ viorenlit.cfd
 viorenlt.cfd
 viorenltt.cfd
 vioyletai.cfd
-vip-adres.icu
 vip-entry.com
 vip-jk.za.com
 vip168v.icu
@@ -45162,11 +45136,8 @@ wyatx.icu
 wygfex.xyz
 wyldcardz.app
 wyldy.cfd
-wyldy1.cfd
 wyldy10.cfd
-wyldy11.cfd
 wyldy2.cfd
-wyldy3.cfd
 wylqiro.homes
 wynb88.info
 wyoxec.com
@@ -46256,7 +46227,6 @@ zlegar.live
 zlentax.homes
 zlo1911.tech
 zlomoinc.monster
-zlongv.icu
 zlotdanrt24.cfd
 zlotgiriss.icu
 zlotguncel1.icu
