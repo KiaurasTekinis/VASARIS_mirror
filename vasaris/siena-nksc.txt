@@ -36213,6 +36213,7 @@ sebnlv.com
 sebnot.com
 sebnsav.com
 sebnset.com
+sebnsets.com
 sebntal.com
 sebntevom.com
 sebntiv.com
@@ -36314,6 +36315,7 @@ sebvaislt.com
 sebvapp.com
 sebvcel.com
 sebvect.com
+sebveim.com
 sebvelips.com
 sebvelisl.com
 sebvelisq.com
@@ -40012,7 +40014,6 @@ torontoblackcovid02.shop
 torontoblackcovid03.shop
 torontoblackcovid3.shop
 torontoblackcovid4.shop
-torpid-wax.surge.sh
 torqen.icu
 torsanaap.info
 tortik.info
