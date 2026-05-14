@@ -19211,6 +19211,7 @@ leumi-bank.cyou
 leumi-bank.digital
 leumi-bank.pro
 leumi-bank.sbs
+leumi-bank.su
 leumi-bank.today
 leumi-bank.uno
 leumi-bank.website
