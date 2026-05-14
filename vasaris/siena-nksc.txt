@@ -13442,6 +13442,7 @@ handler.org
 handler.pw
 handler.ru
 handler.se
+handler.studio
 handler.top
 handler.uk
 handler.us
@@ -34883,6 +34884,7 @@ savitarna-ld.icu
 savitarna-ld.life
 savitarna-ld.today
 savitarna-lt.info
+savitarna-rk181407504.com
 savitarna-rk239240204.com
 savitarna-unlpark.it
 savitarna.it
