@@ -21827,7 +21827,6 @@ mercadplay.icu
 mercari-sold.shop
 merch-box.club
 merchant-uab.com
-merchantuab.co
 merchpulsar.com
 mercidr.shop
 mercilessnesslgg.online
@@ -30132,7 +30131,6 @@ pijami.shop
 pijisod.icu
 piketaw.cfd
 pikoclearance.com
-pilave.com
 pilnasdovanu.com
 pilnassdovanu.com
 pilnassdovanu.store
@@ -31553,6 +31551,7 @@ punarvaoils.com
 punctualjuice.info
 pung-go.com
 punktasepol.info
+punktasepolviiniaus.info
 punktasepviinius.info
 puntoaparteconsultora.com.ar
 puntopelletemangimi.icu
@@ -34687,7 +34686,6 @@ sh8uku.cfd
 shaaheeid4u.net
 shaaktihardware.com
 shadowpro.tech
-shadowviewstage.com
 shahheeid4u.net
 shahid4u.beer
 shahid4u.guru
@@ -37022,6 +37020,7 @@ texopok.icu
 textbridge.icu
 texterequest.com
 texterrest.chat
+textview.org
 texucog.icu
 teyro.app
 tezedof.icu
