@@ -5452,6 +5452,7 @@ camillo.shop
 camino35-bag.us
 camino35-offer.us
 camino35carryall.us
+canaanites-land.com
 canadacoresun.com
 canadaremoteschool.ca
 canadauthe.info
@@ -11441,6 +11442,7 @@ fun-app-wailet-api-v2-connect.com
 fun-app-wallet-api-connect-v2.com
 fun-app-wallet-apiv2-connect.com
 fun-tokens.com
+fund-next.com
 fundaciocaixatarragona.com
 fundacioespais.com
 fundacioncirujanosplasticos.com
