@@ -3361,6 +3361,8 @@ avvabetguncelkorumaadres.icu
 avvabetguncelkorumalink.icu
 avvabetkoruma.icu
 avzrrwieni8f.today
+awa-wsde.icu
+awa-wsdf.icu
 await-sale.cfd
 awakentherebelcom.cfd
 awardworkshop.com
@@ -12705,8 +12707,13 @@ gotransit-ca.com
 gotransit.world
 gotusbuy.com
 gourmet-box.org
+gov-ad.org
 gov-ced.icu
 gov-co.cc
+gov-ee.one
+gov-hamh.life
+gov-hamz.life
+gov-intel.co
 gov-it.mom
 gov-lt.one
 gov-p.cfd
@@ -12715,12 +12722,17 @@ gov-sby.cfd
 gov-sby.icu
 gov-sru.cfd
 gov-t.cfd
+gov-tt.one
+gov-tt.qpon
+gov-wsd.cam
+gov-wsd.icu
 govcqh.cfd
 govcr.icu
 goveburos.com
 govga.help
 govgc.help
 govgd.help
+govit.bar
 govit.mom
 govit.one
 govmui-gov.cfd
@@ -13637,7 +13649,6 @@ hid8group.co
 hid9.com
 hiddenpearl.co
 hiddenvalue.click
-hidfol.com
 hidummer.cfd
 hienryis.shop
 hiforwardin.com
@@ -20127,6 +20138,7 @@ lrncsv.icu
 lrt-cloud.xyz
 lrt-news.xyz
 lruid218.com
+lrvlt.shop
 ls00id6i.lol
 lsboia.click
 lsdatcaawbo.com
@@ -20220,6 +20232,7 @@ lt-eso.xyz
 lt-etz.shop
 lt-far.shop
 lt-gjensidige.icu
+lt-gov.one
 lt-govsecurity.com
 lt-han.shop
 lt-hdujx.top
@@ -21201,6 +21214,7 @@ luxevia.cfd
 luxewex.com
 luxroxs.com
 luxsrz.ru
+luxswatchco.com
 luxufau.info
 luxuri.cfd
 luxury-boostgain-kz.icu
@@ -23061,6 +23075,7 @@ mxjnsi.cc
 mxodagulo.store
 mxohosaje.store
 mxolobume.website
+mxrtil.com
 mxvykjhlkmszzownyebn.cfd
 mxwin.icu
 my-ceska.com
@@ -23557,6 +23572,7 @@ netholiganbetorg.icu
 netid3.web.id
 netiket.icu
 netsvr.cloud
+network-aux-widget.com
 network-load.com
 network-loads.com
 networkglownativenumber.cfd
@@ -28864,6 +28880,7 @@ polybfilm.online
 polybfilm.ru
 polybifilm.online
 polymarketscan.run
+polymon-live.com
 polystamps.com
 pom-ad.shop
 pomeranta.info
@@ -31273,6 +31290,7 @@ rtmshop.yachts
 rtmzqjvxpl.cfd
 rtp01-qq365.online
 rtp02-qq365.online
+rtp03-qq365.online
 rtpbmw4d.com
 rtpdewaarena26.cfd
 rtpsetiawd.com
@@ -34710,6 +34728,9 @@ swiswatch.shop
 switzerland-vignette.shop
 swlxll.rest
 swoploot.cfd
+sws-wsda.icu
+sws-wsdb.icu
+sws-wsdc.icu
 swuiernas.com
 sxav8.cfd
 sxjcntgc.com
@@ -38191,6 +38212,7 @@ vplay.com.vn
 vplqznr.cfd
 vpm-viss.lat
 vpn-add.com
+vpn300.com
 vpnhub.shop
 vpnhub.space
 vpnlithuania.pro
@@ -38955,6 +38977,12 @@ ws-bltk-shield.com
 ws-web-oss.icu
 wscpny.com
 wscsdcfvsse5.icu
+wsd-gov.icu
+wsd-gov.one
+wsd-gov.shop
+wsd-l.cfd
+wsd-l.mom
+wsd-l.sbs
 wsdfggwer.com
 wsdroneservices.ca
 wshcod.live
