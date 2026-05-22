@@ -13003,6 +13003,7 @@ gov-am.qpon
 gov-ced.icu
 gov-co.cc
 gov-ee.one
+gov-gosusllugi.site
 gov-hamh.life
 gov-hami.life
 gov-hamo.life
@@ -13024,6 +13025,8 @@ gov-parkinga.shop
 gov-parkinga.top
 gov-parkingb.cyou
 gov-parkingc.cyou
+gov-parkingc.shop
+gov-parkingc.top
 gov-parkingd.cyou
 gov-parkingd.shop
 gov-parkingd.top
@@ -13036,8 +13039,13 @@ gov-parkingg.cyou
 gov-parkingh.cyou
 gov-parkingi.shop
 gov-parkingj.cyou
+gov-parkingj.shop
+gov-parkingj.top
 gov-parkingk.cyou
+gov-parkingk.top
 gov-parkingl.cyou
+gov-parkingl.shop
+gov-parkingl.top
 gov-parkingn.cyou
 gov-parkingq.shop
 gov-parkingq.top
@@ -13054,9 +13062,13 @@ gov-parkingv.cyou
 gov-parkingw.shop
 gov-parkingw.top
 gov-parkingx.cyou
+gov-parkingx.shop
+gov-parkingx.top
 gov-parkingy.shop
 gov-parkingy.top
 gov-parkingz.cyou
+gov-parkingz.shop
+gov-parkingz.top
 gov-pt.cfd
 gov-sby.cfd
 gov-sby.icu
@@ -13076,6 +13088,7 @@ govcr.icu
 govdbf.cam
 govdfg.cam
 govdtt.cam
+goveagleai.com
 goveburos.com
 governance-unipeg.app
 governitgrc.com
@@ -13090,6 +13103,7 @@ govhtb.cam
 govic.app
 govikl.cam
 govindportfolio.com
+govinfochoi1.com
 govista.shop
 govit.bar
 govit.mom
@@ -13101,6 +13115,7 @@ govlt.cam
 govlt.one
 govme.xyz
 govmedcred.com
+govnaa.cc
 govoty.cam
 govpo.cfd
 govpoeks.cfd
@@ -17855,6 +17870,8 @@ ironrise.cfd
 ironrole.cfd
 ironwoodfinanncial.com
 irtissi.info
+irv-gov.com
+irv-it.com
 irv.it
 irvinemommyfitness.com
 is8bh.cfd
@@ -20696,6 +20713,7 @@ lruid218.com
 lrv-gov.com
 lrv-lt.com
 lrv-lt.lat
+lrv-lt.shop
 lrve-9bo.com.cn
 lrvlt.shop
 ls00id6i.lol
@@ -23281,6 +23299,7 @@ mof-gov.mom
 mof-gov.pics
 mof-gov.quest
 mof-gov.top
+mogovya.com
 mohallamart.com
 mohammademon.ca
 mohopen.icu
@@ -34959,6 +34978,7 @@ ss-o.it
 ss0-vmi.it
 ss0-vmi.lt
 ss0vmi.lt
+ssa-gov.org
 sscrewfiix.com
 ssdama.com
 sseghne.icu
@@ -36672,6 +36692,7 @@ tnfirm.icu
 tnlegsem.cc
 tnmnews.com
 tnompsonet.icu
+tnonscan.info
 tnouucn.org
 tnrzplq.cfd
 tnrzplqtr.cfd
