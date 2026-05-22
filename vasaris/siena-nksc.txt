@@ -2010,6 +2010,7 @@ amibuy.shop
 amice.cl
 amicoo.shop
 amiee.shop
+amigovapeshop.com
 amiletbea.com
 amillare.com
 amilt.shop
@@ -10884,6 +10885,7 @@ faceid84.site
 faceit-update.com
 faceline.cfd
 facelt-verification.pro
+fadbae.com
 fadvis.cc
 faedu.de
 fafahow.icu
@@ -12982,13 +12984,21 @@ gov-lt.one
 gov-p.cfd
 gov-parking.shop
 gov-parking.top
+gov-parkinga.shop
+gov-parkinga.top
+gov-parkingd.shop
+gov-parkingd.top
 gov-parkinge.shop
 gov-parkinge.top
+gov-parkingf.shop
+gov-parkingf.top
 gov-parkingi.shop
 gov-parkingq.shop
 gov-parkingq.top
 gov-parkingr.shop
 gov-parkingr.top
+gov-parkings.shop
+gov-parkings.top
 gov-parkingt.shop
 gov-parkingt.top
 gov-parkingu.shop
@@ -13002,6 +13012,7 @@ gov-sby.cfd
 gov-sby.icu
 gov-sru.cfd
 gov-t.cfd
+gov-tt.com
 gov-tt.one
 gov-tt.qpon
 gov-wsd.cam
@@ -13015,6 +13026,7 @@ govdbf.cam
 govdfg.cam
 govdtt.cam
 goveburos.com
+governance-unipeg.app
 governitgrc.com
 government.quest
 governmint.pw
@@ -33626,6 +33638,7 @@ sfutility.lol
 sg-direction.ca
 sg-en.com
 sg-en.info
+sg-gov.info
 sgdordrld293819.cfd
 sgfdfc.help
 sgffbjkey.com
