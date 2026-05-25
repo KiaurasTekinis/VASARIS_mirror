@@ -12,6 +12,7 @@ cigslt.shop
 cigslt.site
 cigslt.store
 cigslt.top
+cigslt.vc
 ecodumas.com
 ecodumas.lt
 ecodumasparduotuves.lt
