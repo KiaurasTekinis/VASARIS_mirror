@@ -9049,7 +9049,6 @@ delfinevvs.shop
 delfinew.shop
 delfinewbz.site
 delfinewlt.online
-delfinewltt.site
 delfinewslt.site
 delfinewss.site
 delfinewwss.shop
@@ -23239,6 +23238,7 @@ luvmatcher.info
 luvost.com
 luvpatment.com
 luxcasae.com
+luxdeveraux.com
 luxearabiaco.com
 luxenestnet.com
 luxevia.cfd
