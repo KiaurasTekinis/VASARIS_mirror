@@ -2802,7 +2802,6 @@ artea.design
 artea.dev
 artea.digital
 artea.ink
-artea.lt-e-sb.lt-email-online.compassmediaas.com
 artea.me
 artea.media
 artea.nz
@@ -13634,6 +13633,7 @@ gk444.cfd
 gkb-ch.sbs
 gkb.rest
 gkgabc.icu
+gkpbzt.click
 gkwgov.com.br
 gl0balverlfy.cfd
 glamygoddess.com
