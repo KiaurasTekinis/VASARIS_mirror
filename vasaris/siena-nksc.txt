@@ -3661,6 +3661,7 @@ automotive-guide.info
 automotive-maintenance-tips.info
 automovelprime.top
 autonomous-os.dev
+autoportal.top
 autorizacijos-puslapis.icu
 autowelt-center-lt.myfreesites.net
 autraweb.com
@@ -14735,6 +14736,7 @@ groauadeap.live
 grobnicamail.com
 grok46k.icu
 groovelaunchlegal.cfd
+grospay.de
 grounded.icu
 groundsdark.cfd
 groupbustravel.ru
