@@ -24586,6 +24586,7 @@ mecsmes.icu
 mecunul.icu
 med-ge.skin
 med1a-software.com
+medai.team
 medalevent.icu
 medellya.co
 medepage.com
@@ -31898,6 +31899,7 @@ postx-at.cfd
 postx.shop
 postzb.cfd
 postzbg.cfd
+posvit.shop
 pot-vas.shop
 potafat.icu
 potbet.cfd
