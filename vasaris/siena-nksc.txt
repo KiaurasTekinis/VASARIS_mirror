@@ -3034,6 +3034,8 @@ artemisbetnewinfo7.icu
 artemisbett.icu
 artemisbettcanli.icu
 artemla.com
+artemlita.com
+artemlkta.com
 artemlta.com
 artemuseum.world
 artenaeal.com
@@ -40680,7 +40682,6 @@ vasemuseum.shop
 vatangram.app
 vatburn.cfd
 vatleve.cfd
-vatoslocos.shop
 vatzone.cfd
 vau1tmexicco-app.icu
 vaucluse7.shop
