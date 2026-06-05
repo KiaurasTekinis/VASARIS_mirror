@@ -2625,6 +2625,7 @@ apmokejimas.cfd
 apmokejimas.click
 apmokejimas.hair
 apmokejimas.help
+apmokejimas.icu
 apmokejimas.top
 apmokejimas.vu
 apnertea.com
