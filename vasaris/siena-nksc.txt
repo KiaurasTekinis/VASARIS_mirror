@@ -17575,6 +17575,7 @@ id61062.info
 id6121965revrse-confrlm-panel.icu
 id6162.cfd
 id61658.info
+id6169039.com
 id61707739219.click
 id62.top
 id6200.com
@@ -21853,7 +21854,6 @@ lithuaniaagents.xyz
 lithuaniaagi.xyz
 lithuaniaartean.net
 lithuaniaassistant.xyz
-lithuaniabankasl.net
 lithuaniabankinglog.net
 lithuaniabankslog.net
 lithuaniabtc.xyz
