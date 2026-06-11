@@ -15188,7 +15188,6 @@ handler.xyz
 handleyadams.com
 handmadecx.shop
 handmadepe.click
-handmadeqn.shop
 handmadeug.click
 handmadeus.click
 hangping.shop
@@ -29546,6 +29545,7 @@ paycore-cdd.cfd
 paycore-cdd.icu
 paycore-send.cfd
 paycore-soft.cfd
+paydack.online
 payderpad.cfd
 paydosite.com
 payeeeportal.org
