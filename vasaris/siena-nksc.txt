@@ -3562,7 +3562,6 @@ artdeone.com
 artea-app.com
 artea-app.icu
 artea-banks.com
-artea-consulting.com
 artea-immobilier.com
 artea-it.icu
 artea-log.com
@@ -9737,7 +9736,6 @@ delfiincidents.lv
 delfiineews.site
 delfiixnews.shop
 delfijinews.shop
-delfijnew.site
 delfikomentars.lv
 delfikratos.lt
 delfikrim.eu
@@ -9825,7 +9823,6 @@ delfivesti.lv
 delfivideo.ltd
 delfixnew.site
 delfixnews.shop
-delfiynew.site
 delfizinas.lv
 delfizmonems.ltd
 delfizmones.ltd
@@ -22275,7 +22272,6 @@ lt-psavitarna.info
 lt-puv.shop
 lt-ras.shop
 lt-registrucentras.icu
-lt-regitra.today
 lt-rix.shop
 lt-saf.shop
 lt-saugus-sandoris.cfd
@@ -27088,6 +27084,7 @@ numen555.live
 numquam-eligendi.site
 nuolaidamaxlma.pro
 nuostatosepoii.info
+nuostatosepol.info
 nupixelo.com
 nuquedor.cfd
 nuraptek.cfd
