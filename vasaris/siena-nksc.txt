@@ -15977,6 +15977,7 @@ handler.in
 handler.it
 handler.lol
 handler.lu
+handler.media
 handler.mx
 handler.nl
 handler.one
@@ -16336,6 +16337,7 @@ heyamina.shop
 heyasta.app
 heyflor.com
 heyglow.online
+heygvw.cc
 heytml.app
 hf65id12.lol
 hfgltd.com
