@@ -41457,6 +41457,7 @@ vmi-sso.info
 vmi-success.info
 vmi-uniparkbaudos.com
 vmi-uniparkbaudos1.com
+vmi.business
 vmi.it-nusizengimai.net
 vmi.lt-baudos-050124993.net
 vmi.lt-baudos-asm.net
@@ -42795,6 +42796,7 @@ xn----7sbabe4cb3aimeid3a.xn--p1ai
 xn----7sbbaaqid8cva3agt6l.xn--p1ai
 xn--01est-ordr-76a0971g.com.ph
 xn--01tes-ordr-57a757a.com.ph
+xn--01test-0rdr-wbb.com.ph
 xn--01test-ord-i6b1041g.com.ph
 xn--01test-ordr-2uc.com.ph
 xn--01test-ordr-819e.com.ph
