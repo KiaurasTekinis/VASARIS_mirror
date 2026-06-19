@@ -22315,7 +22315,6 @@ lietuva-draudimas.digital
 lietuva-draudimas.ph
 lietuva-savasld.digital
 lietuva-savasld.icu
-lietuvos-draudimas.digital
 lietuvos-draudimas.eu
 lietuvosbankas.online
 lietuvosdraudimas.com
@@ -34550,6 +34549,7 @@ sa142as.com
 sa5s3zh9o.cfd
 saakyanart.com
 sabaid888.com
+sabanl.com
 sabasld.shop
 sabis.plusfun.lt
 sabitur.icu
