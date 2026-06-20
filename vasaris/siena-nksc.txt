@@ -12074,7 +12074,6 @@ energy-core.top
 energy-drive.top
 energy-feed.info
 energy-fiti.com
-energy-fix.top
 energy-hub.top
 energy-hype.top
 energy-jump.top
@@ -12267,6 +12266,7 @@ eportaias.it
 eportalas.info
 eportalas.it
 eportalas.sbs
+eportalasjudu.info
 epose.monster
 epost-eservice.icu
 epost-tracktrace.icu
@@ -14408,7 +14408,6 @@ gdpbbi.icu
 gdrezg.help
 gdske.shop
 gdsmarketing.com.pk
-gdsscf.com
 gdvorak.com
 gdyniapath.cfd
 gdyxfs.com
@@ -14783,7 +14782,6 @@ globalshippingfreightflorida.com
 globaltradefxoptions.com
 globalultrafx.com
 globalvantrade.com
-globalvisitclub.com
 globalwheelco.com
 globalx-etfs.net
 globbian.com
@@ -22866,6 +22864,7 @@ lrvlt.cyou
 lrvlt.shop
 lrvthwrp.lol
 ls00id6i.lol
+lsaericv.com
 lsaliquid1.top
 lsboia.click
 lsdaid8q.top
@@ -25975,6 +25974,7 @@ mparking-lt-online.top
 mparking-lt.info
 mparkingbaudos.info
 mparkingjudu-lt.info
+mparkjudu-el.info
 mparkjudu.com
 mparkjudu.info
 mpartnersenlist.com
