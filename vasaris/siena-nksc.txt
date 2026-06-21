@@ -10301,7 +10301,6 @@ delfinoziegumi.lv
 delfins.site
 delfinz.net
 delfinz.org
-delfipagalba.lt
 delfipagrindinis.lt
 delfipagrobimas.com
 delfiplus.in
@@ -34249,6 +34248,7 @@ runvero-line.top
 runzone-data.info
 ruocoket.com
 ruok.icu
+rupeep2p.com
 rupipoj.icu
 rurufin.icu
 rus-agrogroup.com
