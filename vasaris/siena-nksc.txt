@@ -11067,7 +11067,6 @@ dpd-home.cfd
 dpd-hup.cfd
 dpd-info-redelivery.ph
 dpd-info.life
-dpd-info.safe-sell.click
 dpd-info.transportation251.icu
 dpd-lt-safedeal.cfd
 dpd-lt-safepay.cfd
@@ -43430,6 +43429,7 @@ zalinga-svetaine.lt
 zalingasvetaine.lt
 zalupa.icu
 zam-vpn.icu
+zamani000001.top
 zamberlanlietuva.com
 zamikif.icu
 zanfore.cfd
