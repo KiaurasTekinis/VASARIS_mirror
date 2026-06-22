@@ -30852,6 +30852,7 @@ pattern-ub.icu
 pattern-yc.icu
 patvirinti.com
 patvirtinimas-draudimas.ph
+patvirtinimas.qzz.io
 patvirtinti-prisijungimas275.webflow.io
 patvirtinti.com
 patvirtipaaukstmal7oo.com
