@@ -11454,7 +11454,6 @@ elektrum.ph
 elektrum.site
 elektrum.xyz
 elektrumn.lv
-elektrums.xyz
 elektrus.biz
 elektrus.org
 elektum.com
@@ -18586,6 +18585,7 @@ id94022.com
 id94091.com
 id94097369-portal.com
 id94102.shop
+id94124.com
 id9415421213.com
 id9415421913.com
 id942.pl
