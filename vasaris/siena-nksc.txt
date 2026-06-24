@@ -12472,6 +12472,7 @@ evisaentry.com
 evmhyper.com
 evmi.cn
 evmi.lt
+evmi.ltd
 evmi.ru
 evmi.space
 evmi.top
@@ -25191,6 +25192,7 @@ mindtrack-guide.info
 mindwave-data.info
 mindwave-guide.info
 mindwave-push.top
+mindyfrye.com
 mindzone-guide.info
 mindzone-step.top
 mine-drop.it.com
