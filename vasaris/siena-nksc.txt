@@ -2604,6 +2604,7 @@ amerantbk.icu
 americanairlines.app
 americanbktrust.icu
 americandreams.world
+americanexpress0authverifyserver.com
 americaopus.com
 amerys-sa.com
 amet-in.site
@@ -11211,7 +11212,6 @@ elektrum-latvija.life
 elektrum-lietuva.digital
 elektrum-oficialusis.digital
 elektrum-oficialusis.today
-elektrum-paslauga.icu
 elektrum-sevisas.ph
 elektrum.app
 elektrum.group
@@ -18570,7 +18570,6 @@ ignitis-energija.ph
 ignitis-grupe.digital
 ignitis-grupe.today
 ignitis-mokejimai.info
-ignitis-paslauga.icu
 ignitis-prieiga.com
 ignitis-savitarna.com
 ignitis.ai
@@ -28137,6 +28136,7 @@ onwn-girisi.icu
 onwn-girs.icu
 onwn-resmi.icu
 onwnerisimler.icu
+onyxkaz.kz
 oog.lt
 ooiyjg.buzz
 ookamido.shop
@@ -34427,6 +34427,7 @@ sebensis.com
 sebensqs.com
 sebenus.com
 seberb.shop
+sebesb.com
 sebesm.com
 sebesv.com
 sebet22aa.com
@@ -42139,7 +42140,6 @@ xanlxo.buzz
 xanofficials.com
 xantorvela.cfd
 xaozvaluablef701oqblood.cfd
-xarilua.com
 xartvtvb.info
 xatepajo.icu
 xayamif.icu
