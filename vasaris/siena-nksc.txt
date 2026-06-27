@@ -10790,7 +10790,6 @@ elektrum-aptarnavimas.ph
 elektrum-energy.xyz
 elektrum-lietuva.digital
 elektrum-oficialusis.digital
-elektrum-oficialusis.today
 elektrum-sevisas.ph
 elektrum.app
 elektrum.group
@@ -31553,6 +31552,7 @@ priateverification.icu
 pricoolsoovaski35.com
 prictol.icu
 prieiga.it
+prieige-p-byioms.info
 prieigos-paysera.net
 prielgaunlpark.info
 priieiga02-04.sbs
