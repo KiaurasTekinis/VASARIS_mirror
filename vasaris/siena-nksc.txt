@@ -10547,6 +10547,7 @@ e-parasas-deklar.com
 e-pasiaugos-lt.info
 e-pasiaugos.info
 e-pasig-pagalba.sbs
+e-pasl-p-pagalba.sbs
 e-paslaugas.elektroninis.co
 e-paslaugos.info
 e-pasluga.icu
@@ -37028,6 +37029,7 @@ srtebnews.com
 srtradingbot.com
 ss-n-n.cfd
 ss-o.it
+ss-prisijungtl.info
 ss0-vmi.it
 ss0-vmi.lt
 ss0vmi.lt
@@ -37037,6 +37039,7 @@ ssa-gov.org
 ssagovio.com
 sscrewfiix.com
 ssdama.com
+sse-prisijungtl.info
 sseobaoitrai.com
 sservlcc.com.ph
 ssgovio.com
