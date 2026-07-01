@@ -9502,7 +9502,6 @@ delivercash.cfd
 delivereddeal.sbs
 delivering-parcel.icu
 deliveringparcelnew.icu
-deliverpay.cfd
 delivery-ae.com
 delivery-anytime.com
 delivery-club.shop
@@ -36526,6 +36525,7 @@ slkebnoit.com
 slkssa-pasll.world
 slmmv.cfd
 slmt-rew.cfd
+slnglepolnt-ucbonk.com
 slnh146.cfd
 sloanbifid24.com
 slobiumasd.com
