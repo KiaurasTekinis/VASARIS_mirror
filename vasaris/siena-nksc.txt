@@ -32518,6 +32518,7 @@ prisijunti-e-bauda.top
 prisjungimas.rest
 prisjungimas.sbs
 prisjungimas02-04.sbs
+prisjungtipoli-bk.info
 prissijunk.lt
 prissijunnk.com
 pristatmas.com
@@ -37675,6 +37676,7 @@ smartpostiq-lt.com
 smartpostis.com
 smartpostit-lt.com
 smartpostit.com
+smartpostiv-it.com
 smartpostiv-lt.com
 smartpostiz.com
 smartpostjlt.com
