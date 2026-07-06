@@ -2814,6 +2814,7 @@ apleid-server-id7.cfd
 apleid-server-id7.sbs
 apleid-service-id7.cfd
 apleid-service-id7.sbs
+aplxwi.top
 apmokejimas.casa
 apmokejimas.cfd
 apmokejimas.click
@@ -13445,6 +13446,7 @@ fsony.icu
 fstudidai.com
 fsuid80.cn
 ft-mo-trade.com
+ftctno.top
 ftdcompany.ltd
 ftdcompany.tech
 ftdfuckseveryone.com
