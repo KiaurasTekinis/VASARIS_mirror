@@ -10027,6 +10027,7 @@ dewglossary.cfd
 dex-live.sbs
 dexcoin.cfd
 dexdelivery.cc
+dexmetal.hu
 dexogac.icu
 dexorahq.shop
 dexorahq.site
@@ -23749,6 +23750,7 @@ ltgiperdu.site
 ltgov.lat
 ltgovsecurity.com
 ltgranules.com
+lthdwk.top
 lthlvuivc.shop
 lthomeaoyaca.com
 ltibamiku.shop
