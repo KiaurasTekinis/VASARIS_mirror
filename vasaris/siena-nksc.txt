@@ -25398,7 +25398,6 @@ maxlma.lt
 maxlma.ru
 maxlma1300akcija.fun
 maxlma5sveikinu.store
-maxlmaa1500lietuviu.net
 maxlmaakcija1300.store
 maxlmakampania1300.cloud
 maxlmakampanij0s.com
@@ -37434,6 +37433,7 @@ seotmacoaeq.com
 seotnabo.com
 seovaitua.com
 seovantac.com
+seoyami.online
 sepa-support.online
 sepid262.ir
 sepoii.com
