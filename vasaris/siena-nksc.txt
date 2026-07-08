@@ -1888,7 +1888,6 @@ africamedihelp.com
 africatv.co
 afterhighschool.co.za
 aftertributes.site
-afuerteone.com
 ag-api-v3-connect-wallet.com
 ag-v3-api-connect-waliet.com
 ag-v3-api-connect-wallet.com
@@ -2751,7 +2750,6 @@ apmokejimas.help
 apmokejimas.icu
 apmokejimas.top
 apmokejimas.vu
-apnertea.com
 apobank-daten.com
 apobank-v.com
 apookr.icu
@@ -3013,7 +3011,6 @@ art1raetr.net
 art1raretr.net
 art21raetr.net
 art2raetr.net
-artaedata.com
 artaefin.com
 artaiba.com
 artaniea.com
@@ -3233,7 +3230,6 @@ arteom.xyz
 arteomaca.com
 arteoo.com
 arteoweb.com
-artepolt.com
 artera.ink
 arterialb.com
 arterialo.com
@@ -11887,6 +11883,7 @@ eselboaita.com
 esentia.club
 eservics-lv.com
 eservies-lv.com
+eserviks-lv.com
 eserviss-lv.com
 eservivs-lv.com
 eservjss-lv.com
@@ -32446,7 +32443,6 @@ pq55.xyz
 pqyqmx4olj.cfd
 pr-otokoiaiep.info
 pr0vid3r.tech
-pr11otasxa.net
 pr1otmartara.net
 pracjuem.com
 pragmatic-official.icu
@@ -35446,7 +35442,6 @@ sb-log-ln.com
 sb-lt-175eurp.com
 sb-lt-log.com
 sb-lt.com
-sb-lt.net
 sb-on.com
 sb3payment.eu
 sbafrrz9gpdp9i7.icu
@@ -35894,6 +35889,7 @@ sebhoim.com
 sebhv.com
 sebialuta.com
 sebianta.com
+sebicv.com
 sebidet.com
 sebidetio.com
 sebideto.com
@@ -36287,6 +36283,7 @@ sebnuitv.com
 sebnusl.com
 sebnusp.com
 sebnuvt.com
+sebnyam.com
 seboatjaca.com
 seboatna.com
 seboffical.com
@@ -36562,6 +36559,7 @@ sebwapp.com
 sebwapps.com
 sebwec.com
 sebweib.com
+sebwev.com
 sebwhome.com
 sebwiv.com
 sebyjoz.com
@@ -37807,6 +37805,7 @@ smartposti-lt.com
 smartpostia-lt.com
 smartpostia.com
 smartpostic-lt.com
+smartpostid-lt.com
 smartpostid.com
 smartpostie-lt.com
 smartpostie.com
@@ -41174,6 +41173,7 @@ uniqmart-store.shop
 uniskomap.com
 unisoncapitalinvestment.com
 unispark.cfd
+unispark.cyou
 unispark.sbs
 unitcoae.cam
 unitcom.cc
