@@ -10469,6 +10469,7 @@ dovanukampanija.online
 dovanukampanija.store
 dovanureklama.store
 dovanuskatinimas.online
+dovonmaxi.store
 dowload.world
 downfiles.icu
 download-gov.gr.com
