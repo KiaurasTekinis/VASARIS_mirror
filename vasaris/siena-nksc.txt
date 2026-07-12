@@ -11090,7 +11090,6 @@ enefit-company.digital
 enefit-group.digital
 enefit-power.icu
 enefit.co
-enefit.icu
 enefit.xyz
 eneflt-energy.icu
 enenva.top
@@ -41999,6 +41998,7 @@ vilniause-p.info
 vilniausepbylos.com
 vilniausepoiicja.com
 vilniausepp.info
+vilniauspo-e.info
 vilniauspunkt.info
 vilniausv-pk.info
 vilniausvpk-p.info
