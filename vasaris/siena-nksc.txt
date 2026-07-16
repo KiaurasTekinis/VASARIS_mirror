@@ -3197,6 +3197,7 @@ assist-team.cc
 assistcloud.help
 assistnowchange.net
 assumenda-asperiores.site
+astas.qpon
 asteret.net
 asteroid12.cfd
 asteroid2.space
@@ -22170,6 +22171,7 @@ lt-asmduomenys.info
 lt-asmprisijungti.info
 lt-bankas.digital
 lt-bauda-e-online.net
+lt-bauda.com
 lt-baudos.net
 lt-bk.com
 lt-bkpranesimai.info
@@ -23252,6 +23254,7 @@ mano-profilis.digital
 mano-profilis.icu
 mano-profilis.info
 mano-profills.info
+mano-vmi.info
 mano.info
 mano.org
 manobook.com
@@ -27912,6 +27915,7 @@ omniva-status.online
 omniva.cc
 omniva.cfd
 omniva.cn
+omniva.icu
 omniva.id
 omniva.im
 omniva.ksw-prq.cfd
@@ -32600,6 +32604,7 @@ raid4ti.com.br
 raid53q.cn
 raid6storage.ru
 raid9mobileum.com
+raiflasens.com
 railfasens.com
 rainofsteel.icu
 raja132world.icu
