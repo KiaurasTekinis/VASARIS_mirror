@@ -10122,7 +10122,6 @@ elektrum-aptarnavimas.ph
 elektrum-energy.xyz
 elektrum-lietuva.digital
 elektrum-sevisas.ph
-elektrum.group
 elektrum.net
 elektrum.one
 elektrum.ph
@@ -10924,7 +10923,6 @@ euonlinjlind.com
 eup1nt.cfd
 euparksde.com
 eupciepv.com
-eupest.com
 eurbigfreeshopping.com
 euregitra.lt
 eurldbigershopping.com
@@ -27333,6 +27331,7 @@ nrwbjv.click
 nrxeju.click
 nscpate.hair
 nscpate.skin
+nscspate.hair
 nscspate.skin
 nsdrqm.click
 nsgdf.xyz
