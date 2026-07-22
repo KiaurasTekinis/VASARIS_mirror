@@ -13054,6 +13054,7 @@ gls-my.cc
 gls-nl.help
 gls-pakket.com
 gls-pub.help
+gls-t.cc
 gls-t.com
 gls-top.com
 glsah.cfd
@@ -19386,6 +19387,7 @@ iswqtgxnczwq.icu
 it-20.info
 it-abaudos.info
 it-admnbaudos.info
+it-airways.com
 it-amokesciai.info
 it-chroniclecore.click
 it-e-service.net
@@ -38154,6 +38156,7 @@ sportskiobjekti.ba
 sportsngolf.com
 spotifipaysual.com
 spotyfiisupporty.com
+spragtukas.surge.sh
 sprawki-best.info
 spreadlovenotcovid19.nl
 spuibendas.com
@@ -40262,6 +40265,7 @@ trenitali.cfd
 trenitalia-tessera.com
 trenitalia.id
 trenitalia.im
+trenitalia.ltd
 trenitalie.cfd
 trenitalla.cc
 trenitalla.com
@@ -41908,6 +41912,7 @@ venipavk.com
 venipazk.com
 venipok.com
 venombetgiris.icu
+ventaas.buzz
 ventobot.ru
 ventosur7.cfd
 ventumika.cfd
