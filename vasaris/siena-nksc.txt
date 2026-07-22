@@ -10064,6 +10064,7 @@ e-paraksts.icu
 e-parasas-deklar.com
 e-pasiaugos-lt.info
 e-pasiaugos.business
+e-pasiaugos.digital
 e-pasiaugos.info
 e-pasig-pagalba.sbs
 e-pasl-p-pagalba.sbs
@@ -18877,7 +18878,6 @@ ikid06.cn
 ikid06.ltd
 ikigaimedi.com
 ikimaximadovanukorteles.store
-ikimaximakampanija.store
 ikimisli837.icu
 ikimisli838.icu
 ikimisli839.icu
@@ -36305,6 +36305,7 @@ sebses.com
 sebsetbyjot.com
 sebsid.com
 sebsih.com
+sebsiha.com
 sebsilem.com
 sebsileva.com
 sebslemt.com
