@@ -24,6 +24,7 @@
 0655678.com
 06p68.cfd
 07-20.digital
+07-23.cloud
 07-23.info
 07-23.tech
 078t7p.cfd
@@ -4024,7 +4025,6 @@ bankas-puslapis.click
 bankas.click
 bankas.digital
 bankaseb.com
-bankasikayet.com
 bankaslietuva.ph
 bankid-vipps.cfd
 bankid2026.com
@@ -5488,11 +5488,7 @@ bkzqnlpw.cloud
 bl-solutions.cam
 blackarrowcourier.com
 blackbaudai.com
-blackbaudaibot.info
-blackbaudaibot.live
 blackbaudaibot.net
-blackbaudaibot.store
-blackbaudaibot.xyz
 blackbeautystone.icu
 blackbullsol.cfd
 blackeagle.world
@@ -7463,7 +7459,6 @@ com-ls.cfd
 com-ls.online
 com-ls.qpon
 com-lt.bond
-com-lt.cfd
 com-lt.cyou
 com-lt.icu
 com-lt.top
@@ -11282,6 +11277,7 @@ evmi.top
 evmi.xyz
 evmilt-42391.web.app
 evml-sso.info
+evml.tech
 evmlt.online
 evnilt-pajamu-deklaravimas.web.app
 evnq6l84gd5mpuanr2tid4c.net
@@ -22110,7 +22106,6 @@ liteacts.com
 litepost.my.id
 litesko.xyz
 lithuaniaedupost.top
-lithuaniafishing.com
 lithuanian-importers.xyz
 lithuanianrealestate.com
 lithuaniaoempost.top
@@ -24470,6 +24465,7 @@ meirid9.cc
 meirtli.com
 mejamaask.com
 mekalad.icu
+mekalaperera.cc
 mekarion.com
 mekliavns.com
 mekumot.icu
@@ -30409,8 +30405,6 @@ parkzuid1340.be
 parmabetim.icu
 parmabetyenigiris.icu
 parmaguncel2026.icu
-parsvetkanbankasi.com
-parsvetkanbankasi.net
 partenaire-c.com
 particleship.cfd
 partygetogetthaessr.cfd
@@ -41838,7 +41832,6 @@ venipak-pickups-estonia-estonia.zooart.info
 venipak-sales.com
 venipak.cc
 venipak.cfd
-venipak.com-lt.cfd
 venipak.com-ltc.cfd
 venipak.ph
 venipak.qpon
@@ -42005,9 +41998,6 @@ vertrex.cfd
 verylt.com
 vespa125.cfd
 vetco.in
-veterinerkanbankasi.com
-veterinerkanbankasi.net
-vetkanbankasi.net
 vevo-gercekgiris.icu
 vevo-girisim.icu
 vevo-tektiklagir1.icu
@@ -42470,6 +42460,7 @@ vm-i.nl
 vm-i.today
 vm-is-ti-lt.pages.dev
 vm-l.be
+vm-l.ink
 vm-l.live
 vm-l.today
 vm.i-sso.lt
