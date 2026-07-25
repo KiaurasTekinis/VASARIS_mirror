@@ -36,11 +36,14 @@
 07-25.social
 07-25.tech
 07-26.cloud
+07-26.digital
 07-26.social
 07-26.tech
 07-27.cloud
+07-27.digital
 07-27.social
 07-27.tech
+07-28.digital
 078t7p.cfd
 0795.casino
 07vom7.cfd
@@ -585,6 +588,7 @@
 25896.casino
 258game.icu
 25id9.sbs
+26-07.digital
 26-07.social
 26-07.tech
 26abet1.com
@@ -592,11 +596,13 @@
 26id0mkk.cfd
 26tf6b.cfd
 27-01-2026.info
+27-07.digital
 27-07.social
 27-07.tech
 2764.casino
 27934.shop
 27ljf57jlvqx.today
+28-07.digital
 282050.top
 29-03-2026.info
 29-03.info
@@ -1410,6 +1416,7 @@ a-ai.app
 a-dex.sbs
 a-hksms.com
 a-judu.info
+a-kv0294210492.top
 a-kv0304294501.top
 a-kv0341023592.top
 a-kv103-20294720.top
@@ -1432,6 +1439,7 @@ a-kv904-09282563.top
 a-kv92004193924.top
 a-kv9204194023.top
 a-kv9204920491.top
+a-kv92049229284.top
 a-kv9239204923.com
 a-kv92481048204.top
 a-kv927-20284620.top
@@ -11292,7 +11300,10 @@ evmi.top
 evmi.xyz
 evmilt-42391.web.app
 evml-sso.info
+evml.cloud
 evml.digital
+evml.pro
+evml.social
 evml.tech
 evmlottery.com
 evmlt.online
@@ -24500,6 +24511,7 @@ mean7.icu
 mebsilon.com
 mechanicsassist.icu
 mechanicuc.com
+mechprom.ru
 med-ge.skin
 medai.team
 medauth.cfd
