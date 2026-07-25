@@ -1419,7 +1419,9 @@ a-ai.app
 a-dex.sbs
 a-hksms.com
 a-judu.info
+a-kv-24204921500.top
 a-kv02491041999.top
+a-kv0249499274.top
 a-kv0294210492.top
 a-kv0304294501.top
 a-kv0341023592.top
@@ -1441,6 +1443,7 @@ a-kv820-29038874.top
 a-kv900-19200482.top
 a-kv904-09282563.top
 a-kv92004193924.top
+a-kv92040184923.top
 a-kv9204194023.top
 a-kv9204920491.top
 a-kv92049229284.top
@@ -10038,6 +10041,7 @@ e-pasiaugos-lt.info
 e-pasiaugos.business
 e-pasiaugos.digital
 e-pasiaugos.info
+e-pasiaugos.tech
 e-pasig-pagalba.sbs
 e-pasl-p-pagalba.sbs
 e-paslaugas.elektroninis.co
@@ -10070,6 +10074,7 @@ e-portalas.it
 e-ppasiiaugos.info
 e-pprotokollai.it
 e-prisijungimas.it
+e-protokola.tech
 e-regitra-p.info
 e-regitra.com
 e-regitra.icu
@@ -42753,6 +42758,7 @@ vi2id41s.top
 viacap-premios.hk
 viaceu.com.br
 viagramelanomaclaim.com
+viainrome2026.com
 vialerie.com
 vianneyribeiro.com.br
 viares.info
