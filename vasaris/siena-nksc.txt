@@ -43,6 +43,7 @@
 07-26.digital
 07-26.social
 07-26.tech
+07-26.xyz
 07-27.cloud
 07-27.digital
 07-27.social
@@ -30909,6 +30910,7 @@ pasi-augos.info
 pasi-iaugosj-udu.info
 pasi-iaugosjjudu.info
 pasiaugos-lt.com
+pasiaugos-smart.digital
 pasiaugos.business
 pasiaugos.tech
 pasiiaugosjudu.info
@@ -36798,6 +36800,7 @@ sebstl.com
 sebsuim.com
 sebsulion.com
 sebsura.com
+sebsuta.com
 sebsvc.com
 sebsve.com
 sebsveil.com
