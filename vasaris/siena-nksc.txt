@@ -13193,6 +13193,8 @@ gls-home.cc
 gls-home.com
 gls-home.info
 gls-im.id
+gls-in.id
+gls-in.im
 gls-in.tw
 gls-info.cc
 gls-info.com
@@ -23483,6 +23485,7 @@ luvmatcher.info
 luvminor.com
 luvminors.com
 luvpatment.com
+luvremuseum.com
 luvugiy.icu
 luvwnika.cfd
 luwudes.icu
