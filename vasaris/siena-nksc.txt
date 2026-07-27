@@ -9441,6 +9441,8 @@ discount-promo.store
 discount-promostore.com
 discount-shopping-store.com
 discount-tatonka.shop
+discountbank.space
+discountbank.tech
 discountjyskonline-eu.shop
 discountmega.click
 discountsale.sa.com
@@ -30643,6 +30645,7 @@ park-lt.site
 park16029305910.top
 park18282349012.top
 park18902049402.top
+park1ng-place.link
 park2029340209.top
 park20322948520.top
 park21022049402.top
@@ -38095,6 +38098,7 @@ smartld.com
 smartld.digital
 smartld.info
 smartldr.com.ph
+smartldsflow.com
 smartlivingpost.com
 smartmindtrader.space
 smartnode.cfd
