@@ -7540,13 +7540,11 @@ com-ltod.cfd
 com-ltos.cfd
 com-ltq.cfd
 com-ltr.cfd
-com-ltr.live
 com-lts.cfd
 com-ltt.cfd
 com-ltw.cfd
 com-ltx.cfd
 com-lty.cfd
-com-lty.trade
 com-lva.cfd
 com-lw.uno
 com-lx.cfd
@@ -12359,7 +12357,6 @@ fuwid5o.cn
 fux-pay.com
 fuyezep.icu
 fuzeir.cfd
-fuzivoa.com
 fv08.com
 fvbhwpe.cfd
 fvclwhe.cfd
@@ -19511,7 +19508,6 @@ issbankastr.net
 issid2027.org
 istasianinvestment.com
 isublw.click
-isueu2.com
 isuzuservis.sk
 iswqtgxnczwq.icu
 it-20.info
@@ -20620,7 +20616,6 @@ kampaania-rimi.com
 kampaania-rimi.shop
 kampaania-rimi.site
 kampaaniaeriline.store
-kampanasbalva.com
 kampanija-1700-maxxima.pro
 kampanija.online
 kampanijasirpasiulymus.store
@@ -36006,8 +36001,6 @@ sebjm.com
 sebjornborg.shop
 sebkam.com
 sebkama.com
-sebkampania.com
-sebkampaniia.com
 sebkams.com
 sebkas.com
 sebkd.com
@@ -37080,6 +37073,8 @@ sesija-lt.info
 sesija.biz
 sesija.info
 seslja.info
+sessor349.com
+sessor359.com
 sessorapay.com
 sessorax.com
 sesspay.com
@@ -44700,6 +44695,7 @@ yezi.click
 yezi.hair
 yezi.qpon
 yezi.skin
+yezi.study
 yfbpoc.skin
 yfflv.com
 yffmt7eb4kclzmh.icu
