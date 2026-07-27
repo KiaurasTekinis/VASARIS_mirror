@@ -7561,7 +7561,6 @@ com-iei.cfd
 com-il.uno
 com-info.icu
 com-irespieteikums.info
-com-itb.cfd
 com-jsefs.top
 com-juhy.xyz
 com-k.cfd
@@ -19706,6 +19705,7 @@ itslogin.net
 ittem-id215.biz
 ittem-id215.lol
 ittpos.top
+ittshiping.com
 itu.jklups.info
 ituzb.help
 itwpo.top
