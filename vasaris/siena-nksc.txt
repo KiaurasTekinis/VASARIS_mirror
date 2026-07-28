@@ -13073,6 +13073,9 @@ gls-italy.cc
 gls-italy.id
 gls-italy.im
 gls-italy.tw
+gls-lta.com
+gls-lta.id
+gls-lta.tw
 gls-my.cc
 gls-nl.help
 gls-pakket.com
@@ -36613,6 +36616,7 @@ sehblot.com
 sehbnew.com
 sehokic.com
 sehokiz.com
+seiantasb.com
 seibentas.com
 seibents.com
 seibmt.com
