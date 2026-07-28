@@ -10826,6 +10826,7 @@ epoll.cloud
 epollanet.it
 epolprieiga.info
 epolprotokolai-lt.sbs
+epolprotokolams.digital
 epooivilniaus.info
 eportai-info.sbs
 eportaias.info
@@ -37924,6 +37925,7 @@ smartfinds.cfd
 smartgain.cfd
 smartgrid2027.com
 smartgrid2027.info
+smartid.az
 smartid.business
 smartid.digital
 smartid.hu
@@ -38013,6 +38015,7 @@ smartprimedeals.com
 smartrise.cfd
 smarttipost.skin
 smarttradepilot.com
+smartvml.tech
 smartwinningweb.com
 smawskirze.cfd
 smclab.cfd
