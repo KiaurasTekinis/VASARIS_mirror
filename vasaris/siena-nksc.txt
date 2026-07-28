@@ -13117,6 +13117,8 @@ gls-italy.im
 gls-italy.tw
 gls-lta.com
 gls-lta.id
+gls-lta.ltd
+gls-lta.st
 gls-lta.tw
 gls-my.cc
 gls-nl.help
