@@ -13704,6 +13704,7 @@ gozolex.cfd
 gozpt.cfd
 gp2spgohall.cfd
 gparsed.lol
+gpasasteslntag.cc
 gpdrxja.cyou
 gpeid60.cn
 gphqzme.cloud
@@ -20574,6 +20575,7 @@ keliumokestisl.top
 keliumokostizs.cfd
 keliumokoztizs.cfd
 keliumokpt.cfd
+keliumoopk.cfd
 kellyanddavid2027.com
 keloid9.com
 keltrisavonri.info
