@@ -3536,6 +3536,7 @@ augos-prieiga.info
 augosepoii.info
 auguportalas.info
 augupranesimai.info
+auguprotokolams.info
 auhinnad.com
 aukdpd.buzz
 aumaml.best
@@ -14153,6 +14154,7 @@ hapoalimbank.space
 hapoalimbank.tech
 hapoalimbank.xyz
 hapoalimgroup.online
+hapoalimgroup.pro
 hapoalimgroup.space
 hapoalimgroup.tech
 hapoalimgroup.xyz
@@ -21326,6 +21328,7 @@ leumi-bank.su
 leumi-bank.today
 leumi-bank.uno
 leumi-bank.website
+leumi-group.pro
 leumi-online24.xyz
 leumi.click
 leumi.club
