@@ -12606,6 +12606,7 @@ gls-ltaly.com
 gls-ltaly.id
 gls-ltaly.im
 gls-ltaly.ltd
+gls-ly.im
 gls-my.cc
 gls-nl.help
 gls-pakket.com
@@ -23911,6 +23912,7 @@ message-support-id9121293.com
 messegercheckuid100002282.site
 metaapp.cfd
 metacompany.icu
+metadefiglobal.cc
 metalslug.icu
 metapcalip.cfd
 metareders.cc
