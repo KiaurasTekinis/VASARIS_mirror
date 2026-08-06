@@ -12397,6 +12397,7 @@ gls-centers.top
 gls-cloud.help
 gls-dhl.help
 gls-gp.id
+gls-gp.im
 gls-griuppes.cfd
 gls-grodeurro.com
 gls-grohj.sbs
@@ -12447,6 +12448,8 @@ gls-italy.id
 gls-italy.im
 gls-italy.tw
 gls-itay.id
+gls-itc.com
+gls-itz.im
 gls-lt.com
 gls-lt.id
 gls-lt.im
@@ -39292,6 +39295,7 @@ ugid99.xyz
 ugid9i.beer
 ugmid888.com
 ugmkia.cc
+ugoseportalas.info
 ugospranesimai.info
 ugoszinutes.info
 uguid100.help
@@ -42179,6 +42183,7 @@ xbdd.casa
 xbdd.click
 xbdd.qpon
 xbdd.skin
+xbdd.surf
 xbdd.yoga
 xbmnzra.club
 xbtrkma.club
