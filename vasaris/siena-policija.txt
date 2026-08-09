@@ -1626,7 +1626,6 @@ lt-acces.get-your-media.com
 lt-apdirbimas.icu
 lt-eregitra.icu
 lt-eregitra.world
-lt-investing.com
 lt-vml.today
 lt.eregitra.digital
 lt.near-place.com
