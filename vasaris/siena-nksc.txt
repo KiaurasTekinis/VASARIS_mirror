@@ -303,6 +303,7 @@
 13oo-maxima-euro.net
 14-07.info
 14-08.digital
+14-08.ink
 14-08.today
 14-e-protok-epoii.info
 1400euro-maxima.click
@@ -3670,6 +3671,7 @@ augos-prieiga.info
 augosepoii.info
 augoseportalas.info
 augosportalas.info
+augosprotokolams.info
 auguportalas.info
 augupranesimai.info
 auguprotokolams.info
@@ -8927,6 +8929,7 @@ dek26-lord.icu
 dekakurubuz.icu
 dekatmq.com
 dekid2023.org
+deklaraclja-vml.digital
 deklaravimaedslt-overview.web.app
 deklaravimas-vmi.ph
 deklaravimas-vml.ph
