@@ -3779,8 +3779,6 @@ authid61-myicss.site
 authid71-myicss.site
 authid81-myicss.site
 authid91-myicss.site
-authlogine8s2.top
-authlogine8s4.top
 authlogins3s0.top
 authlogins3s1.top
 authlogins3s2.top
@@ -7067,6 +7065,7 @@ ciid2a1l.top
 ciid95.surf
 cijavilniaus.info
 cijosprieiga.info
+cijosprotokolai.info
 cijvih.cfd
 cikepuw.icu
 cikewub.icu
@@ -9182,28 +9181,19 @@ dgqwmvrt.ink
 dgrqu.cfd
 dgt.international
 dgt.luxe
-dgtavis.click
-dgtaviso.click
-dgtels.click
 dgteny.click
 dgtern.click
 dgtes.eu
 dgtfine.com
 dgtfine.eu
 dgtfkgm.top
-dgtnoti.click
 dgtpark.eu
 dgtparking.co
 dgtparking.com
 dgtparking.eu
 dgtparking.net
 dgtparking.site
-dgtpase.click
-dgtpass.click
 dgtpay.eu
-dgtprecis.click
-dgtsafes.click
-dgtsegur.click
 dgtspain.com
 dgtspain.info
 dgvjpg.icu
@@ -9238,7 +9228,6 @@ dhl-caching.help
 dhl-cooks.help
 dhl-group.offer3523.bid
 dhl-helps.click
-dhl-helps.help
 dhl-items.help
 dhl-jlkh2.help
 dhl-lu.cc
@@ -9249,8 +9238,6 @@ dhl-pages.click
 dhl-pages.help
 dhl-re.cc
 dhl-spedizione.com
-dhl-trackshipment.top
-dhl-zatracktrace.icu
 dhl.instantly-receive.com
 dhl123.buzz
 dhl123.pics
@@ -9259,22 +9246,16 @@ dhlbhl.cfd
 dhlccdwp.click
 dhldelivery.cc
 dhldeliverys.cc
-dhldksj.click
 dhles.cyou
 dhlexredelivery.click
-dhlibjb.click
 dhlindex.com
-dhlinfos.click
 dhljhl.cfd
 dhllse.cfd
-dhlmextrack.top
 dhlmxes.cc
 dhlmxhome.top
 dhlno.org.ai
 dhlonl.cfd
-dhlrenova.click
 dhlspain.com
-dhlthwm.click
 dhlvnl.cfd
 dhnets.com
 dhomtai.com
@@ -10586,11 +10567,8 @@ egrannhg.com
 egrcx.cfd
 egskf.online
 egyptiangrid3.io
-egyptpostar.top
-egyptpostofice.icu
 egyptpostorg.cfd
 egyptpostr.cc
-egyptppost.icu
 eh0djq9-fjojqid1d.com
 ehdfap.icu
 ehdu6.cfd
@@ -11091,9 +11069,6 @@ eportalasjudu.info
 epos-be.info
 eposl.digital
 eposlagye.xyz
-epost-eservice.icu
-epost-tracktrace.icu
-epost-tracktrace.top
 epotpatio.cfd
 epp-vssi.info
 eppoiibk.info
@@ -11168,7 +11143,6 @@ erblnz.buzz
 erdaotyoaclat.com
 erdiid181.vip
 eregitra-lt.info
-eregitra.icu
 eregitralt.info
 eregitrap.info
 eregitros-v.info
@@ -11372,10 +11346,8 @@ essafetyae.help
 essentialview.cfd
 essveikata.digital
 estafede.cc
-estafeinfo.icu
 estafeta-mx.cc
 estafetamx.click
-estafetat-update.top
 estasfeta.buzz
 estatelegion.pro
 estatetta.cc
@@ -11440,7 +11412,6 @@ etmvxqrl.club
 etnvplxr.cloud
 eto888.icu
 etoimik-ee-tatru.com
-etracktrace-dhl.top
 etransfer-payment194.cfd
 etransfer-paymentacc9942.world
 etransfertpayment.com
@@ -11656,7 +11627,6 @@ exchangq.com
 exchangw.com
 exclusive-special-deal.com
 exclusivevendordealsenid1206.shop
-exdhl-collection.top
 exeterfinecrafts.org
 exfvdkt.cfd
 exibit.cfd
@@ -11678,11 +11648,8 @@ explosino3-casino.top
 expo-trust.online
 expozap.com
 expresd0staw.cfd
-expressdhlgrp.top
-exptrack-dhl.cc
 exql.cloud
 exqmtrvl.ink
-exrastreo-dhl.top
 external-log2987.icu
 extforok.icu
 extracornhub.icu
@@ -13324,7 +13291,6 @@ gg88org.icu
 gg88win.cfd
 ggbetday.site
 ggbetoffer.site
-ggcgpkas.info
 gggjili.cfd
 gghchk.icu
 ggjjhol.com
@@ -13597,7 +13563,6 @@ gls-caiade.cfd
 gls-centers.im
 gls-centers.info
 gls-centers.top
-gls-cloud.help
 gls-dhl.help
 gls-gp.id
 gls-gp.im
@@ -16001,7 +15966,6 @@ home-57929.com
 home-5946.cfd
 home-74737.cfd
 home-94832.cfd
-home-dhlrastreo.top
 home-of-ayahuasca.com
 homeacaota.com
 homeacoaotaa.com
@@ -16060,7 +16024,6 @@ homecooptao.com
 homedepot-offers.us
 homedepot-sale.com
 homedex-dhl.cc
-homedex-dhl.top
 homedhl-html.com
 homefatiga.com
 homefinancce.com
@@ -20034,7 +19997,6 @@ indiapost-govin.xyz
 indiapost-in.cc
 indiapost.cfd
 indiapost.cyou
-indiashpt.top
 indigoharbor.icu
 indimation.com
 individualiosdovanos.com
@@ -20063,7 +20025,6 @@ info-be.today
 info-datenschuzvorkommen.cfd
 info-datenschuzvorkommen.icu
 info-dhii.click
-info-dhlexpress.icu
 info-id9311.info
 info-id932.pro
 info-kingroyal.icu
@@ -22498,7 +22459,6 @@ kopekvesaglik.icu
 kopikos.cfd
 koraivpn.cfd
 kordelia42raka.pro
-koreacopost.icu
 korespondencja.info
 korhonen.icu
 korlyn.cfd
@@ -24845,7 +24805,6 @@ maficheclasse.com
 maficheclasse.live
 maficheclasse.locker
 mafutureclasse.com
-magenta-rewards.top
 magenta.qpon
 magentas.lat
 magentci.qpon
@@ -25683,7 +25642,6 @@ me-store-id3424.best
 mea2u4z7nds1u28.icu
 meachuna.info
 meadowgate.icu
-meaico.beer
 meanies.cfd
 measurcup102.cfd
 measure102.cfd
@@ -25961,7 +25919,6 @@ mevrio.com
 mevscovid19.net
 mewid5s4.com
 mewisej.icu
-mexdhl-update.top
 mezalaj.icu
 mfdql.cfd
 mffelnet1.cfd
@@ -26855,7 +26812,6 @@ mx-wyndra.cfd
 mx9id67.xyz
 mxcid1566.com
 mxckjs.com
-mxdhl-express.top
 mxdik.com
 mxecgqy.cyou
 mxid10.ink
@@ -26990,7 +26946,6 @@ myacss-sauthdid69.site
 myacss-sauthdid79.site
 myacss-sauthdid89.site
 myarrivals.cfd
-myartavion.com
 myaxa-portalsid49.site
 myaxa-portalsid59.site
 myaxa-portalsid69.site
@@ -27109,7 +27064,6 @@ mydhl.lat
 mydhl.life
 mydhl.pw
 mydhl.rest
-mydhlex.cc
 mydomain.zone
 mydpdo.cfd
 mydshboard-l0g0n-my-gou.icu
@@ -27275,7 +27229,6 @@ myproteineu.com
 myproteineur.com
 myproteinstore.com
 myproteintop.com
-mypstoffice.icu
 myqkhvo.cyou
 myqpi.cloud
 myqro.ink
@@ -32399,11 +32352,6 @@ pfebz.top
 pflanzbedarfsladen.com
 pfok5kghoid4.com
 pfounds75920.com
-pfsa-collection.top
-pfsa-delivery.icu
-pfsa-deliverys.icu
-pfsa-services.icu
-pfsa-support.icu
 pfyosxnmqd3tot0.icu
 pfznwrqv.cyou
 pg88dk.icu
@@ -33236,7 +33184,6 @@ posstt.qpon
 posstt.sbs
 post-a.xyz
 post-at.cfd
-post-collection.icu
 post-corp.cfd
 post-corp.shop
 post-finance.uno
@@ -33264,9 +33211,7 @@ post-ltxyz.homes
 post-nord.buzz
 post-note.cfd
 post-platba.com
-post-redelivery.icu
 post-sk.com
-post-trackinfo.icu
 post.eu.cc
 post.ltpa.homes
 post.ltpb.homes
@@ -33281,13 +33226,10 @@ postalt.cfd
 postamagyar.online
 postao.buzz
 postaperla.icu
-postat-collection.icu
 postbackbot.website
-postco-tracktra.icu
 postcorp.cfd
 poste-djz.top
 poste-ma.com
-postegptrack.icu
 postekosoves.com
 postelt.cfd
 posten-no.net
@@ -33349,7 +33291,6 @@ postltt.cc
 postltw.buzz
 postltxp.homes
 postlw.cfd
-postmx-dhl.top
 postne.cfd
 postnesnc.bond
 postnjr.top
@@ -33361,8 +33302,6 @@ postnorden.help
 postnoteapp.cfd
 postnotes.cfd
 postnotesapp.cfd
-postofc-index.icu
-postoff-track.icu
 postoffi.cfd
 postoffice.icu
 postoffice.pics
@@ -33373,16 +33312,9 @@ postplatbacz.com
 postpwi.top
 postreviewbank.cc
 postrex.cfd
-posts-collection.icu
 posts-in.top
 posts-lt.top
-posts-updateinfo.icu
-postsa-services.top
-postsa-tracktrace.icu
-postsa-tracktrace.top
-postsif-track.icu
 postsl.cfd
-postsofficesa.icu
 posttlt.cfd
 postvlt.cfd
 postvs.com
@@ -33401,7 +33333,6 @@ potmit102.cfd
 potncc.com
 potostevasak.com
 potrack102.cfd
-potsa-update.icu
 potsa.cc
 potsovanat.com
 potsovaneat.com
@@ -34711,14 +34642,7 @@ rasid24.com
 rasid2u.com
 rasmid9.com
 rastreo-dhldelivery.com
-rastreo-dhles.top
-rastreo-dhlgroup.icu
-rastreo-mxdhl.icu
 rastreodhl-delivery.com
-rastreogrp-dhl.top
-rastreopos-dhl.top
-rastreos-dhl.cc
-rastreos-dhl.top
 ratu78.com
 raughtrebook.cfd
 ravaroii.site
@@ -34928,21 +34852,13 @@ registrucentras.tech
 registrucentras.today
 registrucentras.world
 regitra-eurezident.lt
-regitra-group.digital
-regitra-lietuva.digital
-regitra-sevisas.xyz
 regitra.autos
-regitra.icu
-regitra.info
-regitra.live
 regitra.lol
-regitra.net
 regitra.ph
 regitra.shop
 regitrabqs.top
 regitrai.cfd
 regitralt.cfd
-regitralt.com
 regitralt.top
 regitrao.cc
 regitrapv.info
@@ -35193,7 +35109,6 @@ reward-qats1.cfd
 reward01.cfd
 rewardgroup.info
 rewardmax.com
-rewards-magenta.top
 rewards-nabnet.bond
 rewards-offer.com
 rewqaz.icu
@@ -35647,7 +35562,6 @@ rope789.cfd
 roqcls.buzz
 roqtrxvl.ink
 rosemarydrops.com
-rosklmail.shop
 rotokoiaivp.info
 rotokolai-e-p.com
 rotokolamsep.info
@@ -38382,8 +38296,6 @@ shinyseekers.info
 shiokambing2ju.cfd
 shiokambing4dc.cfd
 shiokambing9yj.cfd
-shipmg.com
-shipmt.com
 shipping-updates.com
 shirelane.org
 shiuweb.com
@@ -40664,7 +40576,6 @@ telegram-rfa.com
 telegram-sc.com
 telegram-si.com
 telegram-sk.com
-telegram-soc.com
 telegram-ssa.com
 telegram-sso.com
 telegram-sua.com
@@ -40675,7 +40586,6 @@ telegram-tet.org
 telegram-tse.org
 telegram-tst.com
 telegram-tst.org
-telegram-u2f.com
 telegram-vf.com
 telegram-vi.com
 telegramdev.ru
@@ -41483,7 +41393,6 @@ tradeprofit-4u.com
 tradingczbot.com
 tradingviewltd.info
 trafalgardraytoninternational.com
-traff-boutique.pro
 traffic-fees.icu
 traffipulse.com
 traficom-fi.info
@@ -42412,7 +42321,6 @@ update-id8673.com
 update-info92206.com
 update-sale-id6117871.info
 updatenow.click
-updatephlp.com
 updateyourprogram.com
 upezaid1044.top
 upgrader.icu
@@ -43909,7 +43817,6 @@ vmlpasiaugos.info
 vmlportal.tech
 vmlss0-prisijungti.info
 vmnk.ink
-vmonline2828.com
 vmpkt.ink
 vmpqt.ink
 vmpqx.ink
@@ -43957,7 +43864,6 @@ vobamo.cfd
 vobglert.cfd
 vocal6295wjl.cfd
 vocedietasaudavel.com
-vodacom-rewards.top
 vodafonegra.com
 vodafones.cc
 vodafonesp.com
@@ -45136,7 +45042,6 @@ xczvawdda.me
 xd43id9a.lol
 xdftt.cfd
 xdg4x-rpid2-qxhbza.cyou
-xdhl-collection.top
 xdp3d.cfd
 xds-yyds99.icu
 xdxvy.cc
