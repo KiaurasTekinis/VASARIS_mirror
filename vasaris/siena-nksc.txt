@@ -35039,7 +35039,6 @@ psvbi.cfd
 pswebpanel.cfd
 psxtor.com
 psxxloot.live
-psychroad.top
 psyls.cfd
 pt-aplicativo.info
 pt-aplicativo.net
@@ -38010,6 +38009,7 @@ sebdew.com
 sebdib.com
 sebdica.com
 sebdicas.com
+sebdicasa.com
 sebdis.com
 sebdit.com
 sebdiv.com
