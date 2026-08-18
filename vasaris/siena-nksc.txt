@@ -147,6 +147,7 @@
 08-16.digital
 08-16.live
 08-17.digital
+08-18.digital
 08-1dha.garden
 08-20.xyz
 08-2026.digital
@@ -17721,6 +17722,7 @@ id098129383.shop
 id0982.com
 id0984.com
 id0985.com
+id0986.com
 id0987.com
 id0988.com
 id098842.com
@@ -23933,6 +23935,7 @@ leumi-bank.su
 leumi-bank.today
 leumi-bank.uno
 leumi-bank.website
+leumi-group.buzz
 leumi-group.pro
 leumi-group.tech
 leumi-online24.xyz
@@ -25228,6 +25231,7 @@ luminorwish.shop
 luminotrl.com
 luminoushub.shop
 luminovr.com
+luminraos.com
 luminratha.com
 luminsor.com
 lumintauias.com
