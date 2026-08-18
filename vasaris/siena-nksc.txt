@@ -2295,13 +2295,6 @@ aktiviersung-suiwss-sbbnfid69.site
 aktiviersung-suiwss-sbbnfid79.site
 aktiviersung-suiwss-sbbnfid89.site
 aktiviersung-suiwss-sbbnfid99.site
-aktivierung-swiss-sbbfid39.site
-aktivierung-swiss-sbbfid49.site
-aktivierung-swiss-sbbfid59.site
-aktivierung-swiss-sbbfid69.site
-aktivierung-swiss-sbbfid79.site
-aktivierung-swiss-sbbfid89.site
-aktivierung-swiss-sbbfid99.site
 aktivierungs-schwiez-sbbkid12.site
 aktivierungs-schwiez-sbbkid22.site
 aktivierungs-schwiez-sbbkid32.site
@@ -2732,8 +2725,6 @@ android123.top
 android17qpr2.wiki
 android18.us
 android2025digital.pro
-android2025press.pro
-android2025pulse.pro
 android365.net
 android365partners.pro
 android4-you.ru
@@ -3255,7 +3246,6 @@ artanipas.com
 artasen.com
 artdeone.com
 arte-tv.cfd
-artea.app
 artea.art
 artea.bg
 artea.cc
@@ -6598,7 +6588,6 @@ calabrifplugini.cfd
 caldoriavonli.info
 caldrivora.com
 caleboc.icu
-callerid2016.com
 calmofgems.info
 calppherigama.cfd
 caltro.casa
@@ -7188,7 +7177,6 @@ cghjoj.click
 cgmfrze.cfd
 cgvqtyo.cyou
 ch-admin.icu
-ch-id83.info
 ch-id9l.garden
 ch-sweiz.cfd
 ch811apel684.icu
@@ -8063,7 +8051,6 @@ confirmation-id4711.world
 confirmation-id47236.com
 confirmation-id48194.com
 confirmation-id51337.world
-confirmation-id5242.com
 confirmation-id56071.com
 confirmation-id59387.com
 confirmation-id60739.com
@@ -9331,7 +9318,6 @@ de-easf.top
 de-ertgse.top
 de-esufg.top
 de-fyhgst.top
-de-id65.info
 de-jhasefa.top
 de-redgtd.top
 de-rgdssa.top
@@ -12533,7 +12519,6 @@ feravolinq.cfd
 fern-waardholm.cfd
 ferolixanq.cfd
 ferolunaxz.cfd
-ferret-one.com
 ferunavixpk.cfd
 ferunolaxahc.cfd
 ferunolaxkz.cfd
@@ -13010,7 +12995,6 @@ fontbyarial.org
 fonteinkruid18.nl
 fontyyer.icu
 food-basket.org
-foodandtraintour.com
 foodbanskcanada.icu
 foodclip102.cfd
 foodgrid97.shop
@@ -14675,7 +14659,6 @@ gosdtravel.com
 gosg5id1.top
 gosgid38.ru
 goshowscdn.icu
-gosl0m.top
 gosoketrik.icu
 gosozeqo.cfd
 gospoof.com
@@ -15141,7 +15124,6 @@ govj.xyz
 govkgov.top
 govlens.jp
 govlt.bar
-govlt.cam
 govlt.one
 govlt.qpon
 govmd.one
@@ -17666,7 +17648,6 @@ id-363555.com
 id-36725.com
 id-37.com
 id-376983.sbs
-id-37854.cfd
 id-378921.sbs
 id-38.com
 id-38127312.sbs
@@ -18209,7 +18190,6 @@ id1k8j4.top
 id1mania.com
 id1mboao.top
 id1ozlc.cn
-id1prem1forcrvvip.biz.id
 id1r31nx.cfd
 id1rtd88.top
 id1s37.top
@@ -19059,6 +19039,7 @@ id6177betapp.com
 id61802491.click
 id61918.info
 id619283.com
+id61932.com
 id61940862-de.com
 id61naapp.com
 id61r5df.top
@@ -19592,7 +19573,6 @@ id758937.click
 id75953935.live
 id75qaapp.com
 id761yk.cn
-id762.com
 id762135.shop
 id762389.shop
 id76252.shop
@@ -20259,7 +20239,6 @@ id928.sbs
 id9281.shop
 id92831941.cyou
 id92841.digital
-id929183a.com
 id92941.homes
 id9299.com
 id9299219.info
@@ -23653,7 +23632,6 @@ kstzv.cfd
 ksw-jkh.cfd
 ksw-prq.cfd
 ksypid7mdm0-55ih.top
-kt-cloud.xyz
 ktaocasevalgb.com
 ktdlhid1h.cc
 ktdlid2lj.cc
@@ -24210,6 +24188,7 @@ leumii.sbs
 leuminor.com
 leumionline.qpon
 leumiprivate24.space
+leumiprivate24.xyz
 leumisecure.space
 leumisecure.xyz
 levant-site.cfd
@@ -29170,7 +29149,6 @@ ng178.top
 ng179.top
 ng18.app
 ng180.top
-ng1818.cc
 ng182.top
 ng183.top
 ng184.top
@@ -29260,7 +29238,6 @@ ng231.top
 ng232.top
 ng233.com
 ng233.vip
-ng2339.cc
 ng234.top
 ng235.top
 ng236.top
@@ -29408,7 +29385,6 @@ ng286.top
 ng28666.cm
 ng287.top
 ng288.cm
-ng288.my
 ng288.xyz
 ng2888.app
 ng2888.vip
@@ -29952,7 +29928,6 @@ ng9sip56.top
 ng9v6cc.cn
 ng9vd8m.top
 ng9vfwhu.top
-ng9y3.com
 ng9y6j61.top
 ngbqvs.com
 ngc4id27.top
@@ -30131,7 +30106,6 @@ nkxwo.ink
 nkzli.cyou
 nkznwprq.cyou
 nl-cliw.help
-nl-id736.info
 nl-yywg.help
 nl-yywn.help
 nlahsecfnb-dot-mmanalytics2.appspot.com
@@ -31475,7 +31449,6 @@ opinionliteraturewzza.com
 opkzrnqw.cyou
 opl-id059291.shop
 opl-id95921.shop
-opla-id0153.click
 oplat-id059252.best
 oplat-id059281.best
 oplkjh.icu
@@ -31738,7 +31711,6 @@ order-29471.info
 order-29577.info
 order-29814438.space
 order-299651.info
-order-29966.info
 order-31937812.space
 order-32171992.space
 order-32271488.life
@@ -32093,7 +32065,6 @@ order26836.cyou
 order26836.sbs
 order2718.top
 order2777.top
-order2818.cfd
 order282828.top
 order2840.shop
 order2841.club
@@ -32113,7 +32084,6 @@ order295.shop
 order2981.shop
 order299492.top
 order3023.click
-order3111.top
 order314324.live
 order319601.top
 order32104.top
@@ -32183,7 +32153,6 @@ order3921.info
 order3922.cfd
 order393055.com
 order393329.help
-order3938.top
 order398573.help
 order399-01.sbs
 order3991.top
@@ -32310,7 +32279,6 @@ order61551.cfd
 order61551.click
 order61551.shop
 order61571.click
-order616512.click
 order61771.click
 order61839.sbs
 order6192043.com
@@ -37605,7 +37573,6 @@ s9ewrid7.top
 s9ordrverlfy94.com
 sa350.cfd
 saanaconzdcsultingltd.vu
-sabaid888.com
 sabanl.com
 sabasld.shop
 sabis.plusfun.lt
@@ -37845,7 +37812,6 @@ savasld-lietuva.icu
 savasld-login.icu
 savasld-lt.online
 savasld-valdymas.digital
-savasld-valdymas.icu
 savasld.lat
 savasld.ph
 savasld.xyz
@@ -37986,11 +37952,6 @@ schiwyzer-erstattungsfoid94.site
 schonder.cfd
 schoolsandcovid19.org
 schustes.com
-schweiz-aktivierung-sbbpid49.site
-schweiz-aktivierung-sbbpid59.site
-schweiz-aktivierung-sbbpid69.site
-schweiz-aktivierung-sbbpid79.site
-schweiz-aktivierung-sbbpid89.site
 schweiz-mycssdeid53.site
 schweiz-mycssdeid63.site
 schweiz-mycssdeid73.site
@@ -41614,7 +41575,6 @@ su811preme28.icu
 suakcijomisirljdldovanomis.store
 suateloole.com
 sub-id135.cc
-subastademezcal.com
 subhost.site
 submitproj.icu
 sucsalvtal.cfd
@@ -41660,12 +41620,6 @@ suinbeons.com
 suinern.icu
 suinesdel.com
 suining.icu
-suiss-aktivierung-sbbsid42.site
-suiss-aktivierung-sbbsid52.site
-suiss-aktivierung-sbbsid62.site
-suiss-aktivierung-sbbsid72.site
-suiss-aktivierung-sbbsid82.site
-suiss-aktivierung-sbbsid92.site
 suiss-mycssloid59.site
 suiss-mycssloid69.site
 suiss-mycssloid79.site
@@ -42112,7 +42066,6 @@ szndev.cfd
 szxici.com
 szxuheyuan.com
 t-b-id06113.fun
-t-news.net
 t-og.com
 t-park.id
 t-post-post.cfd
@@ -44621,7 +44574,6 @@ useroute-deliverpay247.cfd
 userpage.cloud
 ushiilanlum.icu
 usiqid408.vip
-uskgid301.vip
 uslugegov.cfd
 uslugigov-mk.cfd
 usmellu.monster
@@ -46116,7 +46068,6 @@ void001.com
 void002.com
 void003.com
 void004.com
-void03.com
 void031-verify.com
 void04.com
 void05.com
@@ -46577,7 +46528,6 @@ watchesbyclockedin.com
 watchsilyx.cfd
 watchtv06.cfd
 watchtv07.cfd
-waterapp.pro
 waterlookzmin.com
 watiroy.icu
 waultecrystadub.icu
@@ -47329,7 +47279,6 @@ xaid66.cn
 xaits.icu
 xalaflix.icu
 xalocan.cfd
-xalthraaftentid9.org
 xamgbahis-girisbonus.icu
 xanlxo.buzz
 xasvv.cfd
