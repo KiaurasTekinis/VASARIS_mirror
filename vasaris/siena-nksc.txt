@@ -162,6 +162,7 @@
 08-2026.digital
 08-2026.info
 08-21.digital
+08-22.digital
 08-26.digital
 08-26.xyz
 08-28.digital
@@ -355,7 +356,6 @@
 13-08.info
 13-08.today
 13-08.xyz
-1300-euros-maxima.online
 1300-maxima-euro.site
 1300euro.com
 1300euro.online
@@ -6384,6 +6384,7 @@ brickwallconstructions.icu
 bricomid.com
 brictrin.cfd
 bridgeton1.icu
+bright-pen.lol
 brightforestlake.cfd
 brighthorizon-communications.com
 brightmeadow.icu
@@ -9351,7 +9352,6 @@ daddy-ucw16.cfd
 daddy-ufs78.cfd
 dadid8.cc
 dadsadasdafgf.exchange
-daedalus.website
 daemontools.cc
 dafonus.icu
 daga66.icu
@@ -12277,6 +12277,7 @@ euro-embercollective.rest
 euro-perkelimas-1330.site
 euro-transfer-pay.ph
 euro1350-maxima.site
+euroavtoimport.ru
 eurofood.ro
 eurofuel.top
 eurolituea.com
@@ -13424,7 +13425,6 @@ fqzle.cloud
 fqzpi.cloud
 fqztr.icu
 fqzwhyn.cyou
-fr-amende.com
 fr-legale.cc
 fragmentslabs.com.br
 fragtireur.free.fr
@@ -45938,7 +45938,6 @@ verlfystep.help
 verlfyy-poshh.cfd
 verlif-ld7302.top
 vernixa94voli.info
-verokayttaja.com
 veroynsmartanchor.cfd
 versemark.cfd
 verslozinios.ltd
@@ -46359,8 +46358,6 @@ visionvibe.cfd
 visionvoyage.cfd
 visitcoalcountry.cfd
 visitola.ru
-viss-lvpakalpojumi.com
-visspastkastite.net
 vistabbcnew.com
 vistareserveportal.com
 vitaflex.icu
