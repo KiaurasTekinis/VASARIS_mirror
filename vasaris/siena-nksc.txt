@@ -17489,6 +17489,7 @@ hpqla.cyou
 hpqpi.cyou
 hpqro.cloud
 hpqte.cyou
+hpsmart-id.com
 hptle.cloud
 hptotorajaampat.icu
 hpud0.cfd
@@ -35218,7 +35219,6 @@ posten-no.net
 postenno.cfd
 postenotrack.com
 postes.cc
-postex.cfd
 postfinance-ch.cyou
 postfinance.bond
 postfinance.buzz
