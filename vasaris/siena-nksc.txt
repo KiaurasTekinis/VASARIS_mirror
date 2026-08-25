@@ -10054,7 +10054,6 @@ deliveruferry.cfd
 delivery-connect.shop
 delivery-ggo.shop
 delivery-go.shop
-delivery-goo.shop
 delivery-grop.shop
 delivery-groups.shop
 delivery-link.shop
@@ -11382,6 +11381,7 @@ e-roozgar.com
 e-seb-lt-privatiems.com.ph
 e-seb-lt-v3eservicescom458109.codeanyapp.com
 e-servllceeess.de
+e-smae.xyz
 e-smu.com.ar
 e-trade.sbs
 e-transferpayment.ph
@@ -15252,7 +15252,6 @@ gortmnomita.com
 goruntulushow.icu
 gos-info24.xyz
 gosafe.pro
-gosbm.ink
 goschoolhightech.cfd
 gosdtravel.com
 gosg5id1.top
@@ -26685,6 +26684,7 @@ mano-vmi.info
 mano-vml.app
 mano.info
 mano.org
+manobauda-vml.tech
 manobook.com
 manodaktaras.it
 manoeviltm.firebaseapp.com
@@ -26938,7 +26938,6 @@ marvalorivo.cfd
 marvexiona.com
 mary.family
 marym.site
-marys.care
 marys.website
 maryu.xyz
 maryz.top
@@ -45970,6 +45969,7 @@ vakwowuhtu.cfd
 valakiv.icu
 valdzios-ep.info
 valdzios-vartai.info
+valdzios-vp.info
 valdziosvartai.info
 valerimoxazq.cfd
 valerimoxqt.cfd
