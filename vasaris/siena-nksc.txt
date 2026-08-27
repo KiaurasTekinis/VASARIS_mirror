@@ -11695,7 +11695,6 @@ dpd-savedeal2.cfd
 dpd-si.icu
 dpd-soz.top
 dpd.autos
-dpd.lt-saugus-sandoris.cfd
 dpd.lt.delivery-package3.shop
 dpd.lt.delivery-payment.shop
 dpd.paytrustmoney.site
@@ -21976,6 +21975,7 @@ ili13per.homes
 ililene.info
 illavorochefabene.com
 illuminance.fi
+ilniaus-vpk.info
 ilniausep.info
 ilniauspunktas.info
 ilove-pdf.icu
@@ -26458,7 +26458,6 @@ lt-promonew.com
 lt-promonewss.com
 lt-psavitarna.info
 lt-registrucentras.icu
-lt-saugus-sandoris.cfd
 lt-savingpaymentt.cfd
 lt-savitarna-e.com
 lt-sb.com
@@ -44842,6 +44841,7 @@ terrestialdistro.icu
 tervixaven.cfd
 tescouk.cfd
 tesla-d2x.com
+tesla24.shop
 tesla2v2.com
 teslaapleid1.top
 teslaq2x.com
