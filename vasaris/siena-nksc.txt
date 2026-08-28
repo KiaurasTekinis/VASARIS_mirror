@@ -12757,6 +12757,7 @@ e-pasig-pagalba.sbs
 e-pasl-p-pagalba.sbs
 e-paslaugas.elektroninis.co
 e-paslaugos.info
+e-pastaogus.digital
 e-po-prielga.info
 e-poii-kv.info
 e-poiibk.info
@@ -37103,7 +37104,6 @@ posta-id.cc
 posta.bgong.cc
 posta.qpon
 postae.info
-postalt.cfd
 postamagyar.online
 postao.buzz
 postaperla.icu
@@ -40769,6 +40769,7 @@ sebauhas.com
 sebauhs.com
 sebaum.com
 sebaurs.com
+sebaurys.com
 sebaush.com
 sebavef.com
 sebavefa.com
