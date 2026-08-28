@@ -1051,6 +1051,7 @@
 29-07.pro
 29-07.social
 29-07.tech
+29-08.digital
 292040.top
 29363.cfd
 295002.top
@@ -15131,6 +15132,7 @@ frwka.cyou
 frwka.ink
 frwla.cfd
 frwla.ink
+frwonderfulparis.net
 frwpi.cfd
 frwpi.cyou
 frwpi.ink
