@@ -18382,6 +18382,7 @@ hapoalimbank.online
 hapoalimbank.space
 hapoalimbank.tech
 hapoalimbank.xyz
+hapoalimfinance.xyz
 hapoalimgroup.online
 hapoalimgroup.pro
 hapoalimgroup.site
@@ -28950,7 +28951,6 @@ maxima-1310euro.space
 maxima-1315euro.click
 maxima-1315euro.online
 maxima-1320-euro.online
-maxima-1320euro.eu
 maxima-1320euro.online
 maxima-1320euru.eu
 maxima-1325euro.click
