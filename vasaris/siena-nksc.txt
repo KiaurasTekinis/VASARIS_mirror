@@ -14676,6 +14676,7 @@ fancyorchid6.surf
 fandaco.cfd
 fangye.cfd
 fanjingdh.cfd
+fanmark.shop
 fanming.icu
 fanror.cfd
 fans-pack.com
@@ -20718,6 +20719,7 @@ id241836.shop
 id245.sale
 id2453321432.help
 id247.online
+id2485.com
 id24929.help
 id24jamslot.com
 id24rt13a.rest
@@ -47369,6 +47371,7 @@ uniparku.com
 uniparkv.cfd
 uniparkv.com
 uniparkv.shop
+uniparkvk.shop
 uniparkvprisjungimas.top
 uniparkw.com
 uniparkx.com
@@ -48982,7 +48985,6 @@ visitorbet6bg.cfd
 visitorbet78fgv.cfd
 visitorbet89cd.cfd
 vistabbcnew.com
-vistareserveportal.com
 visunchyig.cfd
 vita-matrix.cfd
 vita-nexus.cfd
