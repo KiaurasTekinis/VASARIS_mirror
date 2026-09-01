@@ -2416,6 +2416,7 @@ a-judu.info
 a-kv-24204921500.top
 a-kv02491041999.top
 a-kv0249499274.top
+a-kv029-294184293.top
 a-kv0294210492.top
 a-kv0304294501.top
 a-kv0341023592.top
@@ -2444,6 +2445,7 @@ a-kv9204194023.top
 a-kv92041950200.top
 a-kv9204920491.top
 a-kv92049229284.top
+a-kv9238142400.top
 a-kv9239204923.com
 a-kv9240194994.top
 a-kv92481048204.top
@@ -4647,7 +4649,6 @@ artanipas.com
 artasen.com
 artdeone.com
 artea.art
-artea.bg
 artea.cc
 artea.company
 artea.design
@@ -4770,7 +4771,6 @@ arteaweba.com
 arteawein.com
 arteawto.com
 arteazen.school
-artefa.to
 artefeas.com
 artefeqa.com
 artefesa.com
@@ -4841,7 +4841,6 @@ artenals.com
 artenies.com
 artenmieas.com
 arteo.online
-arteo.tech
 arteomaca.com
 arteoweb.com
 artera.ink
@@ -13843,6 +13842,7 @@ e-seb-lt-privatiems.com.ph
 e-seb-lt-v3eservicescom458109.codeanyapp.com
 e-sebpaslaugos.com
 e-servllceeess.de
+e-sma-vml.xyz
 e-smae.xyz
 e-smu.com.ar
 e-trade.sbs
@@ -14258,8 +14258,6 @@ electronics-promo.com
 electronics1-gov.com
 electroplanet-store.online
 electroplanetstore.com
-electrum.buzz
-electrum.lol
 electrum.now
 elehawi.icu
 elehrit.info
@@ -14275,7 +14273,6 @@ elektrum.shop
 elektrum.site
 elektrum.us
 elektrum.xyz
-elektum.com
 elementmaterials.cfd
 elemirt.info
 elena-vilnius.lt
@@ -50239,6 +50236,7 @@ vintedsph.shop
 vintedverification.digital
 vintedverification.help
 vintedverification.info
+vintedverification.me
 vintedzgb.shop
 vintoro.cfd
 vintorobr.cfd
