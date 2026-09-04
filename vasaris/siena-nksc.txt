@@ -11319,9 +11319,6 @@ com-lta.cfd
 com-lte.cfd
 com-lth.cfd
 com-ltj.cfd
-com-ltk.cfd
-com-ltm.cfd
-com-ltn.cfd
 com-ltod.cfd
 com-ltos.cfd
 com-ltq.cfd
@@ -17849,6 +17846,7 @@ gimas-vmi02-10.info
 gimurev.icu
 ginid1.top
 giorgetti-governo.com
+giornalia.pro
 gipv.cfd
 giqppblz.cfd
 gir-betcio.icu
@@ -29192,7 +29190,6 @@ lt-securitycentre.com
 lt-service-e.com
 lt-service.top
 lt-sesija.info
-lt-sjfdh.cfd
 lt-skolu.com
 lt-supports.com
 lt-sveikata.info
