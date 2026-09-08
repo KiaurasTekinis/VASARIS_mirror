@@ -11381,8 +11381,6 @@ com-lq.qpon
 com-lq.uno
 com-ls.online
 com-ls.qpon
-com-ltod.cfd
-com-ltos.cfd
 com-lva.cfd
 com-lw.uno
 com-milanohotel2025.com
@@ -50754,7 +50752,6 @@ swedbank.lt-apsauga-e.net
 swedbank.lt-kortele.net
 swedbanken.online
 swedbankinterna.com
-swedbankll.in.net
 swedbanklt.hostd.my.id
 swedbanklt.hostr.my.id
 swedbankltlogs.in.net
@@ -55592,6 +55589,8 @@ vmpxr.ink
 vmqx.ink
 vmqxz.cloud
 vmrolk27567.com
+vmsac.digital
+vmsam.digital
 vmtkxc.help
 vmtre.cfd
 vmxeu.top
