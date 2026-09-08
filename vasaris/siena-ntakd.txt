@@ -11,6 +11,7 @@ cigslt.fun
 cigslt.global
 cigslt.io
 cigslt.life
+cigslt.one
 cigslt.pro
 cigslt.shop
 cigslt.site
