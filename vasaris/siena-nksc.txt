@@ -5762,7 +5762,6 @@ axdsfmdy.cfd
 axezmylc.cfd
 axilsnbar.cfd
 axionet.cc
-axiornconstruction.com
 axirt.cfd
 axixeo.cfd
 axiz0ssx.cfd
@@ -24216,6 +24215,7 @@ inform-bauda.xyz
 inform-portal.today
 informacija.mk
 informaclique.eu
+informaclja-vm.digital
 informaticabr.cfd
 informaticajournal.com
 informationhot.kr
@@ -50572,7 +50572,6 @@ samuraistormbringer.cfd
 sanatoriosanjusto.com
 sanbeila.com
 sanbeium.com
-sandrajuvelyre.co
 sands-999.cfd
 sandtree.cfd
 sanembif.com
@@ -52701,6 +52700,7 @@ servlce-lnf03922.top
 servlce-lnf0481392.top
 servlce-lnf049821.top
 servlce-lnf0941.top
+servlce-lnf0rmatlon381.top
 servlce-lnfo29841.top
 servlce-lnfo38211.top
 servlce-lnfo3893.com
@@ -53517,7 +53517,6 @@ slewbrafs.com
 slewtrem.com
 slfdrxbj.cfd
 slggnmebidding.icu
-slibwr.icu
 slickcar.cfd
 slid062.top
 slideaxid600-es.live
@@ -58632,6 +58631,7 @@ vaidotas-gala-nxrdis-team.myfreesites.net
 vaidzios-vartai.info
 vaildate-usreidd5731943.com
 vaimed.co.uk
+vairalhub24.site
 vaizdas-patvirtinti-sesija.info
 vakeyod.icu
 vakocur.icu
@@ -60104,6 +60104,7 @@ vm-i.fr
 vm-i.live
 vm-i.nl
 vm-i.today
+vm-informaciia.digital
 vm-is-ti-lt.pages.dev
 vm-l.be
 vm-l.ink
