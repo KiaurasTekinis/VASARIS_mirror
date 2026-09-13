@@ -21525,6 +21525,7 @@ id13267.shop
 id132876.shop
 id133brapp.com
 id133cashapp.com
+id13459.com
 id135246.help
 id1355betapp.com
 id1364.com
@@ -23540,6 +23541,7 @@ id92001.shop
 id922.sbs
 id92371.shop
 id9245.cfd
+id92452.com
 id9247.com
 id925402.com
 id92611.live
@@ -36918,6 +36920,7 @@ order-7736351.help
 order-797677.info
 order-79891.info
 order-80511.info
+order-82310.com
 order-8312.online
 order-8312.ru
 order-84719.online
@@ -37263,6 +37266,7 @@ order3464641.rest
 order34657.com
 order34662.me
 order347.com
+order3485354.com
 order349833.icu
 order3522.shop
 order352526.click
@@ -48627,6 +48631,7 @@ policijavbaudos.info
 policijavp.info
 policijavpkprieiga.info
 policijbaudos.info
+policijosprotokolai.info
 policja-112.online
 policja-112pl.site
 policja.lol
@@ -60951,7 +60956,6 @@ verfahren-konzept.cfd
 verfahren-konzept.icu
 verfiynewdocument.icu
 vergeartifact.shop
-vericaptcha-businessfacebook.com
 verietascorp.company
 verif-compr-es.cfd
 verif-id01900026789.com
