@@ -12135,7 +12135,6 @@ dosesud.icu
 dota2bet.cfd
 dotaritacair.com
 dotduedub.icu
-double-a.net
 double-xrp.com
 double2x.com
 doubleeagleautosluxury.com
@@ -12737,6 +12736,7 @@ e-sma-vml.xyz
 e-sma.xyz
 e-smae.xyz
 e-smartlt.xyz
+e-sodra.business
 e-trade.sbs
 e-transferpayment.ph
 e-unipark.it
@@ -35005,6 +35005,7 @@ olhaeu.pt
 oli-bylos.info
 olicijosprisijungimas.info
 olicijosprotokolai.info
+olicijosprotokolai.tech
 olicijossesija.info
 olicijosvp.info
 oligheq.info
