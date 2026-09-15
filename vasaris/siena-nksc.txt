@@ -28131,7 +28131,6 @@ lt-mparking-service-e.com
 lt-mparking-services.com
 lt-mpparking.info
 lt-n.cfd
-lt-newsnew.com
 lt-nftgy.top
 lt-o.cfd
 lt-park.info
@@ -28148,8 +28147,6 @@ lt-post.cloud
 lt-post.world
 lt-posts.cfd
 lt-prisijung.info
-lt-promonew.com
-lt-promonewss.com
 lt-psavitarna.info
 lt-registrucentras.icu
 lt-savitarna-e.com
@@ -50213,6 +50210,7 @@ pranasiima-vm.digital
 pranaslma-vm.digital
 pranaslma-vmn.digital
 pranasma.digital
+pranasma.online
 pranasmavm.digital
 pranesimai-ep.info
 pranesimaivp.sbs
@@ -61657,7 +61655,6 @@ vello.cfd
 velmiraq.cfd
 velnarivaqru.top
 velocitidex.cfd
-velocityspark.website
 velocrafters.com
 veloibmnk.com
 velomaba.com
