@@ -3922,7 +3922,6 @@ alobtt.icu
 alobttaqq.icu
 alobtx.icu
 alondrasmaid2clean.com
-alovrevilnius.com
 alphaace.com.pk
 alphacelularworld.cfd
 alphagamerprime.cfd
@@ -5026,6 +5025,7 @@ asitaicaatr.com
 asjppok.cfd
 askapcoa.buzz
 askgm-gopv.buzz
+askolos.info
 askoro.icu
 aslaugos.info
 asled.pro
@@ -13708,6 +13708,7 @@ esapaet.sbs
 esapaet.skin
 esapark.cfd
 esapark.sbs
+esapark.skin
 esasparkeninegka.buzz
 esavitarna.it
 esavpark.cfd
@@ -13828,6 +13829,9 @@ esvelklata.cfd
 esviakatia.click
 esvma-24.xyz
 esvmai-24.xyz
+esvpaet.cfd
+esvpaet.sbs
+esvpaet.skin
 esvvellkata.click
 eswyv.help
 esyapak.click
@@ -22669,7 +22673,6 @@ identification-acc.help
 identiificatioon-id3289.my.id
 identity-verify-login.org
 identitylt.com
-idersk82.monster
 idevices-verify.live
 idevora.xyz
 idezora.icu
@@ -25560,6 +25563,7 @@ kg-mplay.cfd
 kg236vdm.cfd
 kgd-keden-gov.kz
 kgefi.cfd
+kgeta.cfd
 kgevduhqdzxp.icu
 kgggqwxm.cfd
 kghgfn.cfd
@@ -54323,6 +54327,7 @@ regitra-eurezident.lt
 regitra-kv0239412049.com
 regitra-lt.top
 regitra.autos
+regitra.casa
 regitra.lol
 regitra.ph
 regitra.shop
@@ -55348,6 +55353,7 @@ rtzwrlpq.cloud
 ru-7k45.casino
 ru-id396.info
 ru-id982.info
+ru-panel.mobi
 ru-steroid15.shop
 ru-vodka493.casino
 ru-vodka594.casino
@@ -63272,7 +63278,6 @@ urcvotiacitaoica.com
 urderld.com
 uredwodylin.info
 uren-capitrace.cfd
-urerazvb-develirypay166.cfd
 urerazvb-develirypay166.icu
 urhbo.com
 urilbo.com
@@ -63453,7 +63458,6 @@ uytrv.icu
 uyuaid354.vip
 uyvuyrfd.cfd
 uzak-pay-delivery101.icu
-uzak-transferdelivery11.cfd
 uzakymas-patvirtinimas101901.icu
 uzakymo-delivery101.icu
 uzakymo-patvirtinimo-transcation109.icu
@@ -65052,6 +65056,7 @@ vmnpranasima.online
 vmor.digital
 vmpashaogus.digital
 vmpasiaogous.digital
+vmpasmaougus.online
 vmpaspaogous.digital
 vmpaspaogous.info
 vmpaspaogous.xyz
@@ -65059,6 +65064,7 @@ vmpastaogous.digital
 vmpastaogous.work
 vmpastaosugus.online
 vmpastaougus.online
+vmpasyaougus.online
 vmpka.xin
 vmpkt.ink
 vmpqbn.xin
