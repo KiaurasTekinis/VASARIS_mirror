@@ -13919,7 +13919,6 @@ dpd-deliveryinfo.com.ph
 dpd-deliveryservice.net
 dpd-im.cc
 dpd-info-redelivery.ph
-dpd-info.life
 dpd-keisti.com
 dpd-keisti.im
 dpd-lt.amiweb.shop
@@ -29539,6 +29538,7 @@ lietuva.lol
 lietuva.mom
 lietuva.sbs
 lietuva.tech
+lietuva.uk
 lietuvanow.site
 lietuvos-draudimas.eu
 lietuvosbankas.online
@@ -61401,6 +61401,7 @@ tbznwrqk.cyou
 tc6bpg1q.cfd
 tc9qq6s0.cfd
 tcbzhwe.cfd
+tcdtvmne.digital
 tchaudm.com.br
 tchze.cloud
 tcid5aucpl7yu6g.sbs
