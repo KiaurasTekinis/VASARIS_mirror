@@ -281,6 +281,7 @@ hr.rbth.com
 i-edem.tv
 i-look.tv
 icanlive.tv
+icecast-rian.cdnvideo.ru
 id.rbth.com
 iedem.tv
 ilook-tv.tv
@@ -451,6 +452,8 @@ old.murman.tv
 on-tv.ru
 on24tv.ru
 oneliketv.net
+onlayn-radio.ru
+online-radio-list.ru
 online-red.com
 online-red.me
 online-red.online
@@ -513,14 +516,20 @@ premier.one
 pressefreiheit.rtde.life
 pressmia.ru
 pressria.ru
+prfm.ru
 privet-tv.com
 pro-tv.net
 prosto-tv.net
 proxyninja.org
+radio-online.by
+radio-online.ru
 radio-tv.online
+radiogrom.com
 radiomayak.ru
+radiopotok.ru
 radiorus.ru
 radiosputnik.ria.ru
+radiosputnik.ru
 radiounost.ru
 radiovesti.ru
 radiozvezda.ru
@@ -723,6 +732,7 @@ sputniknews.lat
 sputniknews.vn
 sputniknewsbr.com.br
 sputniknewslv.com
+sputnikperm.ru
 sputnikportal.rs
 static.riafan.ru
 stavropolye.tv
@@ -802,6 +812,7 @@ tlum.ru
 todopelotatvhd.com
 tok.media
 top-iptv.cc
+top-radio.ru
 topiptv.ca
 topiptv.co.za
 topiptv.in
@@ -945,6 +956,7 @@ vladtv.ru
 vn.sputniknews.com
 voiceofrussia.com
 volgograd-trv.ru
+volna.top
 vsetv.xyz
 vsevtv.com
 vsewtv.top
