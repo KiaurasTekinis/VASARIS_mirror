@@ -14517,6 +14517,7 @@ eabe9cga.cfd
 eabeb.cc
 eaccept.click
 eaccepter.click
+eacvpark.cfd
 eacvpark.sbs
 eadreses.com
 eadresevestule.info
@@ -14587,6 +14588,7 @@ easyparks.id
 easyparks.skin
 easyparkss.cfd
 easyparsk.buzz
+easyparsk.cc
 easyparsk.click
 easyparsk.cyou
 easyparsk.online
@@ -23720,6 +23722,7 @@ id763412.shop
 id763472.shop
 id763829.shop
 id763914.shop
+id764516.com
 id764822.shop
 id7656app.com
 id7676winapp.com
@@ -23761,7 +23764,6 @@ id7777gameapp.com
 id7777wapk.com
 id7777win.com
 id7777wmod.com
-id7778.com
 id777888betapp.com
 id777a2.com
 id777a7.com
