@@ -7469,7 +7469,6 @@ bank-puslapis.com
 bank-sarasas.click
 bank-sarasas.help
 bank-sb-lt.com
-bank-transfer-receiving-payment-eu.click
 bankas-lietuva.ph
 bankas-mielas.xyz
 bankas-puslapis.click
@@ -14570,6 +14569,7 @@ easycarbuy.cfd
 easycheep.icu
 easyipark.icu
 easyipark.sbs
+easyipark.top
 easylifegoxvw.com
 easypak.ink
 easypak.sbs
@@ -53987,7 +53987,6 @@ savasld-ath.icu
 savasld-atn.icu
 savasld-auth.icu
 savasld-authorization.icu
-savasld-leidimas.icu
 savasld-login.icu
 savasld-lt.online
 savasld.ph
@@ -58111,7 +58110,6 @@ sveikatosgidasltcx.info
 sveikatoskodas.site
 sveikatoslt.com
 sveikatosprieziura.site
-sveikinu-1330-euro.online
 sveikinu-1330euro.online
 sveikinu100.store
 sveikinu1000.store
@@ -61499,7 +61497,6 @@ uzakymos-patvirtinimos14973.shop
 uzakymos-patvirtinimos16375.cfd
 uzakymos-patvirtinimos16691.cfd
 uzakymos-patvirtinimos17561.cfd
-uzakymos-patvirtinimos80812.cfd
 uzakymos-patvirtino104735.cfd
 uzakymos-patvitinimos160310.cfd
 uzakymos-safedeal1532.cfd
