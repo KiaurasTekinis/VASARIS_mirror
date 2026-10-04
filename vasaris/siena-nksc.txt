@@ -341,11 +341,6 @@
 12gg92001cccc.cfd
 12gg92001dddd.cfd
 12gg92001eeee.cfd
-12gg920aaaa.cfd
-12gg920bbbb.cfd
-12gg920cccc.cfd
-12gg920dddd.cfd
-12gg920eeee.cfd
 12gg92101aaaa.cfd
 12gg92101bbbb.cfd
 12gg92101cccc.cfd
@@ -571,7 +566,6 @@
 1win-lfd22.cfd
 1win-lge22.cfd
 1win-lhv.cfd
-1win-mqstersites2026.cfd
 1win-msf63.cfd
 1win-nig45.cfd
 1win-nkc98.cfd
@@ -781,7 +775,6 @@
 2026ikimisli-resmiadres.icu
 2026kavbet-resmiadres.icu
 2026kralbet-girisionline.icu
-2026milanobet-resmiadres.icu
 2026new.icu
 20365.cfd
 21-07.casino
@@ -1336,7 +1329,6 @@
 812ce-id6c1.cyou
 817ahl3bb7tmyk9.icu
 81855.icu
-819t0n2vmbbkgbu.icu
 8237525.cfd
 823758235.cfd
 824900.top
@@ -1513,7 +1505,6 @@
 9rnulaampid3.top
 9talid1.cc
 9tgn8jn36sqgkse.icu
-9tj2woo6fyndspty5qys.icu
 9tpvu0id4ktb.cc
 9tt122e6b9-dot-mmanalytics2.appspot.com
 9va801.shop
@@ -1788,7 +1779,6 @@ ab-test-instant-payment.xyz
 ab-test-payment-instant.xyz
 ab.swed.lithuania.pitruzzellaimpianti.it
 ababil.cfd
-abacd.cfd
 abadrianaribeirolumey.cfd
 abadshgc.cfd
 abalexandrerochatekux.cfd
@@ -1890,7 +1880,6 @@ accts-osriwin.icu
 acelerarteam.com.br
 acesso-agora.click
 acessoliberado.click
-acetotoy.cfd
 acevaspark.cfd
 achdsx.uk
 acheterclientid43209249.info
@@ -2340,7 +2329,6 @@ aktifmobil.icu
 aktifmobilerisim.icu
 aktifresmigiris.icu
 aktivizet.com
-aktvprsnlm.cfd
 aktyvuoti-debetokortele.eu
 akulafisher.ru
 akunslot.cfd
@@ -2401,7 +2389,6 @@ allcapitalinc.info
 allcapitalinc.net
 allcapitalinc.site
 allcapitalinc.vip
-allctrl.icu
 allegis-group.org
 allegro-oferta24h079.icu
 allegrolokalnie-oferta-59812.cfd
@@ -2463,7 +2450,6 @@ altereas.com
 altonveil.org
 altreiea.com
 altverlfybot.cfd
-altvprsmkn.cfd
 altyazilihubcx.cfd
 alvandahq.com
 alvandaops.com
@@ -2644,7 +2630,6 @@ anmk.ink
 anoblufernys.pro
 anodeverify.xyz
 anomalously.pro
-anomer.cfd
 anonura.cfd
 anonymisation-ia.fr
 anonymousstate.com
@@ -2742,7 +2727,6 @@ apkiausose-p.info
 apkid789.com
 apklausos.com
 apklausose-p.com
-apktotoy.cfd
 aplikasismartid.my.id
 aplxwi.top
 apmokejimas.casa
@@ -3331,7 +3315,6 @@ aseeasypark.cfd
 asekoni.icu
 asemanesefid62.cfd
 asep4dh.cfd
-aserofr.cfd
 aseromx.cfd
 aserreos.buzz
 asertlea.com
@@ -3891,15 +3874,8 @@ backupdmyid9m98ryp1h6fy4.cc
 backupingeneering.com
 backuptxdorcrc3id3wm7w6s.lol
 badai100-bill1.cfd
-badai100-bill10.cfd
-badai100-bill2.cfd
-badai100-bill3.cfd
-badai100-bill4.cfd
-badai100-bill5.cfd
-badai100-bill6.cfd
 badai100-bill7.cfd
 badai100-bill8.cfd
-badai100-bill9.cfd
 baeknedus.rest
 baellorratibu.info
 baerrubengwangong.cfd
@@ -3918,7 +3894,6 @@ bahiscasino-eylul-giris.icu
 bahiscasino-eylul26.icu
 bahiscasino-girisadres.icu
 bahiscasino-hqligqnsites2026.cfd
-bahiscasino-mqstersites2026.icu
 bahiscasino-yenierisim.icu
 bahiscasino3001giris.icu
 bahiscasinoco.icu
@@ -4234,7 +4209,6 @@ belvoria88ratu.com
 bemo4dmid01.site
 bemo4dmid02.site
 bemqi32.cfd
-benbaka.cfd
 benchmark-estimating.com
 bencil.com
 beneficiosonline.online
@@ -4347,7 +4321,6 @@ betexper-activeqdresirn.cfd
 betexper-casino-slot.icu
 betexper-casino-slot1.icu
 betexper-girisleri-mobil.icu
-betexper-mqstersites2026.cfd
 betgar-enguvenilir.icu
 betgaranti-gunceltr.icu
 betgaranti-trgiris.icu
@@ -4358,7 +4331,6 @@ betgit-clicksites2026.cfd
 betgit-girisadres.icu
 betgit-giriss12.icu
 betgit-hqligqnsites2026.cfd
-betgit-mqstersites2026.icu
 betgit-resmi-slot1.icu
 betgit-tek-resmi-girisler.icu
 betgite-giris.icu
@@ -4427,7 +4399,6 @@ betpas-erisim1.icu
 betpas-serplertemiz.icu
 betpasfreespin1.icu
 betpasguncelgr.icu
-betpasresmiyeni.icu
 betpassonline1.icu
 betper-giristr.icu
 betper-guncel-girisler.icu
@@ -4479,7 +4450,6 @@ bettilista.com
 bettilt-activeqdresirn.cfd
 bettilt-clicksites2026.icu
 bettilt-girisiyap.icu
-bettilt-mqstersites2026.cfd
 bettiltmobil.icu
 bettingid99.com
 betturkiye.cfd
@@ -4538,7 +4508,6 @@ bhrtv-id99173.com
 bhvplzmq.cyou
 bhvqnplz.cloud
 bhwna.xin
-biabcxzsawha.cfd
 biabet-lisans.icu
 biabet-resmisitesi.icu
 biabetresmigirisi.icu
@@ -4625,7 +4594,6 @@ bigbolamx.cfd
 bigbostogelh.cfd
 bigbostotoh.cfd
 bigg-billeon-day.icu
-bigg-billiones-sales.icu
 biggestbass.space
 bighokione.cfd
 bighokisangat.cfd
@@ -4706,7 +4674,6 @@ bittnet.icu
 bitungtotoh.cfd
 bitva-ekstrasensov-tv.cfd
 bitverso.live
-biubiu.cfd
 biubiubiu.icu
 bivaz9.cfd
 bives.pro
@@ -4838,7 +4805,6 @@ bmid0592.cn
 bmid0668.cn
 bmjxa.ink
 bmosecureverify.com
-bmotedefbsfr.cfd
 bmpro.cfd
 bmrce.cfd
 bmrke.cfd
@@ -4847,7 +4813,6 @@ bmvle.cfd
 bmvqe.ink
 bmvqx.cloud
 bmvzkl.cloud
-bmwbrandalirr.cfd
 bmwqh.cloud
 bmwtek2.com
 bmxqa.ink
@@ -5183,7 +5148,6 @@ brez-skbri-verify.cc
 briarteacup.info
 bricksfranquia.com.br
 bricomid.com
-brifatalihfgr.cfd
 bright-mintwarrant.cfd
 bright-pen.lol
 brightforge.icu
@@ -5404,7 +5368,6 @@ bvaargencia.cfd
 bvcbvn.eu.cc
 bvcx-tg.com
 bvdivdwui.cfd
-bvfcdsxwra.cfd
 bvhg-tg.com
 bvjkel.cfd
 bvjudeejmjir.icu
@@ -5611,7 +5574,6 @@ candrikatravel.com
 candyshop.mom
 canetib.icu
 canlioran.icu
-canliskor.icu
 canonpfd.cfd
 canquantai.com
 canvass.cfd
@@ -5696,7 +5658,6 @@ casibbomcasino-guncellgiris.icu
 casibidoli.com
 casibmx.icu
 casibom-2026gunceladresleri.cfd
-casibom-2026mqstersites.cfd
 casibom-2026tekgirisin.cfd
 casibom-activeqdresirn.icu
 casibom-adres-guncel.icu
@@ -5713,7 +5674,6 @@ casibom-bonusgiris.icu
 casibom-bossaddress.cfd
 casibom-bossaddress2026.icu
 casibom-erisim1.cfd
-casibom-erisim2.cfd
 casibom-giris-tr.icu
 casibom-giris-yap.icu
 casibom-girishemenadresyeri.icu
@@ -5743,18 +5703,15 @@ casibom-mobiladresegirisi.cfd
 casibom-mobilerisim.icu
 casibom-mobilguncelgiris.cfd
 casibom-mobiltelegramgiris.cfd
-casibom-mqstersites2026.icu
 casibom-mt.icu
 casibom-newsgiris.icu
 casibom-nt.icu
-casibom-online1.cfd
 casibom-onlineadreslerin.cfd
 casibom-onlinegirislerin.cfd
 casibom-orginal-girisleri.icu
 casibom-orjinaladresim2026.cfd
 casibom-orjinalgir2026.cfd
 casibom-orjinalsitesi.cfd
-casibom-qir2026.cfd
 casibom-qiri1.cfd
 casibom-resmi1.cfd
 casibom-resmicasibom.cfd
@@ -5764,7 +5721,6 @@ casibom-siteonline2026.cfd
 casibom-siteyegir2026.cfd
 casibom-siteyegirisi.cfd
 casibom-songuncel.icu
-casibom-trr.cfd
 casibom-yeni-guvenli.icu
 casibom1-bul.cfd
 casibomgeldinetlink1.icu
@@ -5773,7 +5729,6 @@ casibomguncelgirislive.icu
 casibomms.icu
 casibomonlinex.icu
 casibomresmiadres911.icu
-casibomtr-qir2.cfd
 casibomtrgirisim.icu
 casiboom-org.icu
 casierisimadresi.icu
@@ -5806,7 +5761,6 @@ casinok98.icu
 casinomhaba-gir.icu
 casinomilyon-activeqdresirn.cfd
 casinomilyon-clicksites2026.cfd
-casinomilyon-mqstersites2026.cfd
 casinoneft.buzz
 casinoneft.casino
 casinoonlinerevolut.com
@@ -6258,7 +6212,6 @@ cimawbs.cfd
 cimogir.icu
 cincaonahelena.me
 cinderbay.cfd
-cinderlo.cfd
 cinejup.icu
 cinelinguistica.com
 cinemaeikaiwa.com
@@ -6386,7 +6339,6 @@ clickgamex700.top
 clickingzone846.top
 clickkingdomzonexxxx.info
 clickmaster246.info
-clickr.cfd
 clickrevolution890.shop
 clicksdeluxe.com
 clicksends.us
@@ -6507,7 +6459,6 @@ cnzke.cfd
 cnzwrqpt.cloud
 co-op-175eurp.com
 co-ug.bond
-coacast.cfd
 coachair.cam
 coahwawkrj.icu
 coastalandbeachrowing.com
@@ -6834,7 +6785,6 @@ coralvexa.cfd
 coregrid518.pp.ua
 corehorizonjw.pro
 coreprotectverifynoticereviewaccesscentraldirect.cfd
-corestream.cfd
 corestrength-supplement.shop
 corevaluevmkr.pro
 cormuvi.icu
@@ -6860,7 +6810,6 @@ counseltechnology.com
 courtoos.icu
 couwankennukenshui.cfd
 coventbridgeworldwide.com
-covepath.cfd
 covid1.org
 covid19-homecare.com
 covid19.bihar.in
@@ -7889,7 +7838,6 @@ deptheducation.cfd
 depthmath.cfd
 deqid7pg.top
 derbi.football
-derbiiptv.cfd
 dereferer.me
 derivatrx.sbs
 dermodirect.com
@@ -8105,7 +8053,6 @@ directinfos.top
 directinfosa.top
 directkaufen315032.info
 directsecureguardstatusaccountuserverify.com
-direktgir724.icu
 dirtyrough.men
 disagree.site
 disbot.ru
@@ -9195,7 +9142,6 @@ eismoivykiai.info
 eizhepaipaoqugoulian.cfd
 ejadaedu.net
 ejakamo.icu
-ejeenjebjebeebe7dednede8eid3.com
 ejjkdg976.cfd
 ejjokd014.cfd
 ejl77t.cfd
@@ -9395,7 +9341,6 @@ enufivi.icu
 enujoji.icu
 envasadorasprofills.com.br
 envjh2.cfd
-envrhuxymc-gov.cfd
 enwm.digital
 enwone.icu
 enwos.help
@@ -9483,7 +9428,6 @@ epaslregistrucentras.com
 epatogh5915.com
 epatpid2025.com
 epaybgk.com
-epayusdt.icu
 epbaudzbyios.info
 epbk12-1.info
 epbyloss.info
@@ -9652,7 +9596,6 @@ eqxwmra.ink
 eqzplxn.cloud
 eqzrvtn.club
 erasmibody.cfd
-eratotoy.cfd
 eraykesid2.site
 erba360.com.br
 erblnz.buzz
@@ -9676,7 +9619,6 @@ erhalten-num2490565.cfd
 erhalten-post.cfd
 erhalten-postat.cfd
 erhaltens-chs.cfd
-erhhaltens-chs.cfd
 erhhaltteen-schweiz.cfd
 eriikampaania.store
 erikampaania.site
@@ -9974,7 +9916,6 @@ evcevpark.skin
 evcvpark.cfd
 evcvpark.sbs
 evcvpark.skin
-evdi0cxw7ksic6z4.cfd
 eveningexperi.icu
 eveningpostd.top
 event-orchestras.com
@@ -10425,7 +10366,6 @@ filactualitte.pro
 filament23panel.com
 file-transunion.app
 filelattice.cfd
-fileorbit.cfd
 fileworks.cfd
 filfox.net
 filletminters.icu
@@ -10433,7 +10373,6 @@ filme.pics
 filmoflixi.cfd
 filmstreamin.xyz
 filqkert-bilion.icu
-filtmo.cfd
 filys.icu
 fina10rder.cfd
 finado.cc
@@ -10501,7 +10440,6 @@ firanr.info
 firazit.com
 fire-gem500.space
 fire123spin.icu
-firefire.cfd
 firehouseblte.com
 firelight-finance.org
 firexfire.cfd
@@ -11014,7 +10952,6 @@ ftrzwhe.cfd
 ftven-processing.com
 ftvid45.com
 fty-authid0826.com
-fubet.cfd
 fuckyou.com
 fudilas.icu
 fuempn.help
@@ -11234,7 +11171,6 @@ gabir.cfd
 gabrielabarbosa.cfd
 gabrielcarvalho.cfd
 gabrielegalintalt.taplink.ws
-gabrimnjhya.cfd
 gabverify.com.ng
 gacoluk.icu
 gacorbanten.cfd
@@ -11298,7 +11234,6 @@ gamelan4dh.cfd
 gamelantotoh.cfd
 gameofbet-activeqdresirn.cfd
 gameofbet-clicksites2026.cfd
-gameofbet-mqstersites2026.cfd
 gameonlywin.xyz
 gamerevolution890.sbs
 gamerleakz.com
@@ -11434,16 +11369,8 @@ gelvoros.info
 gemeorais.cfd
 gemil.icu
 gemoy777.net
-gempa100-pill10.cfd
-gempa100-pill11.cfd
 gempa100-pill12.cfd
 gempa100-pill13.cfd
-gempa100-pill14.cfd
-gempa100-pill15.cfd
-gempa100-pill6.cfd
-gempa100-pill7.cfd
-gempa100-pill8.cfd
-gempa100-pill9.cfd
 gen-ta.net
 gendaiguirongminlengfoyuan.cfd
 gendangtogelh.cfd
@@ -11531,7 +11458,6 @@ gfn2zwk9gcpid3.top
 gfxrtqmv.ink
 gfyhfbfuj.icu
 gfyujid2ifuevde.club
-gg288a.cfd
 ggbet-lietva.lt
 ggbetday.site
 ggbetoffer.site
@@ -11639,7 +11565,6 @@ giris-safe87.icu
 giris-win41.icu
 giris-win89.icu
 giris15.icu
-giris2.cfd
 giris25.icu
 girisadresi1020.cfd
 girisi-sahabet.icu
@@ -11692,7 +11617,6 @@ gkxjx.icu
 gkxple.cfd
 gl0balverlfy.cfd
 gladiarv.online
-glamortotoy.cfd
 glazaboga.ru
 glazaboga.space
 glbtvlrkt.org
@@ -12404,9 +12328,6 @@ grandpashabet-gerceksite.icu
 grandpashabet-giriiss.icu
 grandpashabet-hqligqnsites2026.icu
 grandpashabet-kolaygiris.cfd
-grandpashabet-mqster2026sites.icu
-grandpashabet-mqstersites2026.cfd
-grandpashabet-olypos-giris.icu
 grandpashabet-onlineguncel.icu
 grandpashabet-orjgirisyerim1.icu
 grandpashabet-orjiinal-giris.icu
@@ -12436,7 +12357,6 @@ grantholm.org
 grantingaccesstorsvp.info
 grattaevinci.cfd
 gravelwing.cfd
-graveyard.cfd
 grayhouse.cfd
 gre-f-32-dsa-1-2-dsa.top
 gre-f-32-dsa-5-2-dsa.top
@@ -12608,7 +12528,6 @@ gt-kxinc.icu
 gt-kxinc3.icu
 gt77id2.it.com
 gt77id3.it.com
-gtatogel-resmi.cfd
 gthceo.com
 gthcpke.cfd
 gtkrjg.buzz
@@ -13010,7 +12929,6 @@ hekiyul.icu
 helaxgytias.cfd
 helenamartinsync.cfd
 helenanbvgfrnto.cfd
-heliproxy.cfd
 helixis.today
 helldivers.icu
 hellocloud.link
@@ -13341,15 +13259,11 @@ holigan2026girisadresi.icu
 holiganbet-2026-erisim.icu
 holiganbet-2026-giris.icu
 holiganbet-2026-yeni.icu
-holiganbet-bul2.cfd
 holiganbet-clicksites2026.cfd
 holiganbet-eylul-giris.icu
-holiganbet-giri1.cfd
 holiganbet-guncel-adresleri.icu
 holiganbet-guncel-girisler.icu
 holiganbet-guncellim2026.icu
-holiganbet-olypos-giris.icu
-holiganbet-qir2026.cfd
 holiganbet-qir3.cfd
 holiganbet-realadresi.icu
 holiganbet-resmi-girisler.icu
@@ -13884,7 +13798,6 @@ hwpte.cyou
 hwrke.cfd
 hwt9vogvnfe0moz.icu
 hwtke.cfd
-hx0elx5uii0qapa.icu
 hxhxweb.com
 hxid93.top
 hxiizg.cc
@@ -14115,7 +14028,6 @@ id-23843.click
 id-238434.click
 id-23843ms432.click
 id-2384msd354.click
-id-2384rmsd.shop
 id-239481.com
 id-245166.com
 id-2469849.com
@@ -14897,7 +14809,6 @@ id34578384.com
 id3463471.com
 id3466betapp.com
 id3487.help
-id3487453.shop
 id34923.click
 id34923.top
 id349231alens.shop
@@ -15359,7 +15270,6 @@ id5b8wx2.top
 id5bpx.cc
 id5brwinapp.com
 id5da2vm3nz.com
-id5fcjkw.top
 id5ghbetapp.com
 id5gtotomod.com
 id5ipevg2.vip
@@ -16881,7 +16791,6 @@ imagesfilm.ru
 imajbet-dogruadres.icu
 imajbet-giris3.icu
 imajbet-girisyapp-2026.icu
-imajbet-olypos-giris.icu
 imajbet-online-tabi.icu
 imajbet-sabit-tek.icu
 imajbet-starligth.icu
@@ -17220,7 +17129,6 @@ irv.it
 irvxma.top
 isabejnbhsdoso.cfd
 isabelafreitas.cfd
-isanbjuydoso.cfd
 isaweka.icu
 iscid3npdx91.cc
 iscwsn.icu
@@ -17769,14 +17677,12 @@ jojobet-girisinresmi.icu
 jojobet-girisresmi.cfd
 jojobet-guncelbahis.icu
 jojobet-guncellgirisi-2026.icu
-jojobet-guvenilir1.cfd
 jojobet-hizlibahis.icu
 jojobet-hqligqnsites2026.icu
 jojobet-kayit-sonadres.icu
 jojobet-mobil-slot.icu
 jojobet-mobilbahis.icu
 jojobet-mobilkayit.icu
-jojobet-mqstersites2026.icu
 jojobet-online-site.icu
 jojobet-orjinalgirisi.icu
 jojobet-oyunadresi.icu
@@ -17791,11 +17697,9 @@ jojobet-sporadresi.icu
 jojobet-teklink.cfd
 jojobet-tr3.cfd
 jojobet-tr4.cfd
-jojobet-trr2.cfd
 jojobet-yenibahis.icu
 jojobet-yenigunceladres.icu
 jojobet1-tr.cfd
-jojobet2-tr.cfd
 jojobetadresyeri-girisi.icu
 jojobetcasino-gunceladress.icu
 jojobetcasino-guncelgirisadresi.icu
@@ -17874,7 +17778,6 @@ joycasino-seu.cfd
 joycasinopromo1.icu
 joycasinopromo3.icu
 joyomuz.icu
-joyslot88b.cfd
 jozifew.icu
 jpasasteslntag.cc
 jpav10.cfd
@@ -18303,7 +18206,6 @@ karys.info
 kashpatel.icu
 kashtanovyy-chelovechek-fullhd-plus.cfd
 kashtanovyy-chelovechek-rf.cfd
-kasihtahu.icu
 kasinozevira.icu
 kasta4dh.cfd
 kastreliaro.top
@@ -18527,7 +18429,6 @@ kid1412.by
 kid1i.top
 kid2ynklh.vip
 kid3yuhxl7.me
-kid455.ru
 kid4d.cam
 kid4d.com
 kid4d.pro
@@ -18712,7 +18613,6 @@ kohvmns.online
 koid089.top
 koid179.com
 koimadrid1.com
-kojinbango-card.icu
 kolaiep.info
 koldtmx.cfd
 kolesa-kz-verify.icu
@@ -19183,7 +19083,6 @@ lcloudverify.info
 lcloudverify.sbs
 lcloudverify.top
 lcmi.digital
-lctmprwyba-pango.cfd
 lcvgyfo.cyou
 lcxrmptv.club
 lczgyno.cyou
@@ -19597,7 +19496,6 @@ lithuda.xyz
 littlegirls.xyz
 littlewave.cfd
 litway.online
-liudyindex.icu
 liuiminor.com
 liumanuiors.com
 liumenor.com
@@ -19922,7 +19820,6 @@ losbet.net
 loselboatnma.com
 lostinthepark.vip
 lotsofbrass.com
-lotusbook.cfd
 lotusflirt.cfd
 lotuspencil-vn.cam
 lotuspencil-vn.com
@@ -20813,7 +20710,6 @@ luna-memes.com
 lunaar.casa
 lunabet-gercekgirisi.icu
 lunabet2026giris-resmiyeri.icu
-lunabetguncelyeni.icu
 lunabethemenyeri-girisi.icu
 lunaemor.com
 lunamuor.com
@@ -20910,7 +20806,6 @@ lunuimor.com
 lunuimoras.com
 lunuimors.com
 lununhez.site
-lunvcfdewas.cfd
 lunvokca.site
 lunvoriax.com
 luotianyi.cfd
@@ -21367,7 +21262,6 @@ mapleharborwayktm.top
 maplepoint.cfd
 mapleqiro.cfd
 maplevalleyrx.com
-maplezen.cfd
 mapocoziwy.com
 mapocztoy.com
 mapocztway.com
@@ -21378,7 +21272,6 @@ maraphonbet-casino1.top
 marbleiq.cfd
 marblevond.pro
 marblezen.cfd
-marbvcfdema.cfd
 marcalive.cfd
 marcellobruniparrucchieri.it
 marcjacobss.top
@@ -21432,7 +21325,6 @@ marsbahis-giris-26.icu
 marsbahis-girisadresi2026.cfd
 marsbahis-girisiniyap.icu
 marsbahis-girisiniz2026.icu
-marsbahis-girislerr2026.icu
 marsbahis-girissyap.icu
 marsbahis-guncel724.icu
 marsbahis-gunceladresgir.icu
@@ -21455,7 +21347,6 @@ marsbahis-yenicasino.icu
 marsbahis-yenigirisiniyap.icu
 marsbahisgirisim.icu
 marsbahisgirisiniz.icu
-marsbahisgirisler.icu
 marsbahisgirismerkez.icu
 marsbahisgirisyeri.icu
 marsbahisguncelgir.icu
@@ -21480,7 +21371,6 @@ marsbahs-gunceltr.icu
 marsbahs-yeni-giris.icu
 marsbahs-yeniadresiniz.icu
 marsbahs-yenigirisin.icu
-marsbahsguncel.icu
 marsbahsmobiline.icu
 marsbahstr-resmiguncel.icu
 marshallsalestore-eu.com
@@ -21531,9 +21421,7 @@ matbetgiriis2026.icu
 matbetgirisadresi2026.icu
 matbetgirisleri.icu
 matbetguncell.icu
-matbetguncelyeni.icu
 matbetionline.icu
-matbetofficialadres.icu
 matbetresmi-adres.icu
 matbettekqirisi.icu
 matbetyeni-2026.icu
@@ -21817,7 +21705,6 @@ mercado-touch.cfd
 mercadofuturo24.com
 merch-box.club
 merchant-collect-channel.cfd
-merchant-collect-checkout.cfd
 merchant-collect-date.cfd
 merchant-collect-gateway.cfd
 merchant-collect-invoice.cfd
@@ -22030,7 +21917,6 @@ mingshengtiyu.cfd
 mingshengtiyuapp.cfd
 mingshengtiyuguanwang.cfd
 minhaconta-celular.top
-minidencer.icu
 minikid789.cfd
 miniknock.cfd
 minimwork.com
@@ -24219,7 +24105,6 @@ nhvgzxe.cloud
 nhxlmxgfpjjl.icu
 nhzk.cloud
 niansuizhaizongnoulingchui.cfd
-niantu.icu
 niaoninpaolokengxiaozhun.cfd
 niaonuofengtaoyaosun.cfd
 nicolauzync.cfd
@@ -24925,12 +24810,10 @@ objects-id8903.top
 objects-id892761.top
 objects-id894719.top
 objects-id89471978.digital
-objects-id89476216.digital
 objects-id8947672.digital
 objects-id89476872.top
 objects-id89477201.digital
 objects-id89477912.top
-objects-id8976281.digital
 objects-id90044.top
 objects-id9034.top
 objects-id9055.shop
@@ -24944,7 +24827,6 @@ objects-id939882.top
 objects-id94032.top
 objects-id9432.top
 objects-id9437739.top
-objects-id9467728.digital
 objects-id94719383.top
 objects-id9476782.digital
 objects-id947718.digital
@@ -25118,12 +25000,9 @@ offer-prize.com
 offer-reward.com
 offer-survey.com
 offer37941.rest
-offer58126.cfd
 offercattegoryid04352433.sbs
 offerid25798panel.shop
 offerid578129.cyou
-offerid822h7.click
-offerid822h7.lol
 offerid83523113.com
 offerid9632panel.shop
 offerme24.cfd
@@ -25198,7 +25077,6 @@ oinxks.ocry.com
 oiritqucauyq.com
 oirnx.lflinkup.com
 oisgew.info
-oisigns71638.cfd
 oiwnbid89qiud.top
 oiwnbid89qiud.xyz
 ojarandla.site
@@ -26160,7 +26038,6 @@ order20182.icu
 order2025.com
 order2026.cc
 order20580.com
-order21.shop
 order212644.shop
 order21312463.com
 order2145.shop
@@ -26877,7 +26754,6 @@ ordrlnfo.com
 orenlithar.pro
 originalnanopolix.shop
 orijinaladresler.icu
-orijinalgiris.icu
 orion-mid2.com
 orjinalegir.icu
 orjinalgiris-holiganbet.icu
@@ -27077,7 +26953,6 @@ p597faoapk8vvgl9tmablfr5nutnid5u.com
 p7-93621.xyz
 p7id6.com
 p7syrvonid6c32k81ma65zzcv59zfdm2.com
-p8m3ykwn5jqrxz4.icu
 pa1mn2ver3f4.com
 paasiaugosjudu.info
 pabmqu.buzz
@@ -27447,7 +27322,6 @@ payments-smart.com
 paymentverify.my.id
 paynow-id2078731.shop
 payntucv.org
-payofflab.icu
 payora.digital
 payorderassept538.top
 payreborn.com
@@ -27500,7 +27374,6 @@ pbnxr.ink
 pbowinaltf.cfd
 pbowinaltg.cfd
 pbowinalth.cfd
-pbowinalti.cfd
 pbowinaltj.cfd
 pbvnrzqx.cyou
 pc6182.icu
@@ -27539,7 +27412,6 @@ pebisac.icu
 pebitaw.icu
 pecykeiicahy.autos
 pedantpinnal.cfd
-pedrocostyra.cfd
 pedrosale.shop
 pefcmjlhrdd.icu
 pefsj5id9lj8gi5l2o.shop
@@ -27596,7 +27468,6 @@ perfumenzi.icu
 perfumepromo.online
 perfumesbox.net
 periodicofinanciero365.com
-perk.icu
 perlas-go.buzz
 permatasimpananrevolusi.biz.id
 peroa-lt.com
@@ -27984,7 +27855,6 @@ planadvis.cc
 planetcataloging.org
 planetcoveor.top
 planetgridq.pro
-planetimes.cfd
 planetlinken.pro
 planetportly.info
 planetstacken.pro
@@ -27992,7 +27862,6 @@ planettogelh.cfd
 planettotoh.cfd
 plangadg.info
 plantfeedsonly.com
-planyourgaoltour.icu
 plastovejimky.info
 plataformadafin24.com
 plataformafinanciera365.com
@@ -28457,7 +28326,6 @@ pozctowys.com
 pp-37q747.xyz
 ppadventure.cfd
 ppaepbyiios.info
-pparserf3.icu
 ppasasteslntag.cc
 ppconect.cfd
 ppepol.info
@@ -28624,7 +28492,6 @@ prinusprosit.cfd
 priorityexpresslogistic.com
 prirodan-protok-rs.com
 pris-ijungtijudu.info
-priscilasantosora.cfd
 prisi-jungimasjudu.com
 prisi-jungimasjudu.info
 prisiijunk-dabar.com
@@ -28769,7 +28636,6 @@ prosperdirectloans.com
 prosperidade.online
 prostampgreen.icu
 prot-okoiai-e-ep.info
-protectiion-salle.cfd
 protection-server.com
 protectmonitornextstrongportalverifyupdate.com
 proteiptinus.cfd
@@ -29520,7 +29386,6 @@ radid11.my.id
 radid22.my.id
 radissonbet-activeqdresirn.icu
 radissonbet-bossaddress.cfd
-radissonbet-mqstersites2026.icu
 raelbahis-co.icu
 rafaelfyehvdges.cfd
 rafi88abysse.cfd
@@ -30350,7 +30215,6 @@ romabet-adresin.icu
 romabet-adresler.icu
 romabet-clicksites2026.cfd
 romabet-girisadres.icu
-romabet-mqstersites2026.cfd
 romabet1490giris.icu
 romabetco.icu
 romabetf.icu
@@ -30409,8 +30273,6 @@ royalbridgelimited.com
 royaldep.icu
 royaldrama.cfd
 royalgacor1.cfd
-royalhoki77game.cfd
-royalhoki77game.icu
 royalmailu-k.com
 royalsetup.icu
 royaltotox14.icu
@@ -30462,7 +30324,6 @@ rqzplwx.ink
 rqzro.cloud
 rrdn37.cfd
 rrgmdx257.cfd
-rrkzc.cfd
 rrolanda.com
 rrpjsu088.cfd
 rrqzlnwk.cyou
@@ -30830,7 +30691,6 @@ sancendizongcongyowenglin.cfd
 sandpetal.cfd
 sandrofrevix.cfd
 sanembif.com
-sangatdingin.icu
 sangcikekaipiansaicuocheng.cfd
 sangtigouqudiaojuanrangla.cfd
 sanguineguida.cfd
@@ -30965,7 +30825,6 @@ sbowin99.org
 sbsclicks2028.shop
 sbsclickzone900.top
 sbssbs.cfd
-sbtotoy.cfd
 sbvxtrmk.club
 sbvxtrqm.ink
 sbybmr.click
@@ -32435,7 +32294,6 @@ sekabet-slot-spor1.icu
 sekabet-starligth.icu
 sekabet-tr1girisler.icu
 sekabet-yeni-girisler.icu
-sekabetitr.icu
 sekabt-aktifsponsor.icu
 sekabt-livebonus.icu
 sekbvem.com
@@ -32666,7 +32524,6 @@ sereneatdesk.com
 sergelgelvora.info
 sergiobarqel.cfd
 sergiy-protiv-nechisti-plus.cfd
-seriadres.icu
 seromantaoco.com
 serubeto.com
 server-personal-projects.appwrite.network
@@ -32899,7 +32756,6 @@ shaheid4u.co
 shaheid4u.com
 shaheid4u.live
 shahhid4u.asia
-shahhid4u.bar
 shahhid4u.best
 shahhid4u.club
 shahhid4u.courses
@@ -33191,7 +33047,6 @@ sitesi16.icu
 sitevora.xyz
 sithowa.cfd
 situs69slot.org
-situsdasi4d.icu
 situshokid206.site
 siueolsda.com
 siuewabes.com
@@ -33646,7 +33501,6 @@ sofiamex.cfd
 sofiamourqen.cfd
 sofiasheptyn.lol
 sofiben.com.br
-sofimnjhfdes.cfd
 sofinance.cc
 sofj842fz20.com
 soft-id58382819.sbs
@@ -33711,7 +33565,6 @@ solmeravixraka.top
 solnet.icu
 solnord.cfd
 solokatmolokat.com
-solototoy.cfd
 solqausi.icu
 solrota.com
 solucoesescritorio.site
@@ -33943,9 +33796,6 @@ ss0vmi.lt
 ssa-gov.org
 ssaa798vp.cfd
 ssaa798vp1.cfd
-ssaa79vip.cfd
-ssaa79vip8.cfd
-ssaa79vip9.cfd
 ssajid11gmail.com
 ssalbarren.cfd
 ssbcffid50.click
@@ -34100,7 +33950,6 @@ store-sale.work
 store-sale.xyz
 storemotogp.com
 storeru-id4243.click
-storetrusted.icu
 storyping.cfd
 stovejimasjudu.info
 stovejimasunlpark.info
@@ -34625,7 +34474,6 @@ tarabet-yeni2026.icu
 tarafbet-guncellive.icu
 tarafbet-liveguncel.icu
 tarafbet-resmiadresi.cfd
-taragroup.cfd
 tarantinas.lt
 tarcisomelqix.cfd
 tarekacc.cfd
@@ -34768,7 +34616,6 @@ teams-n.cfd
 teangte.icu
 tearawacovid19.nz
 teasespark.cfd
-techbrief.icu
 techjournal.icu
 techlawguide.pro
 technostore.sbs
@@ -34807,7 +34654,6 @@ tele-gcnh.com
 tele-gong.com
 tele-grccm.com
 teleamicxx.icu
-teleanadup.icu
 telebreakt.icu
 telecbgtga.com
 telecleara.icu
@@ -34900,7 +34746,6 @@ telenxotic.icu
 teleoeakf.icu
 teleohustl.icu
 teleoinpro.icu
-teleowstat.icu
 teleoxxsqu.icu
 teleoyield.icu
 teleplansz.icu
@@ -34909,7 +34754,6 @@ telepluxxo.icu
 telequanta.icu
 teleramxxo.icu
 teleriseoi.icu
-telerosfre.icu
 teleroxoec.icu
 telesearth.icu
 telesmegap.icu
@@ -34918,7 +34762,6 @@ telesrocks.icu
 telesverif.icu
 telesyield.icu
 teleteadyo.icu
-teletegixx.icu
 teletersme.icu
 teletproxx.icu
 teletunexs.icu
@@ -34980,7 +34823,6 @@ teodoropaznix.cfd
 teosbet-bossaddress.cfd
 teosbet-clicksites2026.icu
 teosbet-erisiminiz.icu
-teosbet-mqstersites2026.icu
 teosbet-resmiadresi.icu
 teosbet-tekguncel.icu
 teosbet-tekpro.icu
@@ -35139,7 +34981,6 @@ thenewsdeskhqjwn.com
 theomnivaproject.online
 theoog.com
 theorize.cfd
-thepanicguy.cfd
 thepayrollcollective.com
 thepranaseima.digital
 thepublicwirenbzq.com
@@ -35157,7 +34998,6 @@ thetrend.blog
 thetresederrecord.com
 thewaylin.com
 thewlfgang.com
-thiagbvcxsws.cfd
 thiagobritozen.cfd
 thiced.info
 thicketpetal.cfd
@@ -35249,7 +35089,6 @@ tildeskterm.com
 tilenmew.com
 timberbay.cfd
 timberio.cfd
-timebet-girisleri.icu
 timebet-gunceltr.icu
 timebet-mobilgiris.icu
 timebet-orjinalgiris.icu
@@ -35276,7 +35115,6 @@ tipmevip.cfd
 tipobet-activeqdresirn.cfd
 tipobet-bossaddress.cfd
 tipobet-clicksites2026.cfd
-tipobet-mqstersites2026.cfd
 tipobet365resmi.icu
 tipsrtpksplay88.icu
 tiraan.info
@@ -35740,7 +35578,6 @@ tslhuo.cc
 tsolmon.top
 tstatusflowne-id8751.com
 tsx9185.cfd
-tsyu-gpt2hermes.icu
 ttczuux8ib9angq.icu
 ttecked.info
 ttelagramm.cc
@@ -35896,10 +35733,8 @@ tymc1s.cfd
 tynamarspzoo.com
 tynrix47.cfd
 tyoqsta.com
-typeplanet.cfd
 tyrbmka.club
 tyriomd.com
-tysta.cfd
 tyubbw.cc
 tywro.cyou
 tyxzeid1.cfd
@@ -36828,7 +36663,6 @@ valdzios-ep.info
 valdzios-vartai.info
 valdzios-vp.info
 valdziosvartai.info
-valentbvgddecha.cfd
 valentinasilvasync.cfd
 valentmkdihva.cfd
 valepark.cyou
@@ -37006,7 +36840,6 @@ vczra.xin
 vdcasino-giris2.icu
 vdcasino-mobile-bonuslar.icu
 vdcasino-mobile-bonuslar1.icu
-vdcasino-olypos-giris.cfd
 vdcasino-online-tabi.icu
 vdcasino-richadres.icu
 vdcasino-slot-games.icu
@@ -38198,7 +38031,6 @@ vpkpranesimai-ep.info
 vpkqa.ink
 vpkvillnius.info
 vpkvilnius.com
-vpkvp.cfd
 vpkzinutesep.info
 vplqzrwn.cloud
 vplznqwr.cfd
@@ -38650,7 +38482,6 @@ windstream.cfd
 winebarrelwinerack.com
 winesisolvrit.icu
 winnows.live
-winplus.cfd
 winppho.cloud
 winsolid88.com
 winspirit-casino1.icu
@@ -38719,7 +38550,6 @@ wmtvqprx.club
 wnsvm.online
 wnutik.help
 wnxqa.xin
-woaini.icu
 wobblify.cfd
 wojotes.icu
 wokilahj.com
@@ -38762,7 +38592,6 @@ worldcovex.info
 worldflowen.top
 worldgridix.info
 worldid88.xyz
-worldmail.cfd
 worldmastsear.com
 worldmeshly.info
 worldnestix.pro
@@ -38851,7 +38680,6 @@ wqtka.ink
 wqtrn.cfd
 wqtrxvml.ink
 wqtrz.cfd
-wqtwq.cfd
 wqtygfo.cyou
 wqvna.ink
 wqvpa.ink
@@ -39226,7 +39054,6 @@ xkqtw.cloud
 xkqva.ink
 xkrna.ink
 xktcit.icu
-xktxk.cfd
 xkvre.cfd
 xkzdoce.cfd
 xkzmu.cloud
@@ -39855,7 +39682,6 @@ yizhefuren.com
 yjbmt.xin
 yjcnzgplyd.icu
 yjkyf.cfd
-yjnyj.cfd
 yjrsp15.cfd
 ykaiyiaocvao.com
 ykbdngwi3m2wmnmnkwas4pam7g3hvid6.com
@@ -39978,7 +39804,6 @@ yqrmk.cloud
 yqrv.cloud
 yqrvtmn.ink
 yqrvzxn.club
-yqtyq.cfd
 yqvnt.cloud
 yqwvple.cloud
 yqxwple.cloud
@@ -40074,7 +39899,6 @@ yxrka.cyou
 yxsrozriiuxict.icu
 yydlid696c.cc
 yydlid7rjy.cc
-yylove.icu
 yymd39.cfd
 yyoyy.cfd
 yyqid4gy4o.skin
@@ -40272,7 +40096,6 @@ zheiseruniaoshigatiao.cfd
 zhejiangdoublearrow.com
 zhenduonancousaisen.cfd
 zhengwei.icu
-zhenshill01.cfd
 zhenzeileidiaonenjixueei.cfd
 zhid128.vip
 zhid4r.top
@@ -40487,7 +40310,6 @@ zphvle.cloud
 zpkmx.ink
 zpkxa.ink
 zpkxr.ink
-zpkzp.cfd
 zplatba.com
 zploqu.click
 zplqtmv.cyou
