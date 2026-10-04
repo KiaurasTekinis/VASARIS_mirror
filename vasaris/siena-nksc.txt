@@ -10684,6 +10684,7 @@ frakt-orderhubid94514.shop
 frakt-orderhubid94527.shop
 frakt-orderhubid94534.shop
 frakt-orderhubid94547.shop
+fram-vns.lat
 framehk.icu
 framewhisperer.fit
 framewise2026.icu
@@ -13293,7 +13294,6 @@ hoseoaticaac.com
 hoslel-id9817646.com
 hosrtacaita.com
 hostagetape.icu
-hostastra8.com
 hostedcloud.icu
 hostedclouddata.cfd
 hostel-id92373.com
@@ -30313,6 +30313,7 @@ saeilumbs.com
 saenbel.com
 saenbuit.com
 saepoi.info
+saepplea.cfd
 saeuklbes.com
 safe-id2352356.cyou
 safe-id2354235.cfd
