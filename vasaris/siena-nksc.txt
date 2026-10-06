@@ -5647,7 +5647,6 @@ com-haz.click
 com-helpcenter.com
 com-helps.support
 com-hghj.top
-com-i.online
 com-id001928832.digital
 com-id321257.help
 com-id3453.store
@@ -5664,7 +5663,6 @@ com-id9938554.info
 com-irespieteikums.info
 com-jsefs.top
 com-k.cfd
-com-l.uno
 com-le.uno
 com-login-lt.leasesoramos.com
 com-lp.cfd
