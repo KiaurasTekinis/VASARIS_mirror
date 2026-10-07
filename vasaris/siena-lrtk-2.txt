@@ -14,6 +14,7 @@
 8filmai.com
 8filmai.dad
 8filmai.dev
+8filmai.eu
 8filmai.in
 8filmai.info
 8filmai.io
@@ -393,6 +394,7 @@ kinogo-net.top
 kinogo-online.biz
 kinogo-tv.com
 kinogo.actor
+kinogo.ae
 kinogo.at
 kinogo.autos
 kinogo.baby
@@ -417,6 +419,7 @@ kinogo.codes
 kinogo.cool
 kinogo.cx
 kinogo.dance
+kinogo.direct
 kinogo.ec
 kinogo.family
 kinogo.fans
@@ -426,6 +429,7 @@ kinogo.gives
 kinogo.green
 kinogo.gs
 kinogo.hair
+kinogo.holiday
 kinogo.house
 kinogo.ist
 kinogo.jp
@@ -438,6 +442,7 @@ kinogo.life
 kinogo.limited
 kinogo.llc
 kinogo.loans
+kinogo.luxury
 kinogo.mba
 kinogo.md
 kinogo.me
@@ -457,10 +462,12 @@ kinogo.press
 kinogo.pro
 kinogo.pub
 kinogo.quest
+kinogo.rehab
 kinogo.report
 kinogo.run
 kinogo.se
 kinogo.skin
+kinogo.solar
 kinogo.style
 kinogo.tax
 kinogo.tech
@@ -471,6 +478,7 @@ kinogo.today
 kinogo.vg
 kinogo.vip
 kinogo.vodka
+kinogo.wales
 kinogo.webcam
 kinogo.wf
 kinogo.wiki
@@ -662,13 +670,20 @@ themusiclt.com
 thepirate-bay.org
 thepiratebay-us.org
 thepiratebay.abcproxy.org
+thepiratebay.asia
 thepiratebay.baby
+thepiratebay.bond
+thepiratebay.desi
+thepiratebay.ee
+thepiratebay.in
 thepiratebay.isproxy.online
 thepiratebay.isproxy.pics
 thepiratebay.isproxy.space
 thepiratebay.org
 thepiratebay.party
+thepiratebay.plus
 thepiratebay.rocks
+thepiratebay.site
 thepiratebay.study
 thepiratebay.torrentsbay.org
 thepiratebay.unblockninja.com
@@ -722,6 +737,7 @@ tpb-proxies.curd.io
 tpb.one
 tpb.party
 tpb.proxyninja.org
+tpb.run
 tpb.skynetcloud.site
 tpb25.ukpass.co
 tpbproxy.click
