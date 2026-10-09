@@ -5896,6 +5896,7 @@ deveshtiak.com
 deviant-verlff37it.help
 device-ld-lnfo.help
 device-sync.io
+devinsight.pro
 devmail.icu
 devmn.online
 devpilot.sbs
@@ -7224,12 +7225,20 @@ epolicija-baudos.info
 epolicija-ltinf.info
 epolicija-paslaugos.it
 epolicija.autos
+epolicija.bond
+epolicija.buzz
+epolicija.cfd
 epolicija.com
+epolicija.cyou
 epolicija.digital
 epolicija.it
+epolicija.lat
 epolicija.lt-gyventojas.sbs
 epolicija.ltd
 epolicija.ph
+epolicija.qpon
+epolicija.sbs
+epolicija.surf
 epolicija.top
 epolicija.xyz
 epolicijalt.com
@@ -8680,6 +8689,7 @@ gangparameterliquid29.sbs
 gano-prime.com
 ganodrprime.com
 gansupe.com
+ganwtmss.lat
 ganzhuipangmenchentafenpo.cfd
 gapakis.com
 gaplay-verify.shop
@@ -13709,6 +13719,7 @@ inmac-wstore.com
 innovainfo.top
 innovapulse.pro
 innovationpro.pro
+innovprogress.pro
 inpaysera-com.eu.cc
 inposdom-do.com
 inpost.cam
@@ -14463,6 +14474,7 @@ justices-gov.com
 justtkhorshid61.ir
 justverify.click
 juvvsh.click
+juyjtr.cfd
 juzhitang-bj.com
 juzid66.cyou
 juzsgi.buzz
@@ -15677,6 +15689,8 @@ live-info.online
 live-info.qpon
 live-info.space
 live-info.tech
+live-secure.space
+live-secure.tech
 live-viagra.ru
 live-view.space
 live888.xin
