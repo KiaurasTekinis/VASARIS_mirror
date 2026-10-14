@@ -7913,7 +7913,6 @@ com-id9938554.info
 com-indirimkampanya.cfd
 com-irespieteikums.info
 com-jsefs.top
-com-le.uno
 com-login-lt.leasesoramos.com
 com-lq.online
 com-lq.qpon
@@ -25771,6 +25770,7 @@ mpoid88.biz
 mpoid9.com
 mpolo.cfd
 mponusa.icu
+mportaias.lat
 mpqte.ink
 mpranamvm.digital
 mpranasiima-vm.digital
