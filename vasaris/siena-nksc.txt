@@ -7914,10 +7914,6 @@ com-indirimkampanya.cfd
 com-irespieteikums.info
 com-jsefs.top
 com-login-lt.leasesoramos.com
-com-lq.online
-com-lq.qpon
-com-lq.uno
-com-lw.uno
 com-milanohotel2025.com
 com-olt.cfd
 com-pa.cfd
@@ -19027,7 +19023,6 @@ idredirectgptchatai.dudaone.com
 idrgame.cfd
 idrking.cfd
 idrok.cfd
-ids-telegram.org
 idtel.pw
 idtel.ru
 idtrustcheck.com
@@ -24002,7 +23997,6 @@ lv-0612.info
 lv-atjaunot.info
 lv-e.cfd
 lv-e.qpon
-lv-e.uno
 lv-infocsd.info
 lv-informaciju.site
 lv-med.space
@@ -42377,6 +42371,7 @@ unipark-lt2111.sbs
 unipark-lteportal.com
 unipark-my.lat
 unipark-pay.top
+unipark-payments.top
 unipark-prisjungti.com
 unipark-v.info
 unipark.app.br
@@ -44651,7 +44646,6 @@ vpkvilnius.com
 vpkzinutesep.info
 vplqzrwn.cloud
 vplznqwr.cfd
-vpm-viss.lat
 vpn-rede.cfd
 vpn300.com
 vpnrapidsessionid0cfe3d553e54920ac33397e6558207de.site
