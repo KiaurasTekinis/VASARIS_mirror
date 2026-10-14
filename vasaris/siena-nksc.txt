@@ -11902,7 +11902,6 @@ exch-verify.cfd
 exch-verify.forum
 exch-verify.icu
 exchange-btc.sbs
-exchangee.cc
 exchangei.cc
 exchangep.cc
 exchanger-btc.sbs
@@ -19519,6 +19518,7 @@ iygsm.cc
 iyis933u0uld9we.icu
 iyjnf.buzz
 iyjpqg.cc
+iyoa.cc
 iyxtgnjs.cfd
 iyznkzq.cyou
 izamuji.icu
@@ -23561,6 +23561,7 @@ lunimora.eu
 lunimorans.com
 lunimoron.com
 lunioz.site
+lunirmiora.com
 lunirmoer.com
 lunirmoern.com
 lunirmoersan.com
