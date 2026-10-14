@@ -11908,7 +11908,6 @@ exchangep.cc
 exchanger-btc.sbs
 exchanget.cc
 exchangeu.cc
-exchangew.cc
 exchangey.cc
 exchangq.com
 exchangw.com
@@ -22341,6 +22340,7 @@ live-info.qpon
 live-info.space
 live-info.tech
 live-pokerdom.icu
+live-secure.pro
 live-secure.qpon
 live-secure.space
 live-secure.tech
@@ -25952,6 +25952,7 @@ mygapodox.cfd
 mygaragelog.info
 myget.cfd
 mygirnartea.shop
+mygleeva.com
 mygoog.icu
 myguest-hub.com
 myhealthify.icu
@@ -32518,6 +32519,7 @@ protokol.academy
 protokol.lat
 protokol.sbs
 protokolai-vp.sbs
+protokolaib.info
 protokolaie.info
 protokolaiep.info
 protokolaiepol.info
@@ -40055,6 +40057,7 @@ tehazinemu.icu
 tehfjv073.cfd
 tehhahpuni.cfd
 teid30kxmg.cc
+teiepass.cfd
 teigiama1325kampanija.lt
 teigiama1325kampanija.store
 teisenosepoli.info
