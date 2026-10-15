@@ -5280,6 +5280,7 @@ baudos-07-10.info
 baudos-10-05.info
 baudos-10-06.info
 baudos-10-07.info
+baudos-10-14.info
 baudos-27.info
 baudos-epaslaugos-lt.com
 baudos-epaslaugos-lt.net
@@ -12185,6 +12186,7 @@ evartaivlnius.info
 evartal-bauda.today
 evartal-sso.digital
 evartalsso.digital
+evavcpaet.cfd
 evcapitalflow.com
 evcepark.skin
 evcevpark.bond
@@ -18916,6 +18918,7 @@ id8475.com
 id84758322.shop
 id84812947.live
 id8491572.live
+id8492.com
 id850.com
 id8510619.shop
 id85241.com
@@ -44737,6 +44740,7 @@ vilt.lt
 vimarod.icu
 vimi.info
 vimi.zanity.net
+viml.allisons.org
 viml.dnet.hu
 viml.govt.hu
 viml.viiic.net
