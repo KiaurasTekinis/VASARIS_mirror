@@ -2455,6 +2455,7 @@ a23014029430-rk300.top
 a23920239-kv933.top
 a24910492042-kv039.top
 a26rzd.cfd
+a2742891.top
 a28429340148.top
 a28739037461-kv022.net
 a28763094123.top
@@ -34358,7 +34359,6 @@ post-ltc.help
 post-ltt.xyz
 post-ltxya.homes
 post-ltxyb.homes
-post-ltxyz.homes
 post-note-online.cfd
 post.eu.cc
 post.ltpa.homes
