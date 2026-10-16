@@ -29326,6 +29326,7 @@ nmtla.xin
 nmtle.cyou
 nmtvro.cyou
 nmtxa.cyou
+nmudv.lat
 nmvcx.cfd
 nmvsnwsxc.lat
 nmxcko.qpon
@@ -37472,6 +37473,7 @@ saudivision.cfd
 sauflebs.com
 sauga-net.info
 saugael.info
+saugaep.info
 saugapol.info
 saugapr.info
 saugaps.info
@@ -37490,6 +37492,7 @@ saugumasepolli.info
 saugumasnet.info
 saugumasp.info
 saugumaspp.info
+saugumasvp.com
 saugumasvp.info
 saugumo-skyrius.it
 saugumui-epolli.info
