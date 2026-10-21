@@ -1,7 +1,6 @@
 0007.casino
 000f.icu
 001-data-317.cfd
-0011-transfer-payment.top
 00111901.xyz
 001747.cfd
 007839949995943.icu
@@ -28103,7 +28102,6 @@ ltm-lnc.one
 ltmcamry.store
 ltmooaprdnsp.icu
 ltmr.ink
-ltmuitine.com
 ltmuitinene.lt
 ltmuitino.lt
 ltnmmhk.shop
@@ -39272,6 +39270,7 @@ protokiepol.tech
 protokii-e-p.info
 protokiribasetd365.info
 protokit.net
+protokl-e.info
 protoklb.info
 protokle.info
 protoklepol.info
@@ -47080,6 +47079,7 @@ spreadsheetsage.cfd
 springdl.cfd
 springsimple.cfd
 springstrict.cfd
+sprinterlandscapes.crcarlet.es
 sprintstaggy.cfd
 sprotokolai.info
 sprz3daj2c4sh.cfd
