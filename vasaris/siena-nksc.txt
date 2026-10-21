@@ -14415,6 +14415,7 @@ evarpaet.cfd
 evarpaet.sbs
 evarspaet.cfd
 evarspaet.sbs
+evartai.info
 evartaivlnius.info
 evartal-bauda.today
 evartal-sso.digital
@@ -15557,6 +15558,7 @@ fluid-88.cfd
 fluid42.com
 fluid99.com
 flus.icu
+fluxodigital.xyz
 fluxos.cfd
 fluxova.cfd
 fluxtex.cfd
