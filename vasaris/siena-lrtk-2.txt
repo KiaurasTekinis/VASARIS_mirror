@@ -431,6 +431,7 @@ kinogo.gs
 kinogo.hair
 kinogo.holiday
 kinogo.house
+kinogo.in
 kinogo.ist
 kinogo.jp
 kinogo.ke
@@ -447,6 +448,7 @@ kinogo.mba
 kinogo.md
 kinogo.me
 kinogo.media
+kinogo.money
 kinogo.moscow
 kinogo.ms
 kinogo.my
@@ -467,8 +469,10 @@ kinogo.report
 kinogo.run
 kinogo.se
 kinogo.skin
+kinogo.social
 kinogo.solar
 kinogo.style
+kinogo.support
 kinogo.tax
 kinogo.tech
 kinogo.tel
@@ -594,6 +598,8 @@ putlockerxxi.com
 real-fmovies.show
 rezka-club.tv
 rezka-films.biz
+rezka-hd.com
+rezka-hd.net
 rezka-kz.me
 rezka-ua.co
 rezka-ua.live
@@ -608,6 +614,7 @@ rezka.bid
 rezka.cx
 rezka.fi
 rezka.film
+rezka.fit
 rezka.gg
 rezka.io
 rezka.la
@@ -615,6 +622,7 @@ rezka.live
 rezka.llc
 rezka.loan
 rezka.mobi
+rezka.mx
 rezka.pub
 rezka.pw
 rezka.so
@@ -673,8 +681,11 @@ thepiratebay.abcproxy.org
 thepiratebay.asia
 thepiratebay.baby
 thepiratebay.bond
+thepiratebay.cfd
+thepiratebay.de
 thepiratebay.desi
 thepiratebay.ee
+thepiratebay.gay
 thepiratebay.in
 thepiratebay.isproxy.online
 thepiratebay.isproxy.pics
@@ -683,6 +694,7 @@ thepiratebay.org
 thepiratebay.party
 thepiratebay.plus
 thepiratebay.rocks
+thepiratebay.shop
 thepiratebay.site
 thepiratebay.study
 thepiratebay.torrentsbay.org

@@ -109,6 +109,7 @@ cdn.pl01.spr24.net
 cdn.ru01.spr24.net
 cdn.ru02.spr24.net
 cdn.sputniknews.cn
+cdntv.online
 ch01.spr24.net
 channeliptv4k.com
 chas.tv
@@ -314,7 +315,9 @@ iptv.online
 iptv.pm
 iptv2022.com
 iptvbelgique.com
+iptvlietuva.com
 iptvlist.ru
+iptvlt.com
 iptvnordic.info
 iptvonline.ddns.net
 iptvx.one
@@ -431,6 +434,7 @@ new.limehd.tv
 new.tv.team
 newpeople.ru
 newru.tv
+nexott.net
 nizarstream.xyz
 nl.troya.tv
 nl01.spr24.net
@@ -479,6 +483,7 @@ ott.domatv.net
 ottbill.cc
 ottclub.tv
 ottgtv.ru
+ottlinks.club
 ottplayer.tv
 ottv.xyz
 ovego.tv
@@ -683,6 +688,8 @@ si.rbth.com
 simpsonai.net
 simpsonai.org
 simpsonai.tv
+skyflowiptv.org
+smarttvlife.com
 smotreshka.tv
 smotret-tv.live
 smotret.tv
