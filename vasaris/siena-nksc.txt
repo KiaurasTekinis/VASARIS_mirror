@@ -12035,8 +12035,6 @@ dgtl-allnew.cfd
 dgtpark.eu
 dgtparking.co
 dgtparking.com
-dgtparking.net
-dgtparking.site
 dgtpay.eu
 dgtspain.com
 dgtspain.info
@@ -45991,6 +45989,7 @@ servlce-ordlist58960.top
 servlce-ordlist6394.top
 servlce-ordlist6951.top
 servlce-ordlist86474.top
+servlce-ordlist88494.top
 servlce-ordlist9501.top
 servlce-ordlist9942.top
 servntis.com
