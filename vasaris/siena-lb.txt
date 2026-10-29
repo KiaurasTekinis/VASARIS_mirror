@@ -16,6 +16,7 @@ bitcoinevolutionapp.com
 bitcoins-era.net
 bitmarkets.com
 blockgain.org
+bnfex.com
 bnka.com
 bv-kredit.com
 cannabisfortuneapp.com
@@ -29,6 +30,7 @@ cybercapital.ltd
 delfi.naujienosjums.com
 dona-private-bank.com
 draudimas24.com
+e-gates.io
 e-smp.com
 edge.targetprovider.pro
 enigmaklubas.com
@@ -39,6 +41,7 @@ expo-trust.ltd
 finmax.com
 finmaxbo.com
 finmaxfx.com
+flipchain.io
 forex-im.com
 futureisbtc.com
 fx-dealer.com
@@ -98,6 +101,7 @@ swlt.tilda.ws
 swtech.tilda.ws
 terra-finance.co
 titantradeclub.com
+tonwex.com
 toptrade.group
 tracking.affid411il.com
 traderschain.com
@@ -115,4 +119,5 @@ verslozinios.com
 vesusfinansai.lt
 vet-trade.com
 vz.kriptonaujienos.com
+www.swifthorizon.net
 yardoption.com
