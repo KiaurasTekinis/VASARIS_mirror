@@ -4173,18 +4173,15 @@ applehtr.cfd
 appleid1.autos
 appleid1.boats
 appleid1.cam
-appleid1.my.id
 appleid1.qpon
 appleid123.com
 appleid2.mom
 appleid2.my.id
-appleid2.shop
 appleid2.xyz
 appleid24.net
 appleid3.cfd
 appleid3.icu
 appleid3.mom
-appleid3.shop
 appleid4.bond
 appleid4.cyou
 appleid4.rest
@@ -4204,7 +4201,6 @@ appleid8.boats
 appleid8.cam
 appleid8.icu
 appleid8.shop
-appleid9.biz.id
 appleidyc.top
 applejpid1.top
 applejpid2.top
@@ -9603,7 +9599,6 @@ covid19.us.org
 covid19ade.de
 covid19bill.org
 covid19club.de
-covid19data.co.za
 covid19disability.com
 covid19edtechguidance.com
 covid19forsyth.org
@@ -9616,7 +9611,6 @@ covid19salivatesting.co.nz
 covid19scamdemic.com
 covid19scs.com
 covid19sikkim.org
-covid19testing.co.za
 covid19toronto.ca
 covid2.org
 covid2019.xyz
@@ -11572,7 +11566,6 @@ dolcett.top
 dolishop.site
 dolkhw099.cfd
 dollackid123.com.vn
-dollackid123.edu.vn
 dollpy.icu
 dolly7895.cfd
 doltakia.cfd
@@ -16557,6 +16550,7 @@ gid9yqqv.top
 gift-poll.com
 gift-today.com
 giftcardverify.online
+giftcenter.lat
 giftquize.com
 gigasolutions.icu
 gigidoesgraphics.com
@@ -19537,7 +19531,6 @@ hvck8h0de6rq.cfd
 hvdiwpoef.cfd
 hvdmtt052.cfd
 hvibna338.cfd
-hvid34.cn
 hvid4l9a.top
 hvjyxs142.cfd
 hvkmrze.cloud
@@ -20157,7 +20150,6 @@ id0wzmu2.top
 id0za6z0.top
 id0zv.top
 id1-ack-web.com
-id1-kekkon.com
 id1-vewo4t.cyou
 id1.is
 id10.asia
@@ -20399,7 +20391,6 @@ id2567672.com
 id257850985.sbs
 id25kbet.com
 id25owf7.com
-id25owf7.shop
 id26.cn
 id2608a.info
 id26391.today
@@ -20868,7 +20859,6 @@ id591.com
 id593214.today
 id59574.com
 id59782.work
-id59nyr.cn
 id5a6x-kaiyun.com.cn
 id5bpx.cc
 id5hj.rest
@@ -22963,7 +22953,6 @@ jaid88-game.com
 jaid88-home.com
 jaid88-play.com
 jaid88-pro.com
-jaid88-v1.com
 jaid88-win.com
 jaid88.biz
 jaid88.my
@@ -24120,6 +24109,7 @@ k3pl2ci1af.cfd
 k442nao5xgh3xzm.icu
 k44444.lat
 k493.casino
+k498v-1331.lat
 k4wh8.cfd
 k5gid1n.com
 k5id7b.top
@@ -27878,7 +27868,6 @@ maid2clean317.com
 maid2cleanfl.com
 maid2cleanpoway.com
 maid2cleansanmarcos.com
-maid2order.net
 maid2shineaz.com
 maid417cleanroom.com
 maid4all-clean.com
@@ -29158,7 +29147,6 @@ mnrpux.cc
 mnrqtxvl.ink
 mnvsco.digital
 mnwjo.cyou
-mnwmid7v.top
 mnxdknk.cyou
 mo-wood.cfd
 moahid8adas.web.id
@@ -29906,7 +29894,6 @@ my-id256842.help
 my-id768923.shop
 my-id885442.help
 my-id886553.top
-my-id89511.help
 my-id995299.help
 my-id998411.help
 my-nbg.app
@@ -29963,7 +29950,6 @@ mybrdns.com
 mybuys.ru
 mycago.cfd
 mycago888.cfd
-mycandid8.net
 mycargr.cc
 mycargr.org
 mycargre.com
@@ -33424,7 +33410,6 @@ order-09813.shop
 order-098328.click
 order-09985.shop
 order-10539.shop
-order-10947.shop
 order-12874.shop
 order-12949.info
 order-1311.space
@@ -33687,7 +33672,6 @@ order1782017501785.cyou
 order1816.com
 order18333.cyou
 order18381.icu
-order18389.help
 order1855.info
 order18621.cyou
 order18625.icu
@@ -33822,7 +33806,6 @@ order449189.com
 order4549466.click
 order460.com
 order469220.cfd
-order47027592.top
 order4706.site
 order4718.com
 order473273.cfd
@@ -33925,7 +33908,6 @@ order7053462.click
 order7129.com
 order71516.space
 order71662.shop
-order7169085.click
 order72171.shop
 order7218.com
 order723490.com
@@ -34008,7 +33990,6 @@ order786867.casa
 order789.cfd
 order795329.com
 order797250.rest
-order798245.click
 order7ew.top
 order802540.sbs
 order802546.sbs
@@ -34106,7 +34087,6 @@ order865875.casa
 order865875.rest
 order865990.casa
 order865990.rest
-order86723.click
 order8685462.click
 order86937.cyou
 order87163.com
@@ -34228,7 +34208,6 @@ order98451.space
 order9848.space
 order9865.shop
 order9871.space
-order9891.space
 order991220.com
 order9914.space
 order9943.cfd
@@ -35543,7 +35522,6 @@ pintor.cfd
 pinup-azerbaycan.icu
 pinup-canli-oyunlar.icu
 pinup-casino-fid9.buzz
-pinup-casino-qid1.top
 pinup-gkb.cfd
 pinup-id7x.cfd
 pinup-ii2z.cfd
@@ -37901,7 +37879,6 @@ rapid365.co
 rapid372.com
 rapid4jde.com
 rapid5drmj.top
-rapid5meadow.wtf
 rapid68.org
 rapid777.net
 rapid7fiyd.top
@@ -43971,7 +43948,6 @@ su444.lat
 su4ak.cfd
 su8d6z.cfd
 suateloole.com
-sub-id135.cc
 sub80nat.cfd
 subgk.cfd
 subhaa.cfd
@@ -45249,7 +45225,6 @@ thebraincancercentre.com
 thecacheearly.cfd
 thecamelsoapfactiory.com
 thecameralog.cfd
-thecandid8.net
 thecedarteam.org
 theclvhgfdsdovc.cfd
 thecourierguy.cam
@@ -51547,7 +51522,6 @@ yid4l.top
 yid4tpja.lol
 yid5.com
 yid573.com
-yid638.cn
 yid8i.top
 yid9vw0c.top
 yidpol608.cfd
