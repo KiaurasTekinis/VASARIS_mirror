@@ -918,6 +918,7 @@
 28-09.info
 28-10.info
 282050.top
+282tcpdneh.execute-api.us-east-1.amazonaws.com
 28car.icu
 28insecu.cfd
 28result.cfd
@@ -2703,7 +2704,6 @@ account-customer-serviceid12658.com
 account-customer-serviceid12659.com
 account-customer-serviceid12679.com
 account-customer-serviceid12689.com
-account-identify.help
 account-processing.com
 account-verification-vinted.shop
 account-verify.cyou
@@ -11769,8 +11769,11 @@ drbanacu-luminita.ro
 dream.press
 dreamdatehub.lat
 dreamera.cfd
+dreameventcar.info
+dreamhomejourney.info
 dreamscore747.shop
 dreamtech-hub.com
+dreamwheels.info
 dreamwork.cfd
 dreikjord.lat
 drelmin.cfd
@@ -13289,7 +13292,6 @@ erigoq.cfd
 erigot.cfd
 eriikampaania.store
 erikampaania.site
-erikampaania.xyz
 eristeopl.com
 eristetpl.com
 eriya.cfd
@@ -16872,6 +16874,7 @@ gmpro.cyou
 gmpro.xin
 gmqka.cyou
 gmqpi.xin
+gms-dgm.info
 gmsboss.cfd
 gmsgg.cfd
 gmtle.cyou
@@ -16914,6 +16917,7 @@ gnutzm405.cfd
 gnvka.cyou
 gnvpi.cfd
 gnvte.cloud
+gnw-wk.info
 gnwjo.cfd
 gnwka.cloud
 gnwka.cyou
@@ -23665,7 +23669,6 @@ juaraid7.shop
 juaraid9.shop
 juavmn.online
 jubaida.cfd
-jubiliejausspecialiakcija.com
 jucdid660.vip
 juchangduanjuaichengren.cfd
 jucosingo.cfd
@@ -26037,6 +26040,7 @@ livemunity.icu
 livepartyinvite.icu
 liveslot168co.cfd
 livesnotnumbers.org
+liveviagra.org
 liveviagra.ru
 livialaguna.cfd
 livingaid2025.jp
@@ -26744,7 +26748,6 @@ ltsauga.info
 ltsb.ph
 ltsb.xyz
 ltsbimhl.shop
-ltsetbhome.com
 ltsmartld.info
 ltsmev.homes
 ltsodra.com
@@ -36343,7 +36346,6 @@ primexflow.com
 primexor.info
 primie.cfd
 primryinvernss.icu
-primusru.info
 printermatch.icu
 printworkjournal.cfd
 priorityexpresslogistic.com
@@ -42401,7 +42403,6 @@ sldfl.cfd
 slebilv.com
 slebneis.com
 slebnelt.com
-slebnew.com
 slebnimas.com
 sleekfog.cfd
 sleepsmore.com
@@ -42411,7 +42412,6 @@ slenstibens.com
 slenvubasa.com
 slernubist.com
 sletblions.com
-sletblom.com
 sletibnew.com
 sleubsam.com
 slevbims.com
