@@ -6030,6 +6030,7 @@ bdgams.lat
 bdgo33.lat
 bdgo77.lat
 bdgood.lat
+bdheisp.com
 bdhofpa.com
 bdilgh241.cfd
 bdj333.lat
@@ -13741,6 +13742,7 @@ eu-uid3.info
 eu.cc
 eu3594-quest.com
 euailabs.info
+euavpark.cfd
 eubada-24.xyz
 eubbhy642.cfd
 euchatbe.vip
@@ -32873,6 +32875,7 @@ ojdzoi944.cfd
 ojeoeuye.com
 ojhhuk.help
 ojiikcybflet.cfd
+ojsgedkue0.execute-api.us-east-1.amazonaws.com
 ojuhat.cfd
 ojuobo0z.icu
 ok06xf.cfd
