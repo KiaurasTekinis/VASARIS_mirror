@@ -5858,6 +5858,7 @@ bauda-lt.com
 bauda-lt.today
 bauda-pastaougus.digital
 bauda-portal.info
+bauda-roik.lt
 bauda-smartid.app
 bauda-vml.biz
 bauda-vml.digital
@@ -13669,6 +13670,7 @@ esvcpart.sbs
 esvcpart.skin
 esveiikata.ph
 esveikata-02-05.info
+esveikata-monitor.tech
 esveikata-prisijungti.com
 esveikata.com
 esveikata.icu
@@ -26828,6 +26830,7 @@ lt-business.sbs
 lt-bvs.info
 lt-byla-prisijungti.net
 lt-c.cfd
+lt-car.skin
 lt-connexion.com
 lt-d.cfd
 lt-delfinews-breaking.shop
@@ -37627,6 +37630,7 @@ qts74.cfd
 qtuberus.lol
 qtwpi.ink
 qtwxamrl.ink
+qtxceaqwri.execute-api.us-east-1.amazonaws.com
 qtxmpvlr.ink
 qtyhjj604.cfd
 quake3.cfd
@@ -38962,6 +38966,7 @@ rohanghimire.cfd
 rohanrana.cfd
 rohanregmi.cfd
 rohansharma.cfd
+roik-bauda.lt
 roik-kv2041909433.top
 roik-kv3028315.top
 roik-kv3028318.top
@@ -38983,6 +38988,7 @@ rokuki.cfd
 rokvmns.digital
 rolabol.cfd
 rolfson45.icu
+rolk.info
 rolkb.info
 rolkgelvora.info
 rolkvp.info
