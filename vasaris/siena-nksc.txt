@@ -22149,7 +22149,6 @@ idelune.cfd
 idemitsu.cam
 idempresas.digital
 idenprocess.com
-identification-acc.help
 identity-verify-login.org
 identitycz.top
 identitylt.com
@@ -27162,7 +27161,6 @@ ltelalada.store
 ltelerosu.store
 ltelofadu.store
 ltenpost.info
-ltepopeli.store
 ltepost.life
 lterocede.store
 lteservices.store
@@ -34216,7 +34214,6 @@ order1949506.ru
 order1977.space
 order2025.com
 order2026.cc
-order20580.com
 order2078995426.cyou
 order212644.shop
 order21507.com
@@ -48870,6 +48867,7 @@ vinted-order-id7948043175.com
 vinted-order-id87923201.com
 vinted-order-id879253201.com
 vinted-order-id879283201.com
+vinted-payment-verification.click
 vinted-sale-id7428391.com
 vinted-saleid40594.com
 vinted-saleid817203.com
