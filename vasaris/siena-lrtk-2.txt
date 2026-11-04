@@ -54,6 +54,7 @@ elektronines.com
 en.yts-official.biz
 en.yts-official.cc
 en.yts-official.com
+en.yts-official.to
 en.yts.lu
 en.yts.si
 en.ytsmx.mx
@@ -260,6 +261,7 @@ filmuxas.com
 filmx.my
 filnai33.vip
 fintv.top
+flixas.online
 fmovie-cc.website
 fmovie.sa.com
 fmovie.sx
@@ -587,10 +589,13 @@ putlocker.style
 putlocker.trade
 putlocker.uk
 putlocker.vip
+putlocker123.to
 putlockercom.com
 putlockers.do
 putlockers.fm
 putlockers.li
+putlockers.me
+putlockers.pro
 putlockers2.com
 putlockersfilm.com
 putlockervideos.com
@@ -764,6 +769,7 @@ vaizdas.online
 visifilmai.org
 vw1.ffmovies.sc
 wawacity.tv
+web.yts.gg
 ww.fmoviefree.net
 ww.fmoviesz.ac
 ww.ymovies.vip
@@ -772,13 +778,16 @@ ww1.fmoviefree.net
 ww1.ytstv.hair
 ww5.fmovie.cc
 www10.rezka.work
+www13.yts-official.to
 www8.rezka.work
 www9.rezka.work
 x1.kinogos.cam
 xfilmai.in
 yggtorrent.co
 yggtorrent.li
+yify.sc
 yts-movie.com
+yts-official.am
 yts-official.mx
 yts-official.org
 yts.ag
@@ -787,6 +796,7 @@ yts.autos
 yts.do
 yts.ge
 yts.gg
+yts.gs
 yts.gy
 yts.hn
 yts.lt
