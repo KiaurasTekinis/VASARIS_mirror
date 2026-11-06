@@ -52095,6 +52095,7 @@ ventizollbrasil.cfd
 ventlsol.cfd
 ventosol.cfd
 ventsol.cfd
+venture-startup.com
 ventureflow.info
 venturehive.info
 ventureloop.info
