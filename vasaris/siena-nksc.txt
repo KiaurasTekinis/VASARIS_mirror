@@ -49327,6 +49327,7 @@ sodra-lt.skin
 sodra-puslapis.click
 sodra-puslapis.com
 sodra-sarasas.click
+sodra-sistema.app
 sodrad.eu
 sodrailt.com
 sodralt.com
@@ -54589,6 +54590,7 @@ uubbow.lat
 uubkzt.asia
 uubnc.cfd
 uudistaa-spankki.com
+uuib.lat
 uuid1.vip
 uujhyg.help
 uujs13.cfd
