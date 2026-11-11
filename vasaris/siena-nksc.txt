@@ -456,6 +456,7 @@
 10auth-towbook-verify.store
 10auth-towbook-verify.xyz
 10auth-uhaul-verify.com
+10g6s9mzoh.execute-api.us-east-1.amazonaws.com
 10qx3a.asia
 10titx.asia
 11-04-2026.lat
@@ -659,7 +660,6 @@
 12-32.xyz
 12-8.digital
 12-x-wealth.com
-1200euro.eu
 123auto.cyou
 123blue.cyou
 123dic.sbs
@@ -17694,6 +17694,7 @@ eds-myvmlll.info
 eds-vld.online
 edssistema.online
 edu-clinic.sb
+edu-clinic.sbs
 eduardod.lat
 eduardojules.cfd
 educaencasacovid19.cl
@@ -20994,7 +20995,6 @@ ftsmbqhzgd.cfd
 fttbnq.asia
 ftu1bi.asia
 ftupe6.asia
-ftven-processing.com
 ftwosk939.cfd
 fty-appid1126.com
 fty-authid0826.com
@@ -29070,7 +29070,6 @@ informaclja-deklaraciija.digital
 informaclja-vm.digital
 information-acc.com
 informationhot.kr
-informations-pointlocker.com
 informative.cfd
 infos24.pro
 infosaujourdhui.info
@@ -31314,7 +31313,6 @@ juolrc.click
 jup-swap.xyz
 jup-verify.top
 jupag-verify.xyz
-jupi-webchain.com
 jupiter128.cyou
 jupitertogel.cyou
 jupvmns.digital
@@ -34406,6 +34404,7 @@ lietirenlinhaoxiangju.cfd
 lietneds.com
 lietuva-10-27.lat
 lietuva-draudimas.ph
+lietuva.digital
 lietuva.ee
 lietuva.hair
 lietuva.help
@@ -35585,6 +35584,7 @@ ltotinabu.store
 ltoxpvh.info
 ltp-bauda.info
 ltpark1.top
+ltpazymos.cfd
 ltplpojyu.shop
 ltpn.ink
 ltpo.aearamex.com
@@ -46273,6 +46273,7 @@ pazeidimai.info
 pazeidimaiunlpark.info
 pazeidlmaiunlpark.info
 pazyma.cfd
+pazyma.ink
 pazymos.cfd
 pazymos.ink
 pbargz.asia
@@ -47579,7 +47580,6 @@ pohonemas33.sbs
 poigi3.asia
 poii-prisjungimas.sbs
 poiicija.it
-poiicija.lat
 poiicija.sbs
 poiicija.si
 poiicijab.info
@@ -55489,6 +55489,7 @@ sinmid81.top
 sinonew.icu
 sins88.sbs
 sinyalal.com
+siosswiomvam.digital
 sip33id1.com
 sip77h.cfd
 sipshop.cfd
@@ -56303,7 +56304,6 @@ solokatmolokat.com
 solomonprintingpress.info
 solomonvale9158.cfd
 solongkings.info
-solrota.com
 solsticecables.cfd
 soltrying.cfd
 solu77.lat
@@ -60369,6 +60369,7 @@ tozm0f.asia
 tpa.lat
 tpark.cc
 tpasasteslntag.cc
+tpazymos.cfd
 tpgvpn.cfd
 tph.lat
 tpjqvw839.cfd
