@@ -17651,6 +17651,7 @@ e-paslaugos.info
 e-paspaogous.digital
 e-pasqaougus.digital
 e-pastaogus.digital
+e-pazyma.cfd
 e-po-prielga.info
 e-poii-kv.info
 e-poiibk.info
@@ -19254,7 +19255,6 @@ esvcpart.skin
 esveiikata.ph
 esveikata-02-05.info
 esveikata-monitor.tech
-esveikata-prisijungti.com
 esveikata.com
 esveikata.icu
 esveikata.it
@@ -44783,6 +44783,7 @@ openmeddai.info
 openmindsz9xn.info
 openmotion.info
 openmouthstembrown.com
+openosint.info
 openpdf.icu
 openscaling.info
 opensea.red
@@ -46898,6 +46899,7 @@ pazymael.cfd
 pazymaelt.cfd
 pazymainc.cfd
 pazymalt.cfd
+pazymar.cfd
 pazymejimai.info
 pazymejimas.info
 pazymos.cfd
@@ -63054,6 +63056,7 @@ uniparskn.top
 uniparsko.top
 uniparskp.com
 uniparskp.top
+uniparskq.top
 uniparsks.top
 uniparskv.top
 uniparskx.top
