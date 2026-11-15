@@ -19825,6 +19825,7 @@ esveikata-monitor.tech
 esveikata.com
 esveikata.icu
 esveikata.it
+esveikata.netlify.app
 esveikata.today
 esveikatalt.com
 esvekllata.sbs
@@ -57915,6 +57916,7 @@ sodra-puslapis.com
 sodra-sarasas.click
 sodra-sistema.app
 sodrad.eu
+sodraguide.netlify.app
 sodrailt.com
 sodrain.com
 sodrainfo.com
@@ -64865,6 +64867,7 @@ v3e0yr0j.cfd
 v3id8r7h.top
 v3qn9gs3.cfd
 v3shopping.info
+v3vzdgileg.execute-api.us-east-1.amazonaws.com
 v3wxfangka.lol
 v43spiderweb.icu
 v44.lat
@@ -71341,6 +71344,7 @@ ze4nmdceg4.icu
 zebra-arang.cfd
 zebrazec.digital
 zebrinallytr.icu
+zebunu8y7d.execute-api.us-east-1.amazonaws.com
 zecchiara.digital
 zecejeg.icu
 zedevyap.com
