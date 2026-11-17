@@ -52376,6 +52376,7 @@ pranasma.digital
 pranasma.online
 pranasmavm.digital
 pranesimai-ep.info
+pranesimai.info
 pranesimai.lat
 pranesimaib.com
 pranesimaie.ink
@@ -62309,6 +62310,7 @@ swedbank-lt-paslaugos.com
 swedbank-lt-politika.com
 swedbank-paslaugos-lt.com
 swedbank-paslaugos.com
+swedbank.every-pay.eu
 swedbank.lt-apsauga-e.net
 swedbank.lt-kortele.net
 swedbanklt.hostd.my.id
