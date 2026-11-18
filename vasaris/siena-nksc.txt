@@ -52933,7 +52933,6 @@ ozxhal.asia
 ozxqt68f.cfd
 ozydu.help
 p-5183853.xyz
-p-531754.top
 p-531754.xyz
 p-612317.top
 p-baudos02-10.info
@@ -53671,6 +53670,7 @@ pazyma-el.digital
 pazyma.cfd
 pazyma.digital
 pazyma.ink
+pazyma.my
 pazymadok.cfd
 pazymael.cfd
 pazymaelt.cfd
@@ -79252,6 +79252,7 @@ zecojez.icu
 zecss83g.cfd
 zedevyap.com
 zedianjing.icu
+zedsczc.ink
 zeed456.cfd
 zeed66.cfd
 zeed888.info
