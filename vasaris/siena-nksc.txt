@@ -21222,7 +21222,6 @@ dpd-lt.lesgo.shop
 dpd-lt.smweb.store
 dpd-lt.tangkasnet.shop
 dpd-lt.ttnet.store
-dpd-myinfo.icu
 dpd-pl.lol
 dpd-soz.top
 dpd.hair
@@ -56512,6 +56511,7 @@ prieigavs.info
 prieige-p-byioms.info
 prieigos-paysera.net
 prielga.my
+prielgalt.my
 prielgaunlpark.info
 priemoka.cfd
 prihlaseni-csob-cz.top
