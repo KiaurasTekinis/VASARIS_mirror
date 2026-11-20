@@ -12629,6 +12629,7 @@ baudos10-02.info
 baudos10-05.info
 baudos10-06.info
 baudos11-06.info
+baudos11-20.info
 baudosepoli06-15.info
 baudoskvitas.info
 baudosprodutos.com
@@ -54932,6 +54933,7 @@ pmwdigital.lat
 pmxbrr.cfd
 pmxqde.cfd
 pmzxa.xin
+pn3e71agu3.execute-api.us-east-1.amazonaws.com
 pn3ivp0p.cfd
 pn520.com
 pn6gyc.asia
@@ -55258,6 +55260,7 @@ portalas-vairuotojams.info
 portalas.business
 portalas.info
 portalas.it
+portalas.lat
 portalasc.site
 portalasepaslg.info
 portalaska.xyz
@@ -64063,6 +64066,7 @@ sodra-puslapis.click
 sodra-puslapis.com
 sodra-sarasas.click
 sodra-sistema.app
+sodra.icu
 sodrad.eu
 sodraguide.netlify.app
 sodrailt.com
@@ -66808,6 +66812,8 @@ teid30kxmg.cc
 teiepass.cfd
 teisenosepoli.info
 teises.info
+teisiuaktas-lt.info
+teisiuaktas.cfd
 teisiuaktas.info
 teismai.e-lt-paslaugos.net
 teismai.it-e-service.net
@@ -72791,6 +72797,7 @@ vilniusmultiservices.com
 vilniustechvantagecore.org
 vilniusvpk.com
 vilt.lt
+viltisskridin.com
 vilujodi.cfd
 vilunov.icu
 vimbpowderzm.cfd
@@ -75999,6 +76006,7 @@ xbmosolgame.cfd
 xbmuad.asia
 xbnqqh.cfd
 xboxmianfeigaoqingyingshiziyuandaquan.xyz
+xbq69c8vc3.execute-api.us-east-1.amazonaws.com
 xbvj7sa5.cfd
 xbwhpra.cloud
 xbxy2.cfd
