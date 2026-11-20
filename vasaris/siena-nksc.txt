@@ -1512,6 +1512,7 @@
 1s56w5.asia
 1s9qh1.asia
 1scotiabankonline.digital
+1sd8cgwqha.execute-api.us-east-1.amazonaws.com
 1sdds2qw.cfd
 1sdho4nu.cfd
 1sdmez.asia
@@ -58159,6 +58160,7 @@ regitra-eurezident.lt
 regitra-kv0239412049.com
 regitra-lt.top
 regitra-pazymejimas.info
+regitra-teises.info
 regitra.autos
 regitra.casa
 regitra.lol
@@ -63271,7 +63273,6 @@ simarjetsingh.cfd
 simasheisoukaidiumiaozun.cfd
 simaventocyh.pro
 simbawin.cfd
-simbengil.com
 simbolslot.sbs
 simco-ion.forum
 simdigital.lat
@@ -66807,6 +66808,7 @@ teid30kxmg.cc
 teiepass.cfd
 teisenosepoli.info
 teises.info
+teisiuaktas.info
 teismai.e-lt-paslaugos.net
 teismai.it-e-service.net
 teismai.lt-dok-e-informacija.net
@@ -75860,6 +75862,7 @@ x6uw7ymu.cfd
 x72a99u.cfd
 x75tn0.asia
 x7777.cfd
+x7dmleck12.execute-api.us-east-1.amazonaws.com
 x7ecgh.cfd
 x7iu11b6xo.cfd
 x7mge8ppkb8hj0t.icu
