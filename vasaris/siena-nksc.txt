@@ -639,7 +639,6 @@
 0x3t63.asia
 0x74id50h.cn
 0xa98x7e.cfd
-0xcc01.de
 0xe3fj7.cfd
 0xe48d2d533640503c1cc74673dc688385363de07c.cfd
 0xfluid.icu
@@ -5815,6 +5814,7 @@
 71c8fr1.cfd
 71gl7soe.cfd
 71h5ljg78y.cfd
+71iyaraw1g.execute-api.us-east-1.amazonaws.com
 71kv47.asia
 71nfu20t.cfd
 71oqlk2y84.cfd
@@ -8900,6 +8900,7 @@ adfixy.com
 adform.cfd
 adfsew.lat
 adfwfvcx.ink
+adgsawc.lat
 adgw221ssa.lat
 adgwvma.lat
 adgwwq23.lat
@@ -11222,6 +11223,7 @@ asgvwzzaa.lat
 asgw.lat
 asgw2.lat
 asgw23.lat
+asgwc.online
 asgwc3.lat
 asgwcsfv.digital
 asgwczac.online
@@ -20041,6 +20043,7 @@ dg8efq3.cfd
 dg9999.lat
 dga4cdyaa.lat
 dga4cdyac.lat
+dgasgwx.help
 dgazxp.buzz
 dgb222.icu
 dgb2ucdf.cfd
@@ -21303,6 +21306,7 @@ dsfdgvzd.cfd
 dsg2un.cfd
 dsgfd.icu
 dsgfd1.icu
+dsgqwcass.lat
 dsgut.lat
 dsgwsa3sa.lat
 dsgyenw.lat
@@ -21781,6 +21785,7 @@ e-smae.xyz
 e-smartlt.xyz
 e-sodra.business
 e-sveikat.a9184002.icu
+e-sveikata.info
 e-tixjp.icu
 e-trade.sbs
 e-transferpayment.ph
@@ -43568,7 +43573,6 @@ maximadavana.site
 maximadovans.store
 maximadovanukart1000.store
 maximakampaania.site
-maximakampanija.com
 maximakampanija1000.store
 maximakinke10kart.store
 maximakinke4kart-9kc.store
@@ -59628,6 +59632,7 @@ saffronclouddiary.cfd
 saffronloop.cfd
 saffronparlor.lat
 saffronuqipy.pro
+safwcasc.lat
 safwool.cfd
 sag2sz.ink
 sagaewc.lat
@@ -61826,10 +61831,8 @@ semifaineso.cfd
 semitoto.sbs
 semmetaisone.cfd
 semmett18.cfd
-semnerbvs.com
 semobajtiuac.com
 semtibnes.com
-semtuiskab.com
 semunieb.com
 semutreils.com
 semutwin.cfd
@@ -62022,7 +62025,6 @@ servicesml.com
 servicewallettrst.net
 serviciums.com
 servicoscartoriais.site
-servidtask.com
 servifylab.com
 servilo.cfd
 servionel.com
@@ -62367,6 +62369,7 @@ sgwnvvv.lat
 sgwsa.ink
 sgwvz2.ink
 sgwxfangka.lol
+sgwxzcv.digital
 sgzay9pv.cfd
 sh1k7s.cfd
 sh44ezus.cfd
@@ -64864,6 +64867,7 @@ svarog.cfd
 svasld.shop
 svbeslid.com
 svc-sync.com
+svcvcsaasc.lat
 svcza.com
 sveasarms.com
 svebihs.com
@@ -73582,6 +73586,7 @@ vztke.cfd
 vztqbn.xin
 vztwbn.xin
 vzxmt.cloud
+vzxxssf.lat
 vzy5f6r0id9nsuo.icu
 w00.lat
 w000.lat
@@ -74825,6 +74830,7 @@ wqbra.cfd
 wqbtzle.cloud
 wqejsaiwjpokmn.cfd
 wqetys.lat
+wqezczcs.help
 wqgakw.cc
 wqhgyfo.cyou
 wqhra.ink
@@ -76484,6 +76490,7 @@ xvw1ld.cfd
 xvwxi7fc.cfd
 xvxmng.top
 xvzqa.ink
+xvzxvsc.help
 xw2-muid8z.cyou
 xw3h2l7.cfd
 xw4u4q.cfd
@@ -79258,6 +79265,7 @@ zxdnqf8b.cfd
 zxdr45.icu
 zxf7x6.asia
 zxfooocy.cfd
+zxfwssqafa.lat
 zxgfrb.cc
 zxglglfsfa.online
 zxgy8oog.cfd
