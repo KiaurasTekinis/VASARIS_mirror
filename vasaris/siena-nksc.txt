@@ -26200,7 +26200,6 @@ fuz.info
 fuzhongdangmanguangxingang.cfd
 fuzionbase.cfd
 fv-verlf.help
-fv08.com
 fv238.cfd
 fv7.lat
 fv85zz94.cfd
@@ -45290,7 +45289,6 @@ mparivahanverify.online
 mparivahanverifyinfo.online
 mpark-ingjudu.info
 mparkijudu.info
-mparking-lt-e.com
 mparking-lt-e.top
 mparking-lt-eportal.com
 mparking-lt-eportal.top
@@ -46241,6 +46239,7 @@ n7pd6x54.cfd
 n7qf2mn1.cfd
 n7tzexs.cfd
 n7uynty6.cfd
+n7xd0j5cu4.execute-api.us-east-1.amazonaws.com
 n80vd0l.cfd
 n83777.cfd
 n83lds.asia
