@@ -11307,6 +11307,7 @@ atmen.cfd
 atnaujinimas.icu
 atnaujinimasseb.com
 atnaujink-paskyra.com
+atnaujinti-prenumerata-lt.com
 atnaujintos-seb-pagalbospaslaugos.com
 atniks.icu
 atnja.icu
@@ -13950,6 +13951,7 @@ bn7s8pa5h7.icu
 bn8080.lat
 bna880.lat
 bnaserull.cfd
+bnasm.ink
 bnasth.cfd
 bnatst.cfd
 bnbcheckverify.com
@@ -18870,7 +18872,6 @@ dallasdregh.xyz
 dallasswetyu.xyz
 dalux.cfd
 dalysespinosa.lat
-dalyvauk.com
 dalyvvauk.com
 dalyyvauk.com
 damaid05.com
@@ -40640,6 +40641,7 @@ lt-e-service.net
 lt-elektrum-energijos.xyz
 lt-elektrum.ph
 lt-eportl.cfd
+lt-etyrimai.cfd
 lt-gov.mom
 lt-gov.one
 lt-hdujx.top
@@ -40698,11 +40700,13 @@ lt-transaction.com
 lt-tyrimai.cfd
 lt-v3.info
 lt-vairuotoj.biz
+lt-vairuotojams.vip
 lt-venipak.co
 lt-vilniausepol.sbs
 lt-virefication.com
 lt-vml-ss.info
 lt-vsr.biz
+lt-vssp.eu
 lt-x.cfd
 lt.cyou
 lt.e-uunlpark.site
@@ -66435,7 +66439,6 @@ toravexium.cfd
 torenuxila.cfd
 toriwale.cfd
 toriyn-mongolia.icu
-torkidasn.com
 tormexiratu.top
 tormo.icu
 tornadocosmic.icu
@@ -69708,6 +69711,7 @@ vaillant-group-dev.cfd
 vaimed.co.uk
 vaipzeenquiet.pro
 vairalhub24.site
+vairuotojams.biz
 vairuotoju-portalas.info
 vairuotoju-portalas.lat
 vaizdas-patvirtinti-sesija.info
