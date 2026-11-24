@@ -23039,6 +23039,7 @@ eqzplxn.cloud
 er222.lat
 er28rpi.cfd
 er2tss.cfd
+er36jgscx4.execute-api.us-east-1.amazonaws.com
 er3lwiwn.cfd
 er42e2k9ti.cfd
 er7c5vdr.cfd
@@ -40922,6 +40923,7 @@ lt-judu-paslauga.com
 lt-kortele.net
 lt-l.cfd
 lt-laiska.ph
+lt-lt.cfd
 lt-m-parking-e.com
 lt-m-parking-eservice.com
 lt-m-parking-savitarna.com
