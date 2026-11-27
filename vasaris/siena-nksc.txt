@@ -23256,7 +23256,10 @@ esveikata.it
 esveikata.lat
 esveikata.netlify.app
 esveikata.today
+esveikata.vip
 esveikatalt.com
+esveikatapriminimas.vip
+esveikatasvizitas.vip
 esvekllata.sbs
 esvelkalta.sbs
 esvelkata.info
@@ -39831,6 +39834,7 @@ liet7jg.cfd
 lietneds.com
 lietuva-10-27.lat
 lietuva-draudimas.ph
+lietuva.company
 lietuva.dev
 lietuva.digital
 lietuva.ee
@@ -71681,6 +71685,7 @@ vividposto.cfd
 vivototoslot.com
 viyx42n8.cfd
 viz511r5iu.cfd
+vizitasesveikatos.vip
 vizitinekortele.lt
 vizitka.icu
 vizufaucet.cfd
