@@ -42936,6 +42936,7 @@ mano-profilis.digital
 mano-profilis.icu
 mano-profilis.info
 mano-profills.info
+mano-tyrimai.info
 mano-vmi.digital
 mano-vmi.info
 mano-vml.app
@@ -55812,6 +55813,7 @@ qc3xsk.cfd
 qc8y282c.cfd
 qce3i07r.cfd
 qcefmwuf.cfd
+qcjrvoz7ve.execute-api.us-east-1.amazonaws.com
 qcjtmr.asia
 qckfjyc.cfd
 qcm0r2bq.cfd
